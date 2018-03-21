@@ -9,11 +9,12 @@ Bringing together methods, techniques, and practices, the handbook aims at suppo
 ## Roadmap
 
 1. Writing the OSTH (12.-16.02.2018)
-2. Pre-release available on [Google docs](https://tinyurl.com/osth-2018) for comments and suggestions until 4th of March 2018
+2. Pre-release available on for comments and suggestions until 4th of March 2018
 3. Discussing and including suggestions by community (05.-20.03.2018)
 4. Moving the OSTH to github (21.03.2018)
 5. Finalizing everything for the version 1.0 (22.03.-01.04.2018)
 6. Release of OSTH 1.0 (02.04.2018)
+7. Living handbook open for contributions
 
 ## Table of Contents
 
