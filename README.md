@@ -74,5 +74,13 @@ Helene Brinken (SUB Göttingen, Germany)
 
 Lambert Heller (TIB, Hannover, Germany)
 
-Gwen Franck (EIFL)
+
+## Thank you to
+Gwen Franck (EIFL, Belgium) for covering social media during the book sprint & keeping us motivated with energizers
+
+Patrick Hochstenbach (University of Gent, Belgium) for drawing the awesome cartoons and images
+
+Vasso Kalaitzi (LIBER, Netherlands) for recording the really nice videos 
+
+Matteo Cancellieri (Open University, UK) for supporting us with all technical issues and creating the gitbook
 
