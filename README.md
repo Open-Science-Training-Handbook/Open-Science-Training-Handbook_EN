@@ -19,17 +19,11 @@ Bringing together methods, techniques, and practices, the handbook aims at suppo
 ## Table of Contents
 
 1. [Introduction](01. Introduction.md) 
-
 2. [Open Science Basics](02. Open Science Basics/02. Open Science Basics.md)
-
 3. [On Learning and Training](03. On Learning and Training.md)
-
 4. [Organizational Aspects](04. Organizational Aspects.md)
-
 5. [Examples and Practical Guidance](05. Examples And Practical Guidance.md)
-
 6. [Glossary](06. Glossary.md)
-
 7. [About the Authors & Facilitators](07. About the authors and facilitators.md)
 
 ## Disclaimer
@@ -44,47 +38,47 @@ We have tried to acknowledge all our sources. If for some reason we have forgott
 
 ## List of Authors
 
-Sonja Bezjak (University of Ljubljana, Slovenia)
+* Sonja Bezjak (University of Ljubljana, Slovenia)
 
-April Clyburne-Sherin (Code Ocean, USA)
+* April Clyburne-Sherin (Code Ocean, USA)
 
-Philipp Conzett (UiT The Arctic University of Norway, Norway)
+* Philipp Conzett (UiT The Arctic University of Norway, Norway)
 
-Pedro L. Fernandes (Instituto Gulbenkian de Ciência, Portugal)
+* Pedro L. Fernandes (Instituto Gulbenkian de Ciência, Portugal)
 
-Edit Görögh (University of Göttingen, Germany)
+* Edit Görögh (University of Göttingen, Germany)
 
-Kerstin Helbig (Humboldt-Universität zu Berlin, Germany)
+* Kerstin Helbig (Humboldt-Universität zu Berlin, Germany)
 
-Bianca Kramer (Utrecht University, Netherlands)
+* Bianca Kramer (Utrecht University, Netherlands)
 
-Ignasi Labastida (Universitat de Barcelona, Catalonia/Spain)
+* Ignasi Labastida (Universitat de Barcelona, Catalonia/Spain)
 
-Kyle Niemeyer (Oregon State University, USA)
+* Kyle Niemeyer (Oregon State University, USA)
 
-Fotis Psomopoulos (Center for Research and Technology Hellas, Greece)
+* Fotis Psomopoulos (Center for Research and Technology Hellas, Greece)
 
-Tony Ross-Hellauer (Know-Center GmbH, Austria)
+* Tony Ross-Hellauer (Know-Center GmbH, Austria)
 
-René Schneider (Geneva School of Business Administration, Switzerland)
+* René Schneider (Geneva School of Business Administration, Switzerland)
 
-Jon Tennant (Open Science MOOC, Germany)
+* Jon Tennant (Open Science MOOC, Germany)
 
-Ellen Verbakel (4TU.Centre for Research Data, Netherlands)
+* Ellen Verbakel (4TU.Centre for Research Data, Netherlands)
 
 ## Book Sprint Facilitators
 
-Helene Brinken (SUB Göttingen, Germany)
+* Helene Brinken (SUB Göttingen, Germany)
 
-Lambert Heller (TIB, Hannover, Germany)
+* Lambert Heller (TIB, Hannover, Germany)
 
 
 ## Thank you to
-Gwen Franck (EIFL, Belgium) for covering social media during the book sprint & keeping us motivated with energizers
+* Gwen Franck (EIFL, Belgium) for covering social media during the book sprint & keeping us motivated with energizers
 
-Patrick Hochstenbach (University of Gent, Belgium) for drawing the awesome cartoons and images
+* Patrick Hochstenbach (University of Gent, Belgium) for drawing the awesome cartoons and images
 
-Vasso Kalaitzi (LIBER, Netherlands) for recording the really nice videos 
+* Vasso Kalaitzi (LIBER, Netherlands) for recording the really nice videos 
 
-Matteo Cancellieri (Open University, UK) for supporting us with all technical issues and creating the gitbook
+* Matteo Cancellieri (Open University, UK) for supporting us with all technical issues and creating the gitbook
 
