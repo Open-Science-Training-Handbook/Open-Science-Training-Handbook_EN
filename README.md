@@ -1,10 +1,4 @@
-Open Science Training Handbook
-
-This pre-release of the [Open Science Training Handbook](https://www.fosteropenscience.eu/event/book-sprint-open-science-training-handbook) will be available for comments and suggestions here until 4th of March 2018. Afterwards it will move to GitHub.
-
-Friendly URL: [https://tinyurl.com/osth-2018](https://tinyurl.com/osth-2018)
-
-## Mission Statement
+## Open Science Training Handbook - Mission Statement
 
 A group of fourteen authors came together in February 2018 at the TIB (Technische Informations Bibliothek; German National Library of Science and Technology) in Hannover to create an open, living handbook on Open Science training. High-quality trainings are fundamental when aiming at a cultural change towards the implementation of Open Science principles. Teaching resources provide great support for Open Science instructors and trainers. The Open Science training handbook will be a key resource and a first step towards developing Open Access and Open Science curricula and andragogies. Supporting and connecting an emerging Open Science community that wishes to pass on their knowledge as multipliers, the handbook will enrich training activities and unlock the community’s full potential.
 
@@ -12,21 +6,30 @@ Sharing their experience and skills of imparting Open Science principles, the au
 
 Bringing together methods, techniques, and practices, the handbook aims at supporting educators of Open Science. The result is intended as a helpful guide on how to forward knowledge on Open Science principles to our networks, institutions, colleagues, and students. It will instruct and inspire trainers how to create high quality and engaging trainings. Addressing challenges and giving solutions, it will strengthen the community of Open Science trainers who are educating, informing, and inspiring themselves.
 
-## Table of Contents for the Handbook
+## Roadmap
 
-1. [Introduction](https://docs.google.com/document/d/1Fp_8uB5L4mSJeWJ5YdPEp41vtdApKFLnXbohdLVDBQc/edit)
+1. Writing the OSTH (12.-16.02.2018)
+2. Pre-release available on [Google docs] (https://tinyurl.com/osth-2018) for comments and suggestions until 4th of March 2018
+3. Discussing and including suggestions by community (05.-20.03.2018)
+4. Moving the OSTH to github (21.03.2018)
+5. Finalizing everything for the version 1.0 (22.03.-01.04.2018)
+6. Release of OSTH 1.0 (02.04.2018)
 
-2. [On Learning and Training](https://docs.google.com/document/d/14KoltadCwFLKexLgo0m7ULMrRBTo4GeSad2z9DX2ql0/edit)
+## Table of Contents
 
-3. [Organizational Aspects](https://docs.google.com/document/d/14COBhyFzL934Cs7waAohmLKm977dq-jGnnRHHD4mUjg/edit)
+1. [Introduction](01. Introduction.md)
 
-4. [Open Science Basics ](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit)
+2. [Open Science Basics ](02. Open Science Basics/02. Open Science Basics.md)
 
-5. [Examples and Practical Guidance](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit)
+3. [On Learning and Training](03. On Learning and Training.md)
 
-6. [Glossary](https://docs.google.com/document/d/1qN1FzRD7AR8wEZ7oHC9RDXfdpVrxIy_1F0hAJwM6MrY/edit)
+4. [Organizational Aspects](04. Organizational Aspects.md)
 
-7. [About the Authors & Facilitators](https://docs.google.com/document/d/1MHJF5ADLpDaMZKL_BG-Neq-YPm9vu_iPnIBgONK8_ko/edit#heading=h.3r8v5d8zt2kv)
+5. [Examples and Practical Guidance](05. Examples And Practical Guidance.md)
+
+6. [Glossary](06. Glossary.md)
+
+7. [About the Authors & Facilitators](07. About the authors and facilitators.md)
 
 ## Disclaimer
 
