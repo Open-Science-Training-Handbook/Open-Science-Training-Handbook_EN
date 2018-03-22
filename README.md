@@ -1,4 +1,6 @@
-## Open Science Training Handbook - Mission Statement
+## ![](/Images/Icons/planning_design.png)
+
+## The Open Science Training Handbook
 
 A group of fourteen authors came together in February 2018 at the TIB \(Technische Informations Bibliothek; German National Library of Science and Technology\) in Hannover to create an open, living handbook on Open Science training. High-quality trainings are fundamental when aiming at a cultural change towards the implementation of Open Science principles. Teaching resources provide great support for Open Science instructors and trainers. The Open Science training handbook will be a key resource and a first step towards developing Open Access and Open Science curricula and andragogies. Supporting and connecting an emerging Open Science community that wishes to pass on their knowledge as multipliers, the handbook will enrich training activities and unlock the community’s full potential.
 
@@ -35,6 +37,8 @@ This is a pre-release, non-final version that we have opened up to public commen
 The Open Science Training Handbook is an Open Educational Resource, and will therefore be made available under [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). You do not have to ask our permission to re-use and copy information from this handbook. Take note that some of the materials referenced in this book might be copyright protected—if so, this will be indicated in the text. Please consider citing the handbook when using the content.
 
 We have tried to acknowledge all our sources. If for some reason we have forgotten to provide you with proper credits, it has not been done with malicious intent. Feel free to contact us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) for any corrections.
+
+## ![](/Images/Icons/research_group.png)
 
 ## List of Authors
 
