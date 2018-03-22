@@ -72,6 +72,8 @@ We have tried to acknowledge all our sources. If for some reason we have forgott
 
 * Lambert Heller \(TIB, Hannover, Germany\)
 
+![](/Images/Icons/heart.png)
+
 ## Thank you to
 
 * Gwen Franck \(EIFL, Belgium\) for covering social media during the book sprint & keeping us motivated with energizers
