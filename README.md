@@ -8,6 +8,8 @@ Sharing their experience and skills of imparting Open Science principles, the au
 
 Bringing together methods, techniques, and practices, the handbook aims at supporting educators of Open Science. The result is intended as a helpful guide on how to forward knowledge on Open Science principles to our networks, institutions, colleagues, and students. It will instruct and inspire trainers how to create high quality and engaging trainings. Addressing challenges and giving solutions, it will strengthen the community of Open Science trainers who are educating, informing, and inspiring themselves.
 
+![](/Images/Icons/finish.png)
+
 ## Roadmap
 
 1. Writing the OSTH \(12.-16.02.2018\)
@@ -30,7 +32,7 @@ Bringing together methods, techniques, and practices, the handbook aims at suppo
 
 ## Disclaimer
 
-This is a pre-release, non-final version that we have opened up to public commenting for a fixed period until 4th March 2018. Please note that this means some sections are presently incomplete or require further editing. We welcome comments and feedback from everyone, irrespective of their expertise or background. If you do comment, please leave your real name for identification purposes. After this, we will integrate all suggested comments as appropriate, and create a finalised version. The full content will be migrated to GitHub, and will also be hosted on the [FOSTER](https://www.fosteropenscience.eu/) website.
+This is a pre-release, please note that this means some sections are presently incomplete or require further editing. We welcome comments and feedback from everyone, irrespective of their expertise or background. If you do comment, please leave your real name for identification purposes. After this, we will integrate all suggested comments as appropriate, and create a finalised version.
 
 ## Copyright statement and contact information
 
