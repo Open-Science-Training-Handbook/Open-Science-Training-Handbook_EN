@@ -18,13 +18,13 @@ Bringing together methods, techniques, and practices, the handbook aims at suppo
 
 ## Table of Contents
 
-1. [Introduction](01. Introduction.md) 
-2. [Open Science Basics](02. Open Science Basics/02. Open Science Basics.md)
-3. [On Learning and Training](03. On Learning and Training.md)
-4. [Organizational Aspects](04. Organizational Aspects.md)
-5. [Examples and Practical Guidance](05. Examples And Practical Guidance.md)
-6. [Glossary](06. Glossary.md)
-7. [About the Authors & Facilitators](07. About the authors and facilitators.md)
+1. [Introduction ](/01. Introduction.md)
+2. [Open Science Basics](/02. Open Science Basics/02. Open Science Basics.md)
+3. [On Learning and Training](/03. On Learning and Training.md)
+4. [Organizational Aspects](/04. Organizational Aspects.md)
+5. [Examples and Practical Guidance](/05. Examples And Practical Guidance.md)
+6. [Glossary](/06. Glossary.md)
+7. [About the Authors & Facilitators](/07. About the authors and facilitators.md)
 
 ## Disclaimer
 
