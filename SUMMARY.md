@@ -18,5 +18,5 @@
 * [Organizational Aspects](04. Organizational Aspects.md)
 * [Examples and Practical Guidance](05. Examples And Practical Guidance.md)
 * [Glossary](06. Glossary.md)
-* [References](08. References.md)
-* [About the Authors & Facilitators](07. About the authors and facilitators.md)
+* [References](07. References.md)
+* [About the Authors & Facilitators](08. About the authors and facilitators.md)
