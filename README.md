@@ -13,7 +13,7 @@ Bringing together methods, techniques, and practices, the handbook aims at suppo
 ## Roadmap
 
 1. Writing the OSTH \(12.-16.02.2018\)
-2. Pre-release available on for comments and suggestions until 4th of March 2018
+2. Pre-release available for comments and suggestions until 4th of March 2018
 3. Discussing and including suggestions by community \(05.-20.03.2018\)
 4. Moving the OSTH to github \(21.03.2018\)
 5. Finalizing everything for the version 1.0 \(22.03.-01.04.2018\)
@@ -22,14 +22,14 @@ Bringing together methods, techniques, and practices, the handbook aims at suppo
 
 ## Table of Contents
 
-1. [Introduction](/01.%20Introduction.md)
-2. [Open Science Basics](/02.%20Open%20Science%20Basics/02.%20Open%20Science%20Basics.md)
-3. [On Learning and Training](/03.%20On%20Learning%20and%20Training.md)
-4. [Organizational Aspects](/04.%20Organizational%20Aspects.md)
-5. [Examples and Practical Guidance](/05.%20Examples%20And%20Practical%20Guidance.md)
-6. [Glossary](/06.%20Glossary.md)
-7. [References](/06.%20References.md)
-8. [About the Authors & Facilitators](/08.%20About%20the%20authors%20and%20facilitators.md)
+1. [Introduction](/01. Introduction.md)
+2. [Open Science Basics](/02. Open Science Basics/02. Open Science Basics.md)
+3. [On Learning and Training](/03. On Learning and Training.md)
+4. [Organizational Aspects](/04. Organizational Aspects.md)
+5. [Examples and Practical Guidance](/05. Examples And Practical Guidance.md)
+6. [Glossary](/06. Glossary.md)
+7. [References](/06. References.md)
+8. [About the Authors & Facilitators](/08. About the authors and facilitators.md)
 
 ## Disclaimer
 
