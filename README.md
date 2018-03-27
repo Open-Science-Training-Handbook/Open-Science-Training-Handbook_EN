@@ -1,5 +1,4 @@
 ## <img src="/Images/Icons/planning_design.png" width="150" height="150" />
-
 ## The Open Science Training Handbook
 
 A group of fourteen authors came together in February 2018 at the TIB \(Technische Informations Bibliothek; German National Library of Science and Technology\) in Hannover to create an open, living handbook on Open Science training. High-quality trainings are fundamental when aiming at a cultural change towards the implementation of Open Science principles. Teaching resources provide great support for Open Science instructors and trainers. The Open Science training handbook will be a key resource and a first step towards developing Open Access and Open Science curricula and andragogies. Supporting and connecting an emerging Open Science community that wishes to pass on their knowledge as multipliers, the handbook will enrich training activities and unlock the community’s full potential.
@@ -9,7 +8,6 @@ Sharing their experience and skills of imparting Open Science principles, the au
 Bringing together methods, techniques, and practices, the handbook aims at supporting educators of Open Science. The result is intended as a helpful guide on how to forward knowledge on Open Science principles to our networks, institutions, colleagues, and students. It will instruct and inspire trainers how to create high quality and engaging trainings. Addressing challenges and giving solutions, it will strengthen the community of Open Science trainers who are educating, informing, and inspiring themselves.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-
 ## Roadmap
 
 1. Writing the OSTH \(12.-16.02.2018\)
@@ -42,7 +40,6 @@ The Open Science Training Handbook is an Open Educational Resource, and will the
 We have tried to acknowledge all our sources. If for some reason we have forgotten to provide you with proper credits, it has not been done with malicious intent. Feel free to contact us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) for any corrections.
 
 ## <img src="/Images/Icons/research_group.png" width="150" height="150" />
-
 ## List of Authors
 
 * Sonja Bezjak \(University of Ljubljana, Slovenia\)
