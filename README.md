@@ -1,4 +1,4 @@
-## ![](/Images/Icons/planning_design.png)
+## <img src="/Images/Icons/planning_design.png" width="150" height="150" />
 
 ## The Open Science Training Handbook
 
@@ -8,7 +8,7 @@ Sharing their experience and skills of imparting Open Science principles, the au
 
 Bringing together methods, techniques, and practices, the handbook aims at supporting educators of Open Science. The result is intended as a helpful guide on how to forward knowledge on Open Science principles to our networks, institutions, colleagues, and students. It will instruct and inspire trainers how to create high quality and engaging trainings. Addressing challenges and giving solutions, it will strengthen the community of Open Science trainers who are educating, informing, and inspiring themselves.
 
-![](/Images/Icons/finish.png)
+## <img src="/Images/Icons/finish.png" width="150" height="150" />
 
 ## Roadmap
 
@@ -17,7 +17,7 @@ Bringing together methods, techniques, and practices, the handbook aims at suppo
 3. Discussing and including suggestions by community \(05.-20.03.2018\)
 4. Moving the OSTH to github \(21.03.2018\)
 5. Finalizing everything for the version 1.0 \(22.03.-01.04.2018\)
-6. Release of OSTH 1.0 \(02.04.2018\)
+6. Release of OSTH 1.0 \(04.04.2018\)
 7. Living handbook open for contributions
 
 ## Table of Contents
@@ -41,7 +41,7 @@ The Open Science Training Handbook is an Open Educational Resource, and will the
 
 We have tried to acknowledge all our sources. If for some reason we have forgotten to provide you with proper credits, it has not been done with malicious intent. Feel free to contact us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) for any corrections.
 
-## ![](/Images/Icons/research_group.png)
+## <img src="/Images/Icons/research_group.png" width="150" height="150" />
 
 ## List of Authors
 
@@ -79,7 +79,7 @@ We have tried to acknowledge all our sources. If for some reason we have forgott
 
 * Lambert Heller \(TIB, Hannover, Germany\)
 
-![](/Images/Icons/heart.png)
+## <img src="/Images/Icons/heart.png" width="150" height="150" />
 
 ## Thank you to
 
