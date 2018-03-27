@@ -13,7 +13,6 @@
 	* [Open Peer Review, Metrics and Evaluation](02. Open Science Basics/02.08 Open Peer Review Metrics and Evaluation.md)
 	* [Open Science Policies](02. Open Science Basics/02.09 Open Science Policies.md)
 	* [Citizen Science](02. Open Science Basics/02.10 Citizen Science.md)
-	* [Open Educational Resources](02. Open Science Basics/02.11 Open Educational Resources.md)
 	* [Open Advocacy](02. Open Science Basics/02.12 Open Advocacy.md)
 * [On Learning and Training](03. On Learning and Training.md)
 * [Organizational Aspects](04. Organizational Aspects.md)
