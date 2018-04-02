@@ -88,5 +88,7 @@ We have tried to acknowledge all our sources. If for some reason we have forgott
 
 * Matteo Cancellieri \(Open University, UK\) for supporting us with all technical issues and creating the gitbook
 
+* Simon Worthington \(TIB, Hannover, Germany\) for providing advice with maintaining and converting bibliographic metadata 
+
 
 
