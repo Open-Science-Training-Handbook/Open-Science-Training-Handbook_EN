@@ -14,7 +14,7 @@
 	* [Open Science Policies](02OpenScienceBasics/09OpenSciencePolicies.md)
 	* [Citizen Science](02OpenScienceBasics/10CitizenScience.md)
 	* [Open Educational Resources](02OpenScienceBasics/11OpenEducationalResources)
-	* [Open Advocacy](02OpenScienceBasics/02.12 Open Advocacy.md)
+	* [Open Advocacy](02OpenScienceBasics/12OpenAdvocacy.md)
 * [On Learning and Training](03OnLearningAndTraining.md)
 * [Organizational Aspects](04OrganizationalAspects/README.md)
 * [Examples and Practical Guidance](05ExamplesAndPracticalGuidance.md)
