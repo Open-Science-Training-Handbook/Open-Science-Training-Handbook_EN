@@ -1,4 +1,4 @@
-## <img src="/Images/Icons/live_event.png" width="200" height="200" />
+## <img src="/Images/Icons/live_event.png" width="200" height="200" /> <img src="/Images/Icons/balloon_thought.png" width="200" height="200" />
 ### Examples & Practical Guidance: adopt, adapt, develop
 
 In this chapter, you will find a wealth of materials to help you actively engage your trainees in critically examining Open Science issues.
