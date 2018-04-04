@@ -1,7 +1,7 @@
 # Summary
 
 * [Readme](README.md)
-* [Introduction](01. Introduction.md)
+* [Introduction](01Introduction/README.md)
 * [Open Science Basics](02OpenScienceBasics/README.md)
 	* [Open Concepts and Principles](02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 	* [Open Research Data and Materials](02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
