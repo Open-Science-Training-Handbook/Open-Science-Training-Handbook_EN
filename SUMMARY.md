@@ -13,7 +13,7 @@
 	* [Open Peer Review, Metrics and Evaluation](02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 	* [Open Science Policies](02OpenScienceBasics/09OpenSciencePolicies.md)
 	* [Citizen Science](02OpenScienceBasics/10CitizenScience.md)
-	* [Open Educational Resources](02OpenScienceBasics/11OpenEducationalResources)
+	* [Open Educational Resources](02OpenScienceBasics/11OpenEducationalResources.md)
 	* [Open Advocacy](02OpenScienceBasics/12OpenAdvocacy.md)
 * [On Learning and Training](03OnLearningAndTraining/README.md)
 * [Organizational Aspects](04OrganizationalAspects/README.md)
