@@ -15,7 +15,7 @@ Bringing together methods, techniques, and practices, the handbook aims at suppo
 3. Discussing and including suggestions by community \(05.-20.03.2018\)
 4. Moving the OSTH to github \(21.03.2018\)
 5. Finalizing everything for the version 1.0 \(22.03.-01.04.2018\)
-6. Release of OSTH 1.0 \(04.04.2018\)
+6. Release of OSTH 1.0 \(04.04.2018\) - [doi.org/cm2s](http://doi.org/cm2s)
 7. Living handbook open for contributions
 
 ## Table of Contents
@@ -90,5 +90,6 @@ We have tried to acknowledge all our sources. If for some reason we have forgott
 
 * Simon Worthington \(TIB, Hannover, Germany\) for providing advice with maintaining and converting bibliographic metadata 
 
+## Funding
 
-
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 741839.
