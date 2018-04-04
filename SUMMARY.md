@@ -2,7 +2,7 @@
 
 * [Readme](README.md)
 * [Introduction](01. Introduction.md)
-* [Open Science Basics](02. Open Science Basics/02. Open Science Basics.md)
+* [Open Science Basics](02. Open Science Basics/00 Open Science Basics/README.md)
 	* [Open Concepts and Principles](02. Open Science Basics/02.01 Open Concepts and Principles.md)
 	* [Open Research Data and Materials](02. Open Science Basics/02.02 Open Research Data and Materials.md)
 	* [Open Research Software and Open Source](02. Open Science Basics/02.03 Open Research Software and Open Source.md)
@@ -13,7 +13,6 @@
 	* [Open Peer Review, Metrics and Evaluation](02. Open Science Basics/02.08 Open Peer Review Metrics and Evaluation.md)
 	* [Open Science Policies](02. Open Science Basics/02.09 Open Science Policies.md)
 	* [Citizen Science](02. Open Science Basics/02.10 Citizen Science.md)
-		* [Open Advocacy](02. Open Science Basics/02.12 Open Advocacy.md)
 	* [Open Advocacy](02. Open Science Basics/02.12 Open Advocacy.md)
 * [On Learning and Training](03. On Learning and Training.md)
 * [Organizational Aspects](04. Organizational Aspects/README.md)
