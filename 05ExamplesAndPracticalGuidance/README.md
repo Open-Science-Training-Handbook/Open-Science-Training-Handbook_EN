@@ -67,7 +67,7 @@ Various universities across Europe organize weeklong summer schools on open scie
 
 * Format, time needed 
 
-* Topic /([see Open Science Basics](02OpenScienceBasics/README.md)/)
+* Topic \([see Open Science Basics](02OpenScienceBasics/README.md)\)
 
 * Learning objectives 
 
