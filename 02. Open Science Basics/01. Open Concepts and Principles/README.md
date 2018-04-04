@@ -1,5 +1,4 @@
-## ![](/Images/Icons/cloud.png)
-
+## <img src="/Images/Icons/cloud.png" width="200" height="200" />
 ## 1. Open Concepts and Principles
 
 ### What is it?
@@ -8,7 +7,7 @@ Open Science is the practice of science in such a way that others can collaborat
 
 Open Science is about increased rigour, accountability, and reproducibility for research. It is based on the principles of inclusion, fairness, equity, and sharing, and ultimately seeks to change the way research is done, who is involved and how it is valued. It aims to make research more open to participation, review/refutation, improvement and \(re\)use for the world to benefit
 
-There are several definitions of "openness" with regards to various aspects of science; the Open Definition \([http://opendefinition.org/](http://opendefinition.org/)\) defines it thus: “Open data and content can be freely used, modified, and shared by anyone for any purpose”. Open Science encompasses a variety of practices, usually including areas like open access to publications, open research data, open source software/tools, open workflows, citizen science, open educational resources, and alternative methods for research evaluation including open peer review \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\).
+There are several definitions of "openness" with regards to various aspects of science; the [Open Definition](http://opendefinition.org/) defines it thus: “Open data and content can be freely used, modified, and shared by anyone for any purpose”. Open Science encompasses a variety of practices, usually including areas like open access to publications, open research data, open source software/tools, open workflows, citizen science, open educational resources, and alternative methods for research evaluation including open peer review \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\).
 
 The aims and assumptions underlying the push to implement these various practices have been analysed by Fecher & Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\), whose analysis of the literature found five broad concerns, or "schools of thought". These are:
 
@@ -70,8 +69,7 @@ Open Science, as defined above, encompasses a huge number of potential structura
 
   * Typically, open research outputs are openly licensed in order to maximize re-use while allowing the creator to retain ownership and receive credit for their work.
 
-![](/Images/Icons/questions.png)
-
+## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
 Q: "What is the difference between Open Science and ‘science’?"
@@ -90,8 +88,7 @@ Q: "Will Open Science lead to too much information overload?"
 
 A: It is better to have too much information and deal with it, than to have too little and live with the risk of missing the important parts. And there are technologies such as RSS feeds, machine learning and artificial intelligence that are making content aggregation easier.
 
-![](/Images/Icons/output.png)
-
+## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 
 1. Be able to explain the core underlying academic, economic, and societal principles and concepts supporting Open Science, and why this matters to you in terms of broader impacts.
@@ -100,19 +97,18 @@ A: It is better to have too much information and deal with it, than to have too 
 
 3. Be familiar with the present state of Open Science, and the diversity of perspectives that this encompasses.
 
-### ![](/Images/Icons/magnifying_glass.png)
-
+## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
-* [Open Science: one term, five schools of thought](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2) \(Fecher and Friesike, 2014\).
+* [Open Science: one term, five schools of thought](https://doi.org/10.1007/978-3-319-00026-8_2) \(Fecher and Friesike, 2014\).
 
-* [When will ‘Open Science’ become simply ‘science’?](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) \(Watson, 2015\).
+* [When will ‘Open Science’ become simply ‘science’?](https://doi.org/10.1186/s13059-015-0669-2) \(Watson, 2015\).
 
 * [Open innovation, Open Science, open to the world - a vision for Europe](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe) \(2016\)
 
-* [Do you speak Open Science? Resources and tips to learn the language](https://peerj.com/preprints/2689/) \(Masuzzo and Martens, 2017\).
+* [Do you speak Open Science? Resources and tips to learn the language](https://doi.org/10.7287/peerj.preprints.2689v1) \(Masuzzo and Martens, 2017\).
 
-* [Open innovation, Open Science, open to the world](https://publications.europa.eu/en/publication-detail/-/publication/527ea7ce-36fc-11e7-a08e-01aa75ed71a1) : reflections of the Research, Innovation and Science Policy Experts \(RISE\) High Level Group \(2017\)
+* [Open innovation, Open Science, open to the world](https://doi.org/10.2777/79895) : reflections of the Research, Innovation and Science Policy Experts \(RISE\) High Level Group \(2017\)
 
 
 
