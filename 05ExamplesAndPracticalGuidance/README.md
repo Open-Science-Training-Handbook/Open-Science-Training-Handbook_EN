@@ -361,7 +361,7 @@ Collaborative Platforms</td>
 
 * Topic
 
-    * [Open Concepts and Principles](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.txxx80a0xqow)
+    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Learning objectives
 
