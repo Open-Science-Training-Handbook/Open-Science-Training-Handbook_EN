@@ -3,7 +3,7 @@
 * [Readme](README.md)
 * [Introduction](01. Introduction.md)
 * [Open Science Basics](02. Open Science Basics/00 Open Science Basics/README.md)
-	* [Open Concepts and Principles](02. Open Science Basics/02.01 Open Concepts and Principles.md)
+	* [Open Concepts and Principles](02. Open Science Basics/01. Open Concepts and Principles/README.md)
 	* [Open Research Data and Materials](02. Open Science Basics/02.02 Open Research Data and Materials.md)
 	* [Open Research Software and Open Source](02. Open Science Basics/02.03 Open Research Software and Open Source.md)
 	* [Reproducible Research and Data Analysis](02. Open Science Basics/02.04 Reproducible Research and Data Analysis.md)
