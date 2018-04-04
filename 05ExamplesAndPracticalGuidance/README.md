@@ -81,13 +81,10 @@ Various universities across Europe organize weeklong summer schools on open scie
 
 * How to adapt for other purposes
 
-**use**** Google form to suggest additional exercises: ****[https://goo.gl/forms/wxyx6pk80mHUHTRu**1](https://goo.gl/forms/wxyx6pk80mHUHTRu1)** **
+**Use [this Google form](https://goo.gl/forms/wxyx6pk80mHUHTRu1) to suggest additional exercises!**
 
 #### Types of exercises
 
-**[convert to narrative, including possible goals  - in progress]**
-
-**[also possibly link to / include existing taxonomy/-mies]**
 
     * quick warm-up / short break exercises 
 
