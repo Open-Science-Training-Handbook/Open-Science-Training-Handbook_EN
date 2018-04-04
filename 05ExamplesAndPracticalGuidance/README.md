@@ -421,7 +421,7 @@ Collaborative Platforms</td>
 
 * Topic
 
-    * [Open Concepts and Principles](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.txxx80a0xqow)
+    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Learning objectives 
 
@@ -501,7 +501,7 @@ Collaborative Platforms</td>
 
 * Topic 
 
-    * [Open Concepts and Principles](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.txxx80a0xqow)
+    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Learning objectives 
 
@@ -567,7 +567,7 @@ Collaborative Platforms</td>
 
 * Topic
 
-    * [Open Concepts and Principles](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.txxx80a0xqow)
+    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Learning objectives
 
@@ -604,7 +604,7 @@ good that it deserves to go on this card.
 
 * Topic:
 
-    * [Open Research Data](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.nzcalfw3fagw)
+    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Learning objectives:
 
@@ -638,7 +638,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic
 
-    * [Open Research Data](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.nzcalfw3fagw)
+    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Learning objectives:
 
@@ -672,7 +672,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic:
 
-    * [Open Research Data](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.nzcalfw3fagw)
+    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Learning objectives:
 
@@ -706,7 +706,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic
 
-    * [Open Research Data](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.nzcalfw3fagw)
+    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Learning objectives
 
@@ -760,7 +760,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic:
 
-    * [Open Research Data](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.nzcalfw3fagw)
+    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Learning objectives:
 
@@ -796,7 +796,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic:
 
-    * [Open Research Data](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.nzcalfw3fagw)
+    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Learning objectives:
 
@@ -832,7 +832,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic:
 
-    * [Open Research Data](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.nzcalfw3fagw)
+    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Learning objectives:
 
@@ -868,7 +868,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic
 
-    * [Open Research Software and Open Source](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.gk6bn6ri40em)
+    * [Open Research Software and Open Source](/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
 
 * Learning objectives
 
@@ -918,7 +918,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic
 
-    * [Reproducible Research and Data Analysis](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.jy7n9xm9zn9o)
+    * [Reproducible Research and Data Analysis](/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
 
 * Learning objectives 
 
@@ -960,7 +960,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic
 
-    * [Open Access to Published Research](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.nzcalfw3fagw) Publications
+    * [Open Access to Published Research](/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md) Publications
 
 * Learning objectives
 
@@ -1004,7 +1004,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic:
 
-    * [Open Licensing and File Formats](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.3rdryh4tn529)
+    * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
 * Learning objectives:
 
@@ -1038,7 +1038,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic:
 
-    * [Open Licensing](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.3rdryh4tn529)[ and File Formats](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.3rdryh4tn529)
+    * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
 * Learning objectives:
 
@@ -1074,9 +1074,9 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic:
 
-    * [Open Licensing](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.3rdryh4tn529)[ and File Formats](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.3rdryh4tn529)
+    * [Open Licensing and File Formats](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
-    * [Open Educational Resources](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.hlwq7rvhwrpz)
+    * [Open Educational Resources](/02OpenScienceBasics/11OpenEducationalResources.md)
 
 * Learning objectives:
 
@@ -1120,7 +1120,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic
 
-    * [Open Peer Review, Metrics and Evaluation](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.ajwwv6hevbch)
+    * [Open Peer Review, Metrics and Evaluation](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 
 * Learning objectives
 
@@ -1158,7 +1158,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic
 
-    * [Open Peer Review, Metrics and Evaluation](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.ajwwv6hevbch)
+    * [Open Peer Review, Metrics and Evaluation](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 
 * Learning objectives
 
@@ -1216,7 +1216,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic
 
-    * [Open Science Policies](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.lcrvkxql4vvc)
+    * [Open Science Policies](/02OpenScienceBasics/09OpenSciencePolicies.md)
 
 * Learning objectives 
 
@@ -1276,9 +1276,9 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic 
 
-    * [Citizen Scientists and Science Communication](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.bxvxyc53liqn)
+    * [Citizen Scientists and Science Communication](/02OpenScienceBasics/10CitizenScience.md)
 
-    * [Collaborative Platforms](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.prh798j9vzxl)
+    * [Collaborative Platforms](/02OpenScienceBasics/07CollaborativePlatforms.md)
 
 * Learning objectives 
 
@@ -1300,7 +1300,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic
 
-    * [Open Advocacy](https://docs.google.com/document/d/1YpuL5uDEJNoYNMpcabXuCYTxZCwg9or-DJ6D9cJWM7w/edit#heading=h.gphuoey9pana)
+    * [Open Advocacy](/02OpenScienceBasics/12OpenAdvocacy.md)
 
 * Learning objectives
 
