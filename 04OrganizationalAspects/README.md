@@ -193,7 +193,7 @@ To provide you with initial guidance over possible types of training and their c
 
 ### Audience, guest speakers, and partners
 
-Before committing to the event be sure you defined your target audience and that you are aware of their needs. Consider your audience, its size and the number or area of competence of (guest) trainers. [link to On learning and training chapter: Target audiences]
+Before committing to the event be sure you defined your target audience and that you are aware of their needs. Consider your audience, its size and the number or area of competence of (guest) trainers. [link to On learning and training chapter: Target audiences] <!--- The link seems to be missing here -->
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
 #### Cooperating with others
