@@ -47,7 +47,8 @@ Four well known learning theories are behaviorism, cognitivism, connectivism and
 
 This simplified diagram summarises their main characteristics in very practical terms:
 
-![image alt text](Images/image_3.png)
+<!-- !!! Image does not exist !!! -->
+![image alt text](Images/image_3.png) 
 
 Transcribed from:
 
@@ -327,7 +328,7 @@ Depending on the size of your audience, the amount of time available, and the de
 
 Know that there is no absolute need to immediately adapt  the content, just be clear by letting all participants know what will be covered or not.
 
-Once more, the information delivered by the [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/)\) might be helpful to create the right ambiance.
+Once more, the information delivered by [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/) might be helpful to create the right ambiance.
 
 ## <img src="/Images/05 Examples _ Practical Guidance/05_icebreaker.png" width="300" height="300" />
 #### Ice-breaker
@@ -385,8 +386,8 @@ During discussions \(in larger groups\), you should avoid standing microphones w
 
 * Prepare short, middle and long versions of your exercises to become flexible if the discussions are more or less intensive.
 
-* Be prepared for difficult students and consult some troubleshooting guidance before the course. 
-\(You may find some ideas in the [MozFest2017 Facilitator Guide](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#).\) 
+* Be prepared for difficult students and consult some troubleshooting guidance before the course 
+\(You may find some ideas in the [MozFest2017 Facilitator Guide](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#)\). 
 You should in any case have an idea of what you do when a parallel conversation emerges or what to do when somebody is constantly rude or inattentive etc. Know that there are verbal and non-verbal ways to tackle this.
 
 * Wrap-Up / Meta View: At the end of the training it might be worth to tell your participants what you did and why you did it. This will also make the evaluation easier.
