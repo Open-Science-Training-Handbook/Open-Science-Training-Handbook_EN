@@ -47,7 +47,7 @@ Four well known learning theories are behaviorism, cognitivism, connectivism and
 
 This simplified diagram summarises their main characteristics in very practical terms:
 
-![image alt text](Images/image_3.png)
+![image alt text](/Images/image_3.png)
 
 Transcribed from:
 
