@@ -38,7 +38,8 @@ Open Science, as defined above, encompasses a huge number of potential structura
 
 ### Key components![](/Images/02 Open Science Basics/02_open_concepts_and_principles.png)
 
-#### Knowledge and Skills
+#### Knowledge & Skills
+## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 
 * Open Science is the movement to help make the results of scholarly research more accessible, including code, data, and research papers.
 
