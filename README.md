@@ -15,48 +15,16 @@ We welcome comments and feedback from everyone, irrespective of their expertise 
 
 Are you interested in running or attending trainings or webinars that make use of the Open Science Training Handbook? Get in touch with us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) - we'd love to hear from you.
 
+## <img src="/Images/Icons/research_group.png" width="150" height="150" />
 ## Copyright statement 
 
 The Open Science Training Handbook is an Open Educational Resource, and will therefore be made available under [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). You do not have to ask our permission to re-use and copy information from this handbook. Take note that some of the materials referenced in this book might be copyright protected—if so, this will be indicated in the text. Please consider citing the handbook when using the content.
 
 We have tried to acknowledge all our sources. If for some reason we have forgotten to provide you with proper credits, it has not been done with malicious intent. Feel free to contact us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) for any corrections.
 
-## <img src="/Images/Icons/research_group.png" width="150" height="150" />
-## List of Authors
+## The Authors and the Book Sprint facilitators
 
-* Sonja Bezjak \(University of Ljubljana, Slovenia\)
-
-* April Clyburne-Sherin \(Code Ocean, USA\)
-
-* Philipp Conzett \(UiT The Arctic University of Norway, Norway\)
-
-* Pedro L. Fernandes \(Instituto Gulbenkian de Ciência, Portugal\)
-
-* Edit Görögh \(University of Göttingen, Germany\)
-
-* Kerstin Helbig \(Humboldt-Universität zu Berlin, Germany\)
-
-* Bianca Kramer \(Utrecht University, Netherlands\)
-
-* Ignasi Labastida \(Universitat de Barcelona, Catalonia/Spain\)
-
-* Kyle Niemeyer \(Oregon State University, USA\)
-
-* Fotis Psomopoulos \(Center for Research and Technology Hellas, Greece\)
-
-* Tony Ross-Hellauer \(Know-Center GmbH, Austria\)
-
-* René Schneider \(Geneva School of Business Administration, Switzerland\)
-
-* Jon Tennant \(Open Science MOOC, Germany\)
-
-* Ellen Verbakel \(4TU.Centre for Research Data, Netherlands\)
-
-## Book Sprint Facilitators
-
-* Helene Brinken \(SUB Göttingen, Germany\)
-
-* Lambert Heller \(TIB, Hannover, Germany\)
+Learn more about the authors and the book sprint facilitators, their experiences and inspiration, as well as their affiliation, contact information, Twitter and ORCID profiles, in the [Handbook's last chapter](./08AboutTheAuthorsAndFacilitators).
 
 ## <img src="/Images/Icons/heart.png" width="150" height="150" />
 
