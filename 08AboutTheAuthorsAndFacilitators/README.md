@@ -167,6 +167,8 @@ I have been lucky enough to make a living out of training other scientists how t
 * [@helenebrinken](https://twitter.com/helenebrinken)
 * [0000-0002-3278-0422](https://orcid.org/0000-0002-3278-0422)
 
+<iframe src="https://www.youtube.com/embed/VFld9EgF-2I" frameborder="0" allowfullscreen></iframe> 
+
 Responsible for Outreach and Advocacy in the FOSTER project at Göttingen University since May 2017. Background in Information Science with focus on e-learning and usability & user experience, now developing learning materials and facilitating workshops.
 
 Before working for FOSTER I worked with young activists engaging for worldwide education and against social injustice. I learned how important group dynamics are and what can be achieved when combining forces. Culture change starts at the level of individuals. Bringing together the researchers interested in Open Science can be a great step forward to foster OS at your institution. If they get support, meet other enthusiasts and learn they can soon be multiplicators themselves.
@@ -181,6 +183,3 @@ Before working for FOSTER I worked with young activists engaging for worldwide e
 With a background in social sciences, I’m a librarian by training, working as a subject specialist at a university library for several years, and kicked of the Open Science Lab at TIB \(German National Library for Science and Technology\) in 2013, now running a number of grant projects. Facilitating and advising book sprints since 2014. Helped to make VIVO, a free current research information system \(CRIS\) based entirely on Linked Open Data, popular in Germany. Kicked of a few discussions in libraryland and elsewhere, e.g. on Blockchain for Science.
 
 When giving workshops \(e.g., a half day workshop for PhD students and PostDocs from Leibniz Research Association in Germany in 2017, on the matter of scholarly profile and collaborative writing services\) it’s always a pleasure to tap into the curiosity of learners. Even the busiest student has experiences, questions and imagines how things could work best for them. I love to make use of this positive energy! And it makes it much easier for a trainer to run a training session.
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/BAeBvcoNKOg" frameborder="0" allowfullscreen></iframe> 
-
