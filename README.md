@@ -9,7 +9,7 @@ Bringing together methods, techniques, and practices, the handbook aims at suppo
 
 ## Help us making this Handbook better
 
-We welcome comments and feedback from everyone, irrespective of their expertise or background. The easiest way to do this is to leave a comment [right here](https://book.fosteropenscience.eu/) by clicking on any paragraph and then on the plus sign appearing next to it, another one is to create a pull request on the Handbook's [GitHub repository](https://github.com/Open-Science-Training-Handbook).
+We welcome comments and feedback from everyone, irrespective of their expertise or background. The easiest way to do this is to leave a comment [right here](https://book.fosteropenscience.eu/) by touching any paragraph with your mouse pointer and then klicking on the plus sign appearing next to it, another one is to create a pull request on the Handbook's [GitHub repository](https://github.com/Open-Science-Training-Handbook).
 
 ## Let's run an Open Science training together
 
