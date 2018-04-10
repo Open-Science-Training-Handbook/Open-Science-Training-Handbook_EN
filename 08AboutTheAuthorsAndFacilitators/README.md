@@ -9,6 +9,8 @@
 * [sonja.bezjak@fdv.uni-lj.si](mailto:sonja.bezjak@fdv.uni-lj.si)
 * [@sonja\_adp](https://twitter.com/sonja_adp)
 
+<iframe src="https://www.youtube.com/watch?v=v41JkOz9svA" frameborder="0" allowfullscreen></iframe> 
+
 In the Social Science Data Archives I am primarily engaged with issues related to open access to research data. One of my roles is to train different stakeholders on research data policy, research data management planning, data citation, data publications etc. As a member of CESSDA ERIC training group I try to share my knowledge and experience internationally.
 
 I was taught about scientific values, including transparency and reproducibility while studying sociology. But only later from my friends, a physicist and an engineer, I learnt about the Open Source movement. I immediately understood the importance of spreading the idea of not hiding your findings and sharing your knowledge with others as soon as possible. Only when I started to work at the Social Science Data Archives \(University of Ljubljana, Slovenia\) and became heavily involved in the Open data project I realized how much effort was needed to change the culture and to be able to get over the barriers of not openly sharing research outputs. I hope this handbook will help in making science as open and understandable as possible.
@@ -31,6 +33,8 @@ There are two major pitfalls for Open Science trainers, as I see it. One, novice
 * [@pfern](https://twitter.com/pfern)
 * [0000-0003-2124-0241](https://orcid.org/0000-0003-2124-0241)
 
+<iframe src="https://www.youtube.com/watch?v=5H_0dMEv0N4" frameborder="0" allowfullscreen></iframe> 
+
 I run a training programme in Bioinformatics at the Instituto Gulbenkian de Ciência, in Oeiras, PT since 1999. More than 5000 course participants in 19 years. Extending this activity with distance and e-learning, to better reach for 21st century learners.  I am an advocate of Open Access, Open Data, Open Source and Open Science that takes any possible chance to put these causes through via training. I am conscious that this movement needs to scale-up and reach for non-scientists as well, so I am very interested in its amplification and diffusion.
 
 Open Science is an attitude that requires a large but feasible education step. Advocates like me need to join forces and make it happen every day. Training in Open Science is needed at a wide range of levels. To address the entry level, together with Rutger A.Vos, we prepared the free e-book "Open Science, Open Data, Open Source" in 2017 \([http://osodos.org](http://osodos.org)\). More advocacy and training to come.
@@ -42,6 +46,8 @@ Open Science is an attitude that requires a large but feasible education step. A
 * [@gorogh\_edit](https://twitter.com/gorogh_edit)
 * [0000-0002-0766-418X](https://orcid.org/0000-0002-0766-418X)
 
+<iframe src="https://www.youtube.com/watch?v=J3B-pQ7-1Vo" frameborder="0" allowfullscreen></iframe> 
+
 I am currently working at the University of Göttingen as a project officer for OpenUP, an EU funded project which aims at developing a cohesive framework for new methods, indicators and tools for peer review, dissemination of research results, and impact measurement. I have been in involved in knowledge management and open science/access related programs for more than 10 years.
 
 Working for Open Science projects, I had the chance to get acquainted with both the diverse community of Open Science advocates and the reluctant, skeptical groups of researchers and decision makers, which both urged me to get more immersed in the Open Science discourse and follow developments and learn about the tools and methods to speak effectively about the benefits and challenges we face in the changing world of research communications.
@@ -52,6 +58,8 @@ Working for Open Science projects, I had the chance to get acquainted with both 
 * [kerstin.helbig@cms.hu-berlin.de](mailto:kerstin.helbig@cms.hu-berlin.de)
 * [@FrauHelbig](https://twitter.com/FrauHelbig)
 * [0000-0002-2775-6751](https://orcid.org/0000-0002-2775-6751)
+
+<iframe src="https://www.youtube.com/watch?v=lOP2zHfVucI" frameborder="0" allowfullscreen></iframe> 
 
 I am research data management coordinator at Humboldt-Universität zu Berlin, Germany. In my consultative capacity, I assist researchers in the management of their research data and organize training as well as information sessions.
 
@@ -75,6 +83,8 @@ Training in open science is rewarding because it is not just about teaching peop
 * [@ignasi](https://twitter.com/ignasi)
 * [0000-0001-7030-7030](https://orcid.org/0000-0001-7030-7030)
 
+<iframe src="https://www.youtube.com/watch?v=miRXFszYqiE" frameborder="0" allowfullscreen></iframe> 
+
 PhD in Physics, Universitat de Barcelona (UB), 2000. Now, devoted to openness: Head of the [Office for the Dissemination of Knowledge](http://crai.ub.edu/en/crai-services/intellectual-property) at the CRAI of the UB and public leader of Creative Commons in Spain since its beginning in 2003.
 
 I hope in the near future there will be no need to train about open science because those practices, now described here, will be the default ones. There will be no need to attach the open tag anymore, and researchers would need to justify why they close some of their results or activities. I think this book may help to achieve this situation by showing a lot of robust examples and viable cases to perform research openly.
@@ -86,6 +96,8 @@ I hope in the near future there will be no need to train about open science beca
 * [@kyleniemeyer](https://twitter.com/kyleniemeyer)
 * [0000-0003-4425-7097](https://orcid.org/0000-0003-4425-7097)
 
+<iframe src="https://www.youtube.com/watch?v=sbaH0uVDQkA" frameborder="0" allowfullscreen></iframe> 
+
 I am an Assistant Professor of Mechanical Engineering at Oregon State University in Corvallis, Oregon, USA. My research group studies combustion and fluid flows using computer simulations, and develop numerical methods and parallel computing strategies. Open science advocate!
 
 As a graduate student, I frequently faced roadblocks in my research due to software not being shared openly; now, as the leader of a research group, my students and I face data availability and formatting challenges when working with results in the literature. However, simply showing others how easy it can be to share research products openly can be enough to catalyze change, as can leading by example.
@@ -96,6 +108,8 @@ As a graduate student, I frequently faced roadblocks in my research due to softw
 * [fpsom@issel.ee.auth.gr](mailto:fpsom@issel.ee.auth.gr)
 * [@fopsom](https://twitter.com/fopsom)
 * [0000-0002-0222-4273](https://orcid.org/0000-0002-0222-4273)
+
+<iframe src="https://www.youtube.com/watch?v=rKtNdplYlBc" frameborder="0" allowfullscreen></iframe> 
 
 Fotis is a Bioinformatician at the Institute of Applied Biosciences \(INAB\|CERTH\) in Thessaloniki, Greece. He was awarded his PhD in Electrical and Computer Engineering in 2010 with a focus on Bioinformatics and e-infrastructures, and a particular appreciation to open and reproducible methods. He spends significant time in training activities, both within formal academic structures as well as through the Carpentries as a certified Instructor and Trainer. He rambles about bits and pieces on his website.
 
@@ -119,6 +133,8 @@ Although creating and delivering training events is very daunting, training othe
 * [@datosestupendos](https://twitter.com/datosestupendos)
 * [0000-0003-4897-8561 ](https://orcid.org/0000-0003-4897-8561)
 
+<iframe src="https://www.youtube.com/watch?v=OpRzpIzBlf4" frameborder="0" allowfullscreen></iframe> 
+
 René Schneider is a professor in Information Science at Geneva School of Business Administration \(being part of the University of Applied Sciences and Arts Western Switzerland\). Originally trained as a computational linguist, he is mainly interested in data and all of its aspects.
 
 I discovered the field of research data management  quite lately and mainly got engaged because of the complexity and high potential of open science. After having managed a project on how to train librarians to become instructors for research data management \(www.researchdatamanagement.ch\), I experienced myself that open science open doors, leads to a better understanding and reuse of scientific outcomes and finally links the academic ivory tower to the world outside.
@@ -129,6 +145,8 @@ I discovered the field of research data management  quite lately and mainly got 
 * [jon.tennant.2@gmail.com](mailto:jon.tennant.2@gmail.com)
 * [@protohedgehog](https://twitter.com/protohedgehog)
 * [0000-0001-7794-0218](https://orcid.org/0000-0001-7794-0218)
+
+<iframe src="https://www.youtube.com/watch?v=rvLggnE6ZPE" frameborder="0" allowfullscreen></iframe> 
 
 Jon finished his award-winning PhD in Palaeontology at Imperial College London in 2017, and became the Communications Director of ScienceOpen for two years in 2015. Now, he is independently continuing his research into dinosaur evolution, while working on building an Open Science MOOC to help train the next generation of researchers in open practices. He has published papers on Open Access and Peer Review, is currently leading the development of the Foundations for Open Science Strategy document, and is the founder of the digital publishing platform paleorXiv. Jon is also an ambassador for ASAPbio and the Center for Open Science, a Mozilla Open Leadership mentor, and the co-runner of the Berlin Open Science meetup. He is also a freelance science communicator and consultant, and has written a kids book called Excavate Dinosaurs.
 
@@ -179,6 +197,8 @@ Before working for FOSTER I worked with young activists engaging for worldwide e
 * [lambert.heller@tib.eu](mailto:lambert.heller@tib.eu)
 * [@Lambo](https://twitter.com/Lambo)
 * [0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085)
+
+<iframe src="https://www.youtube.com/embed/VFld9EgF-2I" frameborder="0" allowfullscreen></iframe> 
 
 With a background in social sciences, I’m a librarian by training, working as a subject specialist at a university library for several years, and kicked of the Open Science Lab at TIB \(German National Library for Science and Technology\) in 2013, now running a number of grant projects. Facilitating and advising book sprints since 2014. Helped to make VIVO, a free current research information system \(CRIS\) based entirely on Linked Open Data, popular in Germany. Kicked of a few discussions in libraryland and elsewhere, e.g. on Blockchain for Science.
 
