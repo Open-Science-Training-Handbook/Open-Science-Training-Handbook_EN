@@ -172,7 +172,7 @@ A: "Not necessarily! Making data FAIR is not only the responsibility of the indi
 
 Q: "I want to share my data. How should I license them?"
 
-A: "That’s a good question. First of all think about who owns the data? A research funder or an institution that you work for. Then, think about authorship. Applying a suitable license to your data is crucial in order to make them reusable. For more information about licensing, please see “6. Open Licensing and Formats".”
+A: "That’s a good question. First of all think about who owns the data? A research funder or an institution that you work for. Then, think about authorship. Applying a suitable license to your data is crucial in order to make them reusable. For more information about licensing, please see [6. Open Licensing and File Formats](https://open-science-training-handbook.gitbooks.io/book/content/02OpenScienceBasics/06OpenLicensingAndFileFormats.html).
 
 Q: "I cannot make my data directly available—they are too large to share conveniently / have restrictions related to privacy issues. What should I do?"
 
