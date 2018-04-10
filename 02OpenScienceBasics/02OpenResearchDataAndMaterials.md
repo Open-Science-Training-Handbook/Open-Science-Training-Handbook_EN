@@ -11,7 +11,8 @@ Open research data is data that can be freely accessed, reused, remixed and redi
 
 Research data are often the most valuable output of many research projects, they are used as primary sources that underpin scientific research and enable derivation of theoretical or applied findings. In order to make findings/studies replicable, or at least reproducible or reusable \(reference to Reproducible Research and Data Analysis\) in any other way, the best practice recommendation for research data is to be as open and [FAIR](https://www.force11.org/fairprinciples) as possible, while accounting for ethical, commercial and privacy constraints with sensitive data or proprietary data.
 
-![](/Images/Icons/finish.png)
+
+## <img src="/Images/Icons/finish.png" width="150" height="150" />
 
 ### Learning objectives
 

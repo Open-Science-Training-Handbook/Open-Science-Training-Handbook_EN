@@ -27,7 +27,7 @@ Open Science, as defined above, encompasses a huge number of potential structura
 
 ![](/Images/image_1.png)
 
-![](/Images/Icons/finish.png)
+## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
 1. Understand the social, economical, legal, and ethical principles and concepts underpinning Open Science.
