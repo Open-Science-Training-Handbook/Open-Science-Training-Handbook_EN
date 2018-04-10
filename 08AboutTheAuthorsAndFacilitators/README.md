@@ -182,3 +182,5 @@ With a background in social sciences, I’m a librarian by training, working as 
 
 When giving workshops \(e.g., a half day workshop for PhD students and PostDocs from Leibniz Research Association in Germany in 2017, on the matter of scholarly profile and collaborative writing services\) it’s always a pleasure to tap into the curiosity of learners. Even the busiest student has experiences, questions and imagines how things could work best for them. I love to make use of this positive energy! And it makes it much easier for a trainer to run a training session.
 
+<iframe width="854" height="480" src="https://www.youtube.com/embed/BAeBvcoNKOg" frameborder="0" allowfullscreen></iframe> 
+
