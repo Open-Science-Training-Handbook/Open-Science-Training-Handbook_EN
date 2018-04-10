@@ -31,9 +31,8 @@ Research data are often the most valuable output of many research projects, they
 7. Understand the basic workflows and tools for sharing research data.
 
 ### Key components
-
-#### Knowledge & Skills
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
+#### Knowledge & Skills
 ##### FAIR principles
 
 In 2014, a core set of principles were drafted in order to optimize the reusability of research data, named the [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). They represent a community-developed set of guidelines and best practices to ensure that data or any digital object are **F**indable, **A**ccessible, **I**nteroperable and **R**e-usable:
