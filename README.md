@@ -7,33 +7,15 @@ Sharing their experience and skills of imparting Open Science principles, the au
 
 Bringing together methods, techniques, and practices, the handbook aims at supporting educators of Open Science. The result is intended as a helpful guide on how to forward knowledge on Open Science principles to our networks, institutions, colleagues, and students. It will instruct and inspire trainers how to create high quality and engaging trainings. Addressing challenges and giving solutions, it will strengthen the community of Open Science trainers who are educating, informing, and inspiring themselves.
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
-## Roadmap
+## Help us making this Handbook better
 
-1. Writing the OSTH \(12.-16.02.2018\)
-2. Pre-release available for comments and suggestions until 4th of March 2018
-3. Discussing and including suggestions by community \(05.-20.03.2018\)
-4. Moving the OSTH to github \(21.03.2018\)
-5. Finalizing everything for the version 1.0 \(22.03.-01.04.2018\)
-6. Release of OSTH 1.0 \(04.04.2018\) - [doi.org/10.5281/zenodo.1212496](https://doi.org/10.5281/zenodo.1212496)
-7. Living handbook open for contributions
+We welcome comments and feedback from everyone, irrespective of their expertise or background. The easiest way to do this is to leave a comment [right here](https://book.fosteropenscience.eu/) by clicking on any paragraph and then on the plus sign appearing next to it, another one is to create a pull request on the Handbook's [GitHub repository](https://github.com/Open-Science-Training-Handbook).
 
-## Table of Contents
+## Let's run an Open Science training together
 
-1. Introduction
-2. Open Science Basics
-3. On Learning & Training
-4. Organizational Aspects
-5. Examples & Practical Guidance
-6. Glossary
-7. References
-8. About the Authors & Facilitators
+Are you interested in running or attending trainings or webinars that make use of the Open Science Training Handbook? Get in touch with us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) - we'd love to hear from you.
 
-## Disclaimer
-
-This is a pre-release, please note that this means some sections are presently incomplete or require further editing. We welcome comments and feedback from everyone, irrespective of their expertise or background. If you do comment, please leave your real name for identification purposes. After this, we will integrate all suggested comments as appropriate, and create a finalised version.
-
-## Copyright statement and contact information
+## Copyright statement 
 
 The Open Science Training Handbook is an Open Educational Resource, and will therefore be made available under [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). You do not have to ask our permission to re-use and copy information from this handbook. Take note that some of the materials referenced in this book might be copyright protected—if so, this will be indicated in the text. Please consider citing the handbook when using the content.
 
