@@ -9,7 +9,7 @@
 * [sonja.bezjak@fdv.uni-lj.si](mailto:sonja.bezjak@fdv.uni-lj.si)
 * [@sonja\_adp](https://twitter.com/sonja_adp)
 
-<iframe src="https://www.youtube.com/watch?v=v41JkOz9svA" frameborder="0" allowfullscreen></iframe> 
+<iframe src="https://www.youtube.com/embed/v41JkOz9svA" frameborder="0" allowfullscreen></iframe> 
 
 In the Social Science Data Archives I am primarily engaged with issues related to open access to research data. One of my roles is to train different stakeholders on research data policy, research data management planning, data citation, data publications etc. As a member of CESSDA ERIC training group I try to share my knowledge and experience internationally.
 
