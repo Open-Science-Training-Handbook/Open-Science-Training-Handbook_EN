@@ -198,7 +198,7 @@ Before working for FOSTER I worked with young activists engaging for worldwide e
 * [@Lambo](https://twitter.com/Lambo)
 * [0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085)
 
-<iframe src="https://www.youtube.com/embed/VFld9EgF-2I" frameborder="0" allowfullscreen></iframe> 
+<iframe src="https://www.youtube.com/embed/VFld9EgF-2I?start=18" frameborder="0" allowfullscreen></iframe> 
 
 With a background in social sciences, I’m a librarian by training, working as a subject specialist at a university library for several years, and kicked of the Open Science Lab at TIB \(German National Library for Science and Technology\) in 2013, now running a number of grant projects. Facilitating and advising book sprints since 2014. Helped to make VIVO, a free current research information system \(CRIS\) based entirely on Linked Open Data, popular in Germany. Kicked of a few discussions in libraryland and elsewhere, e.g. on Blockchain for Science.
 
