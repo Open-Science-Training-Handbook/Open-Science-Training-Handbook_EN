@@ -33,7 +33,7 @@ There are two major pitfalls for Open Science trainers, as I see it. One, novice
 * [@pfern](https://twitter.com/pfern)
 * [0000-0003-2124-0241](https://orcid.org/0000-0003-2124-0241)
 
-<iframe src="https://www.youtube.com/watch?v=5H_0dMEv0N4" frameborder="0" allowfullscreen></iframe> 
+<iframe src="https://www.youtube.com/embed/5H_0dMEv0N4" frameborder="0" allowfullscreen></iframe> 
 
 I run a training programme in Bioinformatics at the Instituto Gulbenkian de Ciência, in Oeiras, PT since 1999. More than 5000 course participants in 19 years. Extending this activity with distance and e-learning, to better reach for 21st century learners.  I am an advocate of Open Access, Open Data, Open Source and Open Science that takes any possible chance to put these causes through via training. I am conscious that this movement needs to scale-up and reach for non-scientists as well, so I am very interested in its amplification and diffusion.
 
@@ -46,7 +46,7 @@ Open Science is an attitude that requires a large but feasible education step. A
 * [@gorogh\_edit](https://twitter.com/gorogh_edit)
 * [0000-0002-0766-418X](https://orcid.org/0000-0002-0766-418X)
 
-<iframe src="https://www.youtube.com/watch?v=J3B-pQ7-1Vo" frameborder="0" allowfullscreen></iframe> 
+<iframe src="https://www.youtube.com/embed/J3B-pQ7-1Vo" frameborder="0" allowfullscreen></iframe> 
 
 I am currently working at the University of Göttingen as a project officer for OpenUP, an EU funded project which aims at developing a cohesive framework for new methods, indicators and tools for peer review, dissemination of research results, and impact measurement. I have been in involved in knowledge management and open science/access related programs for more than 10 years.
 
@@ -59,7 +59,7 @@ Working for Open Science projects, I had the chance to get acquainted with both 
 * [@FrauHelbig](https://twitter.com/FrauHelbig)
 * [0000-0002-2775-6751](https://orcid.org/0000-0002-2775-6751)
 
-<iframe src="https://www.youtube.com/watch?v=lOP2zHfVucI" frameborder="0" allowfullscreen></iframe> 
+<iframe src="https://www.youtube.com/embed/lOP2zHfVucI" frameborder="0" allowfullscreen></iframe> 
 
 I am research data management coordinator at Humboldt-Universität zu Berlin, Germany. In my consultative capacity, I assist researchers in the management of their research data and organize training as well as information sessions.
 
@@ -83,7 +83,7 @@ Training in open science is rewarding because it is not just about teaching peop
 * [@ignasi](https://twitter.com/ignasi)
 * [0000-0001-7030-7030](https://orcid.org/0000-0001-7030-7030)
 
-<iframe src="https://www.youtube.com/watch?v=miRXFszYqiE" frameborder="0" allowfullscreen></iframe> 
+<iframe src="https://www.youtube.com/embed/miRXFszYqiE" frameborder="0" allowfullscreen></iframe> 
 
 PhD in Physics, Universitat de Barcelona (UB), 2000. Now, devoted to openness: Head of the [Office for the Dissemination of Knowledge](http://crai.ub.edu/en/crai-services/intellectual-property) at the CRAI of the UB and public leader of Creative Commons in Spain since its beginning in 2003.
 
@@ -96,7 +96,7 @@ I hope in the near future there will be no need to train about open science beca
 * [@kyleniemeyer](https://twitter.com/kyleniemeyer)
 * [0000-0003-4425-7097](https://orcid.org/0000-0003-4425-7097)
 
-<iframe src="https://www.youtube.com/watch?v=sbaH0uVDQkA" frameborder="0" allowfullscreen></iframe> 
+<iframe src="https://www.youtube.com/embed/sbaH0uVDQkA" frameborder="0" allowfullscreen></iframe> 
 
 I am an Assistant Professor of Mechanical Engineering at Oregon State University in Corvallis, Oregon, USA. My research group studies combustion and fluid flows using computer simulations, and develop numerical methods and parallel computing strategies. Open science advocate!
 
@@ -109,7 +109,7 @@ As a graduate student, I frequently faced roadblocks in my research due to softw
 * [@fopsom](https://twitter.com/fopsom)
 * [0000-0002-0222-4273](https://orcid.org/0000-0002-0222-4273)
 
-<iframe src="https://www.youtube.com/watch?v=rKtNdplYlBc" frameborder="0" allowfullscreen></iframe> 
+<iframe src="https://www.youtube.com/embed/rKtNdplYlBc" frameborder="0" allowfullscreen></iframe> 
 
 Fotis is a Bioinformatician at the Institute of Applied Biosciences \(INAB\|CERTH\) in Thessaloniki, Greece. He was awarded his PhD in Electrical and Computer Engineering in 2010 with a focus on Bioinformatics and e-infrastructures, and a particular appreciation to open and reproducible methods. He spends significant time in training activities, both within formal academic structures as well as through the Carpentries as a certified Instructor and Trainer. He rambles about bits and pieces on his website.
 
@@ -133,7 +133,7 @@ Although creating and delivering training events is very daunting, training othe
 * [@datosestupendos](https://twitter.com/datosestupendos)
 * [0000-0003-4897-8561 ](https://orcid.org/0000-0003-4897-8561)
 
-<iframe src="https://www.youtube.com/watch?v=OpRzpIzBlf4" frameborder="0" allowfullscreen></iframe> 
+<iframe src="https://www.youtube.com/embed/OpRzpIzBlf4" frameborder="0" allowfullscreen></iframe> 
 
 René Schneider is a professor in Information Science at Geneva School of Business Administration \(being part of the University of Applied Sciences and Arts Western Switzerland\). Originally trained as a computational linguist, he is mainly interested in data and all of its aspects.
 
@@ -146,11 +146,11 @@ I discovered the field of research data management  quite lately and mainly got 
 * [@protohedgehog](https://twitter.com/protohedgehog)
 * [0000-0001-7794-0218](https://orcid.org/0000-0001-7794-0218)
 
-<iframe src="https://www.youtube.com/watch?v=rvLggnE6ZPE" frameborder="0" allowfullscreen></iframe> 
+<iframe src="https://www.youtube.com/embed/rvLggnE6ZPE" frameborder="0" allowfullscreen></iframe> 
 
 Jon finished his award-winning PhD in Palaeontology at Imperial College London in 2017, and became the Communications Director of ScienceOpen for two years in 2015. Now, he is independently continuing his research into dinosaur evolution, while working on building an Open Science MOOC to help train the next generation of researchers in open practices. He has published papers on Open Access and Peer Review, is currently leading the development of the Foundations for Open Science Strategy document, and is the founder of the digital publishing platform paleorXiv. Jon is also an ambassador for ASAPbio and the Center for Open Science, a Mozilla Open Leadership mentor, and the co-runner of the Berlin Open Science meetup. He is also a freelance science communicator and consultant, and has written a kids book called Excavate Dinosaurs.
 
-I think the most challenging aspect of Open Science is education. It is an enormously complex paradigm, with its own lexicon, practices, principles, and represents a quite high learning barrier in many cases. However, watching others develop their knowledge and skills is incredibly rewarding, and I find myself learning more with every new experience too. Ultimately, we all have the same thing in mind - a fairer, more equitable, transparent and rigorous system of scientific research, and watching the huge steps the global research community, and especially younger generations, are taking towards this is very inspiring.&lt;/td&gt;
+I think the most challenging aspect of Open Science is education. It is an enormously complex paradigm, with its own lexicon, practices, principles, and represents a quite high learning barrier in many cases. However, watching others develop their knowledge and skills is incredibly rewarding, and I find myself learning more with every new experience too. Ultimately, we all have the same thing in mind - a fairer, more equitable, transparent and rigorous system of scientific research, and watching the huge steps the global research community, and especially younger generations, are taking towards this is very inspiring.
 
 ### Ellen Verbakel
 
