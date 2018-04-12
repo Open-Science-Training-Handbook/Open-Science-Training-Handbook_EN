@@ -29,7 +29,7 @@ Since one of the main drivers to Open Science are the current policies establish
 
 You must review all the policies that affect your training audience. First of all check all the institutional policies at institutional level, for instance; copyright, intellectual property, open access, research data.
 
-Secondly you may review any national policy or law that can affect researchers when performing Open Science, for instance laws with open access provisions or decrees affecting PhD dissertations , Call for projects
+Secondly you may review any national policy or law that can affect researchers when performing Open Science, for instance laws with open access provisions or decrees affecting PhD dissertations , Call for projects.
 
 At the national level there could be some laws or decrees that directly or indirectly could influence a policy or pose some requirements. For instance you could review the national open access policies in Europe available at [OpenAIRE](https://www.openaire.eu/member-states-overview).
 
@@ -44,20 +44,20 @@ If your training audience is willing to develop a roadmap or agenda to implement
 
 Trainees would need to identify the main features of each policy mainly: to whom is addressed, what are the requirements, how they overlap with each other.
 
-You might show how researchers can fulfil with the different policies: where are the services, the tools that the institution can provide but also where they can find alternatives. For instance an institution might not provide an infrastructure for depositing and publishing research data but it can point out external solutions that fulfil policy requirements. It is also useful to compare those solutions with other external options with not desired features.
+You might show how researchers can fulfil with the different policies: where are the services, the tools that the institution can provide but also where they can find alternatives. For instance, an institution might not provide an infrastructure for depositing and publishing research data; but it can point out external solutions that fulfil policy requirements. It is also useful to compare those solutions with other external options with not desired features.
 
 When designing an Open Science policy, trainees would need to be able to define the main purposes of having such a policy and to establish the goals or changes they are pursuing. Once defined, they must be able to find key performance indicators to measure if the policy have achieved its goals and they must be able to review and update the policy if the goals are not achieved.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
-The main question coming from researchers in training sessions on policies is how they can fulfill the requirements without losing any freedom on deciding where to publish, for instance. You as a trainer, may describe all the available options researchers have because in general, Open Science policies provide a range of options
+The main question coming from researchers in training sessions on policies is how they can fulfill the requirements without losing any freedom on deciding where to publish, for instance. You as a trainer, may describe all the available options researchers have because in general, Open Science policies provide a range of options.
 
 Another question often raised is what happens if researchers don’t fulfil the requirements. In this case you may give examples of projects monitored by funders or warnings received by researchers.
 
-A common misconception regarding research data policy is that researchers should share all data openly. To overcome it, you must highlight the different excerpts in the text of a policy where there are explanations about which is the data affected by the policy and when it must be shared. We might also remark all the opt-out choices that policies include. A good resource to clarify those issues can be an infographic like the [one available from Horizon2020](https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=1521447690670000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ).
+A common misconception regarding research data policy is that researchers should share all data openly. To overcome it, you must highlight the different excerpts in the text of a policy where there are explanations about which is the data affected by the policy and when it must be shared. We might also remark all the opt-out choices that policies include. A good resource to clarify those issues can be an infographic like the [one available from Horizon 2020](https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=1521447690670000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ).
 
-When planning a policy is important to know what to do intend to achieve or solve. Sometimes policies are created following other initiatives without thinking if there is a need for another one and if your new policy will overlap other existing ones. The main challenge when creating a policy is to align it with other initiatives and to avoid contradictions with laws or regulations.
+When planning a policy is important to know what do you intend to achieve or solve. Sometimes policies are created following other initiatives without thinking if there is a need for another one and if your new policy will overlap other existing ones. The main challenge when creating a policy is to align it with other initiatives and to avoid contradictions with laws or regulations.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
