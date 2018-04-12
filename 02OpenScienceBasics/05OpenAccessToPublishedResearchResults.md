@@ -68,7 +68,7 @@ Some disciplines prefer to use other formats than journals to publish results, f
 
 * Choose a suitable repository or server to post a preprint according to your discipline
 
-* Self archive a publication in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, mainly related to the allowed version to be deposit and the embargo period.
+* Self archive a publication in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, mainly related to the allowed version to be deposit and the embargo period
 
 * Choose among the options of open-access journals and publishing platforms available
 
