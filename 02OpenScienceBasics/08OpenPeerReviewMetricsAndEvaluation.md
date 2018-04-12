@@ -99,11 +99,11 @@ A: Research evaluation is as fair as its methods and evaluation techniques. Metr
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
-* Peer Review the Nuts and Bolts. [A Guide for Early Career Researchers.](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
+* Peer Review the Nuts and Bolts. [A Guide for Early Career Researchers](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
 
 * [Peer Reviewers’ Openness Initiative](https://opennessinitiative.org/)
 
-* [Open Rev. ](https://www.openrev.org/)
+* [Open Rev](https://www.openrev.org/)
 
 * [Peerage of Science](https://www.peerageofscience.org/)
 
