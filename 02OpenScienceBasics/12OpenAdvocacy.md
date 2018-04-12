@@ -22,7 +22,7 @@ Trainings \(workshops, seminars, presentations\) can be used as advocacy tools. 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
-1. Understand the context and goals of the advocacy program, 
+1. Understand the context and goals of the advocacy program
 2. Be able to communicate effectively with audiences and draw community’s attention to an important issue and directing decision makers toward a resolution.
 
 ### Key components
@@ -48,7 +48,7 @@ Objectives can be long term or short term. Long-term objectives usually focus on
 
 Main goals of advocacy program:
 
-* to increase awareness among influential groups and the public;
+* to increase awareness among influential groups and the public
 
 * to reduce stigma and fear
 
@@ -56,7 +56,7 @@ Main goals of advocacy program:
 
 * to expand advocacy groups, including community volunteers
 
-* to mobilize resources to support the implementation of key priority \(core\) interventions;
+* to mobilize resources to support the implementation of key priority \(core\) interventions
 
 * to maintain the involvement of decision-makers and the public l by disseminating information on achievements to date and future challenges.
 
@@ -66,7 +66,7 @@ Main goals of advocacy program:
    1. What needs changing?
    2. What do we want to ask for? Changing legislation, policy, regulation, programs, funding
 2. Understand your audience: different strategies for each target
-3. Build a profile of open access stakeholders and their attitudes.
+3. Build a profile of open access stakeholders and their attitudes
 4. Craft your message: create compelling messages that appeal to stakeholders’ interests
    1. Be clear on what we are asking for
    2. Keep it simple and focussed
@@ -74,14 +74,14 @@ Main goals of advocacy program:
    4. Use evidence - facts carry more weight than anecdotal evidence
    5. Economic arguments are important
 5. Plan and develop your communication and advocacy campaign
-6. Identify Delivery Methods:
+6. Identify delivery methods:
    1. Advocacy is relationship building,
    2. Tactics change by target audience
 7. Identify Resources and Gaps:
    1. Do a SWOT \(strengths, weaknesses, opportunities and threats\) analysis
    2. Build on existing resources and opportunities
-8. Plan Next Steps Identify achievable goals that set stage for larger work: advocacy strategy/plan
-9. Evaluate Effectiveness Regularly
+8. Plan next steps, identify achievable goals that set stage for larger work: advocacy strategy/plan
+9. Evaluate effectiveness regularly
 
 ##### Aspects of advocacy
 
@@ -97,9 +97,9 @@ Main goals of advocacy program:
 
 ##### Tools and methods
 
-**Indirect**: stimulate participants to take action on their own behalf,
+**Indirect**: stimulate participants to take action on their own behalf
 
-**Direct:** lobbying before decision makers by representatives on behalf of others.
+**Direct:** lobbying before decision makers by representatives on behalf of others
 
 **Campaigning:** generating a response from the wider public and using a variety of techniques such as:
 
@@ -117,7 +117,7 @@ Main goals of advocacy program:
 
 * public events
 
-* large-scale advertising campaigns.
+* large-scale advertising campaigns
 
 * use of social media \(Twitter, Facebook\)
 
