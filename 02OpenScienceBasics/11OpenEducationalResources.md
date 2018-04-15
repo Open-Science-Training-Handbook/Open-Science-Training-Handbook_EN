@@ -29,9 +29,9 @@ Training should provide an overview of OER platforms and their intended use. Ope
 
 Examples for OER platforms are:
 
-- [Creative Commons Search](https://search.creativecommons.org/)) for image, audio, and video files
-- [Open Education Consortium](http://www.oeconsortium.org)) for open course material
-- [OERCommons](https://www.oercommons.org/)) for educational resources
+- [Creative Commons Search](https://search.creativecommons.org/) for image, audio, and video files
+- [Open Education Consortium](http://www.oeconsortium.org) for open course material
+- [OERCommons](https://www.oercommons.org/) for educational resources
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
