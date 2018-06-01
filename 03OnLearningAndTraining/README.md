@@ -9,9 +9,9 @@ This chapter providing context on training strategies, practical guidance in des
 
 3. Reflection
 
-Teaching and training is firstly about preparation before delivering a course. Preparation includes the choice of content, deciding on appropriate teaching methods and putting them into a sequence to maximise the effectiveness and impact of your training. Secondly, teaching is about delivering a course \(i.e., how you act and interact with the participants\). Even if you are feeling very confident on a particular topic, it is very advisable to avoid starting the delivery before having finished the preparation. Moreover,you may need to test your content, especially the practical exercises. Then, during the course delivery, you need a good portion of flexibility, because things rarely happen completely as you expect. Finally, teaching is also about evaluation and self-assessment once you have delivered a course. It is more than likely that you have to engage yourself in the same or a similar course several times, in particular if the evaluation shows that it was good.
+Teaching and training is firstly about preparation before delivering a course. Preparation includes the choice of content, deciding on appropriate teaching methods and putting them into a sequence to maximise the effectiveness and impact of your training. Secondly, teaching is about delivering a course \(i.e., how you act and interact with the participants\). Even if you are feeling very confident on a particular topic, it is very advisable to avoid starting the delivery before having finished the preparation. Moreover, you may need to test your content, especially the practical exercises. Then, during the course delivery, you need a good portion of flexibility, because things rarely happen completely as you expect. Finally, teaching is also about evaluation and self-assessment once you have delivered a course. It is more than likely that you have to engage yourself in the same or a similar course several times, in particular if the evaluation shows that it was good.
 
-To better prepare yourself for future events, you should reflect on what worked well and what did not work so well, and use this to iteratively define your preparations and delivery. Briefly said, there is a" before”, a "during” and an “after” class, i.e. activities in a cycle, similar to science. This chapter provides a practical guidance for the trainers on how to prepare and deliver a course to various audiences: what are the main obstacles one has to overcome and what are the main issues one needs to keep in mind when putting together a training.
+To better prepare yourself for future events, you should reflect on what worked well and what did not work so well, and use this to iteratively define your preparations and delivery. Briefly said, there is a “before”, a “during” and an “after” class, i.e. activities in a cycle, similar to science. This chapter provides a practical guidance for the trainers on how to prepare and deliver a course to various audiences: what are the main obstacles one has to overcome and what are the main issues one needs to keep in mind when putting together a training.
 
 ## Some reflections before you start
 
@@ -47,8 +47,9 @@ Four well known learning theories are behaviorism, cognitivism, connectivism and
 
 This simplified diagram summarises their main characteristics in very practical terms:
 
-<!-- !!! Image does not exist !!! -->
-![image alt text](Images/image_3.png) 
+
+![image alt text](/Images/image_3.png)
+
 
 Transcribed from:
 
@@ -386,7 +387,8 @@ During discussions \(in larger groups\), you should avoid standing microphones w
 
 * Prepare short, middle and long versions of your exercises to become flexible if the discussions are more or less intensive.
 
-* Be prepared for difficult students and consult some troubleshooting guidance before the course 
+* Be prepared for difficult students and consult some troubleshooting guidance before the course. 
+
 \(You may find some ideas in the [MozFest2017 Facilitator Guide](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#)\). 
 You should in any case have an idea of what you do when a parallel conversation emerges or what to do when somebody is constantly rude or inattentive etc. Know that there are verbal and non-verbal ways to tackle this.
 

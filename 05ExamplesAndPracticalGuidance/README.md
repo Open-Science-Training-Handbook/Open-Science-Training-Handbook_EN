@@ -319,7 +319,7 @@ Collaborative Platforms</td>
 </table>
 
 
-##### **Example 1****: Line up! **
+##### **Example 1: Line up! **
 
 * Format, time needed 
 

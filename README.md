@@ -7,74 +7,27 @@ Sharing their experience and skills of imparting Open Science principles, the au
 
 Bringing together methods, techniques, and practices, the handbook aims at supporting educators of Open Science. The result is intended as a helpful guide on how to forward knowledge on Open Science principles to our networks, institutions, colleagues, and students. It will instruct and inspire trainers how to create high quality and engaging trainings. Addressing challenges and giving solutions, it will strengthen the community of Open Science trainers who are educating, informing, and inspiring themselves.
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
-## Roadmap
+## Help us making the handbook better
 
-1. Writing the OSTH \(12.-16.02.2018\)
-2. Pre-release available for comments and suggestions until 4th of March 2018
-3. Discussing and including suggestions by community \(05.-20.03.2018\)
-4. Moving the OSTH to github \(21.03.2018\)
-5. Finalizing everything for the version 1.0 \(22.03.-01.04.2018\)
-6. Release of OSTH 1.0 \(04.04.2018\) - [doi.org/cm2s](http://doi.org/cm2s)
-7. Living handbook open for contributions
+We welcome comments and feedback from everyone, irrespective of their expertise or background. The easiest way to do this is to leave a comment [right here](https://book.fosteropenscience.eu/) by touching any paragraph with your mouse pointer and then clicking on the plus sign appearing next to that paragraph. Also, you can create pull requests, either from within the Gitbook website or app, or with any tool you like. The handbook's content is maintained as [this GitHub repository](https://github.com/Open-Science-Training-Handbook).
 
-## Table of Contents
+## Let's run an Open Science training together
 
-1. Introduction
-2. Open Science Basics
-3. On Learning & Training
-4. Organizational Aspects
-5. Examples & Practical Guidance
-6. Glossary
-7. References
-8. About the Authors & Facilitators
-
-## Disclaimer
-
-This is a pre-release, please note that this means some sections are presently incomplete or require further editing. We welcome comments and feedback from everyone, irrespective of their expertise or background. If you do comment, please leave your real name for identification purposes. After this, we will integrate all suggested comments as appropriate, and create a finalised version.
-
-## Copyright statement and contact information
-
-The Open Science Training Handbook is an Open Educational Resource, and will therefore be made available under [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). You do not have to ask our permission to re-use and copy information from this handbook. Take note that some of the materials referenced in this book might be copyright protected—if so, this will be indicated in the text. Please consider citing the handbook when using the content.
-
-We have tried to acknowledge all our sources. If for some reason we have forgotten to provide you with proper credits, it has not been done with malicious intent. Feel free to contact us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) for any corrections.
+Are you interested in running or attending trainings or webinars that make use of the Open Science Training Handbook? Get in touch with us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) - we'd love to hear from you.
 
 ## <img src="/Images/Icons/research_group.png" width="150" height="150" />
-## List of Authors
 
-* Sonja Bezjak \(University of Ljubljana, Slovenia\)
+## How to refer to the handbook
 
-* April Clyburne-Sherin \(Code Ocean, USA\)
+Please consider citing the handbook when using the content. To cite the book, we recommend that you either refer to 
 
-* Philipp Conzett \(UiT The Arctic University of Norway, Norway\)
+* https://book.fosteropenscience.eu/, which is the most friendly way to read the book (also available as [PDF](https://legacy.gitbook.com/download/pdf/book/open-science-training-handbook/book), [ePub](https://legacy.gitbook.com/download/epub/book/open-science-training-handbook/book) and [Mobi](https://legacy.gitbook.com/download/mobi/book/open-science-training-handbook/book)), to comment and to suggest changes, _or_ 
 
-* Pedro L. Fernandes \(Instituto Gulbenkian de Ciência, Portugal\)
+* https://doi.org/10.5281/zenodo.1212496, which is a citable DOI refering to a (hardly comprehensible) archived dump of the book.
 
-* Edit Görögh \(University of Göttingen, Germany\)
+## The Authors and the Book Sprint facilitators
 
-* Kerstin Helbig \(Humboldt-Universität zu Berlin, Germany\)
-
-* Bianca Kramer \(Utrecht University, Netherlands\)
-
-* Ignasi Labastida \(Universitat de Barcelona, Catalonia/Spain\)
-
-* Kyle Niemeyer \(Oregon State University, USA\)
-
-* Fotis Psomopoulos \(Center for Research and Technology Hellas, Greece\)
-
-* Tony Ross-Hellauer \(Know-Center GmbH, Austria\)
-
-* René Schneider \(Geneva School of Business Administration, Switzerland\)
-
-* Jon Tennant \(Open Science MOOC, Germany\)
-
-* Ellen Verbakel \(4TU.Centre for Research Data, Netherlands\)
-
-## Book Sprint Facilitators
-
-* Helene Brinken \(SUB Göttingen, Germany\)
-
-* Lambert Heller \(TIB, Hannover, Germany\)
+Learn more about the authors and the book sprint facilitators, their experiences and inspiration, as well as their affiliation, contact information, Twitter and ORCID profiles, in the [Handbook's last chapter](./08AboutTheAuthorsAndFacilitators).
 
 ## <img src="/Images/Icons/heart.png" width="150" height="150" />
 
@@ -89,6 +42,12 @@ We have tried to acknowledge all our sources. If for some reason we have forgott
 * Matteo Cancellieri \(Open University, UK\) for supporting us with all technical issues and creating the gitbook
 
 * Simon Worthington \(TIB, Hannover, Germany\) for providing advice with maintaining and converting bibliographic metadata 
+
+## Copyright statement 
+
+The Open Science Training Handbook is an Open Educational Resource, and is therefore available under the [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). You do not have to ask our permission to re-use and copy information from this handbook. Take note that some of the materials referenced in this book might be copyright protected — if so, this will be indicated in the text. 
+
+We have tried to acknowledge all our sources. If for some reason we have forgotten to provide you with proper credits, it has not been done with malicious intent. Feel free to contact us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) for any corrections.
 
 ## Funding
 
