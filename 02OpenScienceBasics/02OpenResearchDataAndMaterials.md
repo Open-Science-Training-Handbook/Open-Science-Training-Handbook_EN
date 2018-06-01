@@ -59,7 +59,7 @@ There are several distinct ways to make research data accessible, including \([W
 
 * Hosting data on a publicly-available website, with files available for download.
 
-* Depositing data in a repository that has been developed to support data publication, e.g., [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_%28repository), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
+* Depositing data in a repository that has been developed to support data publication, e.g., [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repository)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
 
 * A large number of general and domain or subject specific data repositories exist which can provide additional support to researchers when depositing their data.
 
