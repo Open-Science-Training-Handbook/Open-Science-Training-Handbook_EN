@@ -327,7 +327,7 @@ Depending on the size of your audience, the amount of time available, and the de
 
 Know that there is no absolute need to immediately adapt  the content, just be clear by letting all participants know what will be covered or not.
 
-Once more, the information delivered by the [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/)\) might be helpful to create the right ambiance.
+Once more, the information delivered by the \([Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/)\) might be helpful to create the right ambiance.
 
 ## <img src="/Images/05 Examples _ Practical Guidance/05_icebreaker.png" width="300" height="300" />
 #### Ice-breaker
