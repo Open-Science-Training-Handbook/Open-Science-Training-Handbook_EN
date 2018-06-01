@@ -59,11 +59,11 @@ There are several distinct ways to make research data accessible, including \([W
 
 * Hosting data on a publicly-available website, with files available for download.
 
-* Depositing data in a repository that has been developed to support data publication, e.g., [Dataverse](https://en.wikipedia.org/wiki/Dataverse), \[Dryad\]\([https://en.wikipedia.org/wiki/Dryad\_\(repository](https://en.wikipedia.org/wiki/Dryad_%28repository)\)\), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
+* Depositing data in a repository that has been developed to support data publication, e.g., [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_%28repository), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
 
 * A large number of general and domain or subject specific data repositories exist which can provide additional support to researchers when depositing their data.
 
-* Publishing a data paper about the dataset, which may be published as a preprint, in a journal, or in a data journal that is dedicated to supporting data papers. The data may be hosted by the journal or hosted separately in a data repository. Examples of data journals include [Scientific Data](https://www.nature.com/sdata/) \(by SpringerNature\) and the [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(by CODATA\). For a comprehensive review of data journals, see [Candela et al.](https://doi.org/10.1002%2Fasi.23358)
+* Publishing a data paper about the dataset, which may be published as a preprint, in a journal, or in a data journal that is dedicated to supporting data papers. The data may be hosted by the journal or hosted separately in a data repository. Examples of data journals include [Scientific Data](https://www.nature.com/sdata/) \(by SpringerNature\) and the [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(by CODATA\). For a comprehensive review of data journals, see [Candela et al](https://doi.org/10.1002%2Fasi.23358).
 
 The CESSDA ERIC [Expert tour guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes) provides an overview of pros and cons of different data publication routes. Sometimes, your funder or another external party requires you to use a specific repository. If you are free to choose, you may consider the order of preference in the [recommendations by OpenAIRE](https://www.openaire.eu/opendatapilot-repository):
 
