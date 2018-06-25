@@ -1,4 +1,4 @@
-![](/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
+![](/en/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
 ## The Open Science Training Handbook
 
 A group of fourteen authors came together in February 2018 at the TIB \(German National Library of Science and Technology\) in Hannover to create an open, living handbook on Open Science training. High-quality trainings are fundamental when aiming at a cultural change towards the implementation of Open Science principles. Teaching resources provide great support for Open Science instructors and trainers. The Open Science training handbook will be a key resource and a first step towards developing Open Access and Open Science curricula and andragogies. Supporting and connecting an emerging Open Science community that wishes to pass on their knowledge as multipliers, the handbook will enrich training activities and unlock the community’s full potential.
@@ -15,7 +15,7 @@ We welcome comments and feedback from everyone, irrespective of their expertise 
 
 Are you interested in running or attending trainings or webinars that make use of the Open Science Training Handbook? Get in touch with us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) - we'd love to hear from you.
 
-## <img src="/Images/Icons/research_group.png" width="150" height="150" />
+## <img src="/en/Images/Icons/research_group.png" width="150" height="150" />
 
 ## How to refer to the handbook
 
@@ -29,7 +29,7 @@ Please consider citing the handbook when using the content. To cite the book, we
 
 Learn more about the authors and the book sprint facilitators, their experiences and inspiration, as well as their affiliation, contact information, Twitter and ORCID profiles, in the [Handbook's last chapter](./08AboutTheAuthorsAndFacilitators).
 
-## <img src="/Images/Icons/heart.png" width="150" height="150" />
+## <img src="/en/Images/Icons/heart.png" width="150" height="150" />
 
 ## Thank you to
 
