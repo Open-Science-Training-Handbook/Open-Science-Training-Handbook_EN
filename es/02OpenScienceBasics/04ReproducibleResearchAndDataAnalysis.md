@@ -1,4 +1,4 @@
-## <img src="/Images/Icons/reuse.png" width="200" height="200" /> <img src="/Images/Icons/research.png" width="200" height="200" />
+## <img src="/en/Images/Icons/reuse.png" width="200" height="200" /> <img src="/en/Images/Icons/research.png" width="200" height="200" />
 
 ## 4. Reproducible Research and Data Analysis
 
@@ -22,7 +22,7 @@ The concept of reproducibility is directly applied to the scientific method, the
 
 Each of these steps should be clearly reported by providing clear and open documentation, and thus making the study transparent and reproducible.
 
-![](/Images/02 Open Science Basics/02_reproducible_research_data_analysis.png)
+![](/en/Images/02 Open Science Basics/02_reproducible_research_data_analysis.png)
 
 ### Rationale
 
@@ -30,7 +30,7 @@ Overarching factors can further contribute to the causes of non-reproducibility,
 
 While understanding the full range of factors that contribute to reproducibility is important, it can also be hard to break down these factors into steps that can immediately be adopted into an existing research program and immediately improve its reproducibility. One of the first steps to take is to assess the current state of affairs, and to track improvement as steps are taken to increase reproducibility even more. Some of the common issues with research reproducibility are shown in the figure below.
 
-![](/Images/image_2.png)
+![](/en/Images/image_2.png)
 
 Source: [Reproducibility and reliability of biomedical research: improving research practice](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
 
@@ -46,7 +46,7 @@ A simpler way of thinking about this might be that reproducibility is methods-or
 
 Reproducibility can be assessed at several different levels: at the level of an individual project \(e.g., a paper, an experiment, a method or a dataset\), an individual researcher, a lab or research group, an institution, or even a research field. Slightly different kinds of criteria and points of assessment might apply to these different levels. For example, an institution upholds reproducibility practices if it institutes policies that reward researchers who conduct reproducible research. On the other hand, a research field might be considered to have a higher level of reproducibility if it develops community-maintained resources that promote and enable reproducible research practices, such as data repositories, or common data-sharing standards.
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
+## <img src="/en/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
 There are three major objectives that need to be addressed here:
@@ -59,7 +59,7 @@ There are three major objectives that need to be addressed here:
 
 ### Key components
 
-## <img src="/Images/Icons/brain.png" width="150" height="150" />
+## <img src="/en/Images/Icons/brain.png" width="150" height="150" />
 #### Knowledge
 
 The following is an indicative list of take-away points on reproducibility:
@@ -78,12 +78,12 @@ The following is an indicative list of take-away points on reproducibility:
 
 * Addressing the "Researcher Degrees of Freedom" \(Wicherts et al., 2016\).
 
-## <img src="/Images/Icons/gears.png" width="150" height="150" />
+## <img src="/en/Images/Icons/gears.png" width="150" height="150" />
 #### Skills
 
 There are several practical tips for reproducibility that one should have in mind when setting out the particular skills necessary to ensure this. Best practices in reproducibility borrow from Open Science practices more generally but their integration offers benefits to the individual researcher themselves, whether they choose to share their research or not. The reason that integrating reproducibility best practices benefits the individual researcher is that they improve the planning, organization, and documentation of research. Below we outline one example of implementing reproducibility into a research workflow with references to these practices in the handbook.
 
-## <img src="/Images/Icons/task.png" width="150" height="150" />
+## <img src="/en/Images/Icons/task.png" width="150" height="150" />
 ##### **1. Plan for reproducibility before you start **
 
 ###### Create a study plan or protocol.
@@ -100,7 +100,7 @@ Centralize and organize your project management using an online platform, a cent
 
 When saving and backing up your research files, choose formats and informative file names that allow for reuse. File names should be both machine and human readable \(reference to Data Management\). In your analysis and software code, use relative paths. Avoid proprietary file formats and use open file formats \(see 6 Open Licensing and File Formats\).
 
-## <img src="/Images/Icons/handson.png" width="150" height="150" />
+## <img src="/en/Images/Icons/handson.png" width="150" height="150" />
 ##### **2. Keep track of things**
 
 ###### Registration
@@ -119,7 +119,7 @@ Document everything done by hand in a README file. Create a data dictionary \(al
 
 Consider using [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr), or other approaches to literate programming to integrate your code with your narrative and documentation.
 
-## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
+## <img src="/en/Images/Icons/open_licenses.png" width="150" height="150" />
 ##### 3**. Share and license your research**
 
 ###### Data
@@ -134,12 +134,12 @@ Share your materials so they can be reused. Deposit reagents with repositories l
 
 License your code to inform about how it may be \(re\)used. Share notebooks with services such as [mybinder](http://mybinder.org) that allow for public viewing and execution of the entire notebook on shared resources. Share containers or notebooks with services such as [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/). Follow best practices outlined in Open Research Software and Open Source.
 
-## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
+## <img src="/en/Images/Icons/open_scholarship.png" width="150" height="150" />
 ##### 4**. Report your research transparently**
 
 Report and publish your methods and interventions explicitly and transparently and fully to allow for replication. Guidelines from the [Equator Network](http://www.equator-network.org/), tools like [Protocols.io](https://www.protocols.io/), or processes like [Registered Reports](https://cos.io/rr/) can help you report reproducibly. Remember to post your results to your public registration platform \(such as [ClinicalTrials.gov](https://www.socialscienceregistry.org/) or the [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) within a year of finishing your study no matter the nature or direction of your results.
 
-## <img src="/Images/Icons/questions.png" width="150" height="150" />
+## <img src="/en/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
 Q: "Everything is in the paper; anyone can reproduce this from there!"
@@ -154,7 +154,7 @@ Q: "Terminologies describing reproducibility are challenging."
 
 A: See Barba \(2018\) for a discussion on terminology describing reproducibility and replicability.
 
-## <img src="/Images/Icons/output.png" width="150" height="150" />
+## <img src="/en/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 
 1. Understand the necessity of reproducible research and its reasoning.
@@ -163,7 +163,7 @@ A: See Barba \(2018\) for a discussion on terminology describing reproducibility
 
 3. Know tools that can support reproducible research.
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
 * Calculate your power: [Button et al. \(2013\) study of the relationship between reproducibility and power.](https://www.nature.com/articles/nrn3475)

@@ -1,4 +1,4 @@
-## <img src="/Images/Icons/shout.png" width="200" height="200" />
+## <img src="/en/Images/Icons/shout.png" width="200" height="200" />
 ## 11. Open Advocacy
 
 ### What is it?
@@ -19,7 +19,7 @@ Open Advocacy focuses on the movement to promote Open Science at various levels 
 
 Trainings \(workshops, seminars, presentations\) can be used as advocacy tools. The structured approach to advocacy practices helps to address the main issues the trainer has to keep in mind if the training is connected to an Open Science advocacy program. how to use advocacy strategies as tools for effecting specific changes, and on building the basic skills necessary for employing advocacy tools \(e.g., ad campaigns, meetings with policymakers\). Training here is considered as a tool for effecting specific changes, and for building an Open Science advocate community.
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
+## <img src="/en/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
 1. Understand the context and goals of the advocacy program
@@ -27,7 +27,7 @@ Trainings \(workshops, seminars, presentations\) can be used as advocacy tools. 
 
 ### Key components
 
-## <img src="/Images/Icons/brain.png" width="150" height="150" />
+## <img src="/en/Images/Icons/brain.png" width="150" height="150" />
 #### Knowledge
 
 ##### Objectives to achieve
@@ -121,7 +121,7 @@ Main goals of advocacy program:
 
 * use of social media \(Twitter, Facebook\)
 
-## <img src="/Images/Icons/gears.png" width="150" height="150" />
+## <img src="/en/Images/Icons/gears.png" width="150" height="150" />
 #### Skills
 
 * Write a letter for a newsletter or forum for your scholarly society about Open Access.
@@ -132,19 +132,19 @@ Main goals of advocacy program:
 
 * Find your local advocacy group and volunteer for them!
 
-## <img src="/Images/Icons/questions.png" width="150" height="150" />
+## <img src="/en/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
 Lack of interest from audiences. Lack of understanding the value.
 
 The institution and/or senior management is concerned about the impact of the advocacy efforts.
 
-## <img src="/Images/Icons/output.png" width="150" height="150" />
+## <img src="/en/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 
 The trainer will be able to consider the training event in the context of a program.
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
 * [Starting Open Projects From Scratch](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) \(CC0, Crowdsourced by OpenCon attendees\)

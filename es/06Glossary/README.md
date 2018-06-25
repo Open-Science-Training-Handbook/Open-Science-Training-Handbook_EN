@@ -1,4 +1,4 @@
-## <img src="/Images/Icons/idea.png" width="200" height="200" />
+## <img src="/en/Images/Icons/idea.png" width="200" height="200" />
 ## Glossary
 
 **Altmetrics**

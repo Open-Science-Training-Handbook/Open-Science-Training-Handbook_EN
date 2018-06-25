@@ -1,4 +1,4 @@
-## <img src="/Images/Icons/world.png" width="200" height="200" />
+## <img src="/en/Images/Icons/world.png" width="200" height="200" />
 ## 10. Citizen Science
 
 ### What is it?
@@ -13,7 +13,7 @@ Citizen science is both an aim and enabler of Open Science. It can refer to citi
 
 "_Citizen Science and Open Science together can address grand challenges, respond to diminishing societal trust in science, contribute to the creation of common goods and shared resources, and facilitate knowledge transfer between science and society to stimulate innovation. The issues of openness, inclusion and empowerment, education and training, funding, infrastructures and reward systems are discussed regarding critical challenges for both approaches. You might consider Citizen Science and Open Science jointly, to strengthen synergies by building on existing initiatives, launching targeted actions regarding education and training, and infrastructures_". Extracted from the [Policy Brief on Citizen Science and Open Science](https://ecsa.citizen-science.net/sites/default/files/ditos-policybrief3-20180208-citizen_science_and_open_science_synergies_and_future_areas_of_work.pdf) by the European Citizen Science Association \(ECSA\)
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
+## <img src="/en/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
 1. Understand the different aspects of citizen science \(collaborative versus DIY\).
@@ -32,7 +32,7 @@ Citizen science is both an aim and enabler of Open Science. It can refer to citi
 
 ### Key components
 
-## <img src="/Images/Icons/brain.png" width="150" height="150" />
+## <img src="/en/Images/Icons/brain.png" width="150" height="150" />
 #### Knowledge
 
 The European Citizen Science Association \(ECSA\) created a best practice guideline on what constitutes good citizen science and wrote the [10 principles of Citizen Science](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science). This statement has been translated into many languages. Those 10 principles offers a guidance of best practices for any project based on Citizen Science.
@@ -41,7 +41,7 @@ When starting a citizen science project there are a few key elements that must b
 
 Although there is still an open debate on how to assess some citizen science activities there are already some examples that can be included as societal impact in evaluation reports like the [cases studies](http://impact.ref.ac.uk/CaseStudies/Results.aspx?val=%22Citizen+Science%22) extracted from the UK Research Excellence Framework.
 
-## <img src="/Images/Icons/gears.png" width="150" height="150" />
+## <img src="/en/Images/Icons/gears.png" width="150" height="150" />
 #### Skills
 
 * Be able to differentiate in different citizen science project approaches: projects where citizens just provide data versus projectes where the citizen engagement is along the research project.
@@ -50,20 +50,20 @@ Although there is still an open debate on how to assess some citizen science act
 
 * Be able to provide different solutions on sharing research outputs.
 
-## <img src="/Images/Icons/questions.png" width="150" height="150" />
+## <img src="/en/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
 * One of the controversies that usually arise in citizen projects is how researchers make data gathered by citizens publicly available. Researchers should be aware on how this data can be shared taking into account legal and ethical aspects.
 
 * The lack of rewards for citizen science practices if they do not end in a "traditional" research output: paper, proceeding etc. is a common issue when training on citizen science. Probably a good way to overcome this issue is to start a conversation on how participants would like to get rewarded and which methods they propose.
 
-## <img src="/Images/Icons/output.png" width="150" height="150" />
+## <img src="/en/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 
 1. Trainees will be able to know the different approaches of citizen science projects and how to deal with legal and ethical aspects, especially in relation with data management. 
 2. Participants in the training sessions would learn how to engage citizens in their research at any point of their research activities.
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
 * [White Paper on Citizen Science for Europe](http://www.socientize.eu/sites/default/files/white-paper_0.pdf)

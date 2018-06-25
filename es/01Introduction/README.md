@@ -1,4 +1,4 @@
-## <img src="/Images/Icons/book.png" width="200" height="200" />
+## <img src="/en/Images/Icons/book.png" width="200" height="200" />
 
 ## Purpose of the book
 
@@ -10,7 +10,7 @@ This book offers guidance and resources for Open Science instructors and trainer
 
 Building on the authors’ cumulative experience and skills of imparting Open Science principles, this handbook is oriented towards practical teaching in an open knowledge and educational setting. In other words, the focus of this handbook does not lie on spreading the idea of Open Science, but on _how to_ support Open Science practices most effectively.
 
-## <img src="/Images/Icons/gears.png" width="150" height="150" />
+## <img src="/en/Images/Icons/gears.png" width="150" height="150" />
 
 ## Who is this book for?
 
@@ -18,7 +18,7 @@ This handbook is intended for anyone who wishes to host Open Science training ev
 
 In this handbook, we define "trainer" as any person wishing to run an Open Science training event, regardless of their levels of experience. Importantly, this includes those who would feel uncomfortable or do not wish to use the Open Science label in their teaching. The book contains advice on teaching concrete skills and concepts to improve the work of researchers. And while most fall under the umbrella term "Open Science", they needn’t be taught as such. Wariness of the label “Open Science” might mean that "Open Science" training only attracts a particular segment of researchers, whereas "How to publish your data" training attracts a more diverse group. Part of a trainer’s job is to define their target audience and how best to reach them, and so such decisions are best made by you!
 
-## <img src="/Images/Icons/questions.png" width="150" height="150" />
+## <img src="/en/Images/Icons/questions.png" width="150" height="150" />
 
 ## What is Open Science?
 
@@ -29,7 +29,7 @@ According to the [FOSTER taxonomy](https://www.fosteropenscience.eu/taxonomy/ter
 
 **A note on language:** As the English word "science" traditionally does not include the humanities and social sciences, more explicitly inclusive terms like “open scholarship” or “open research” are often used. As “Open Science” is the more common term, we shall use it here, but it should be read as referring to research from all scholarly disciplines.
 
-## <img src="/Images/Icons/arrow.png" width="150" height="150" />
+## <img src="/en/Images/Icons/arrow.png" width="150" height="150" />
 
 ## How to use the book
 
@@ -49,7 +49,7 @@ This handbook was created to be a living resource. This means it will regularly 
 
 We hope you will enjoy reading this handbook and wish you all the best for your future Open Science training!
 
-## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
+## <img src="/en/Images/Icons/open_licenses.png" width="150" height="150" />
 
 ## Open License and Credits
 

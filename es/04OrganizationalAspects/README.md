@@ -1,4 +1,4 @@
-## <img src="/Images/Icons/timetable.png" width="200" height="200" />
+## <img src="/en/Images/Icons/timetable.png" width="200" height="200" />
 ## Organizational aspects
 
 This chapter will guide you through the main practical aspects of organising a training event. Of course, what you need and will use will depend on the type of event you’ll organise! The checklist should be adjusted accordingly. You will get information on preparation steps and necessary organizational tasks. This will provide you not only with valuable knowledge about event organization, but will reassure you while preparing your training. Note that most of the material in this chapter, and the whole handbook, is focused on training regarding practical workshops. Running a different type of event may require different decisions than the recommendations that follow.
@@ -195,7 +195,7 @@ To provide you with initial guidance over possible types of training and their c
 
 Before committing to the event be sure you defined your target audience and that you are aware of their needs. Consider your audience, its size and the number or area of competence of (guest) trainers. [link to On learning and training chapter: Target audiences] <!--- The link seems to be missing here -->
 
-## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
+## <img src="/en/Images/Icons/collaborate.png" width="150" height="150" />
 #### Cooperating with others
 
 Some forms of training require more than one instructor. Try to get support from colleagues or service units in your institution. Identify institutional support (e.g., funding, room(s), work time) and reach out to decision makers to ask for these things - for example, you could ask for help with registration, or contact the printing service or communication department regarding advertising. Make sure any volunteers are sufficiently briefed on all activities, and know what the aims and practicalities of the event are. Make them aware of the importance of encouraging participation from the attendees. You can also outsource some tasks, if the budget allows for this.
@@ -210,7 +210,7 @@ Maintaining an inclusive environment is important for any successful training ev
 
 Actively invite trainers and speakers from underrepresented groups. Make sure to discuss with them their specific goals and needs, and include these in the planning of the event. To learn more about trainers see On learning and training chapter, Expectations about a trainer subchapter. Ensure that a proportion of participant spots are reserved for attendees across ethnic backgrounds, gender identities, disciplines and geographic regions [link to On learning and training chapter: Inclusive engagement]. To learn more about how to make your workshop inclusive and welcoming, see the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
-## <img src="/Images/Icons/home.png" width="150" height="150" />
+## <img src="/en/Images/Icons/home.png" width="150" height="150" />
 ### Venue
 
 Before organizing a face to face training event consider few things related to a venue. It might help you to reduce several obstacles: 
@@ -219,14 +219,14 @@ The venue should be easily accessible for the participants. The venue should hav
 
 The training room should be sufficiently equipped (see equipment and media). The room should have sufficient WiFi and power access for every participant (possibly via power strips/extension cords). Check to see if furniture can be rearranged in order to suit your requirements. The presenter will need a high (or raisable) table for standing and a microphone (for recording and/or accessibility). An additional microphone for participant questions aids accessibility. 
 
-## <img src="/Images/Icons/break.png" width="150" height="150" />
+## <img src="/en/Images/Icons/break.png" width="150" height="150" />
 ### Timing
 
 The length of the event depends on the content and depth of the training you intend to provide. You should have an estimate how much time each component will take. Make sure to define an agenda or time schedule, including any icebreakers and introductions. Allow enough time for lunch and coffee breaks. Be reasonable with your start and end times  [link to On learning and training chapter: Starting the training]. 
 
 Before scheduling your event think about obstacles that might prevent or induce people to join and try to pick a suitable time and date of the event. Make sure to avoid conflict with any public holidays, religious holidays, or similar events. If your event is hosted at a university, keep class schedules in mind. Consider to place your training session along with a larger conference or meeting in order to bring more attention, increase the attendance and get the chance to bring any speaker attending the other event.  A family friendly workshop should avoid evenings and weekends, provide childcare or childcare sponsorships, and ensure areas for breastfeeding mothers. 
 
-## <img src="/Images/Icons/budget.png" width="150" height="150" />
+## <img src="/en/Images/Icons/budget.png" width="150" height="150" />
 ### Budget
 
 You may need financial support to help run your event, to pay for things like the venue (if the host institution cannot or will not provide this for free), travel support for non-local trainers/experts, refreshments, materials (e.g., name badges, USB drives) and swag. Most types of training will need at least a little money for material and equipment. Also keep in mind that the costs associated with human resource are often the largest costs associated with running an event. It is good to identify time needed for staff to prepare materials and content which is often not budgeted for. These costs may be covered through as a core aspect of the job, but if not it might be wise to ensure funding to cover this aspect is sourced.
@@ -248,7 +248,7 @@ You can get funding from a few difference sources: the host institution, externa
 Consider different levels of sponsorship (bronze, silver, gold) in case of bigger events. You might also want to look at other projects or programs to co-organize and  share costs with. 
 
 ## Organizational tasks 
-## <img src="/Images/Icons/laptop.png" width="150" height="150" /> <img src="/Images/Icons/wifi.png" width="150" height="150" />
+## <img src="/en/Images/Icons/laptop.png" width="150" height="150" /> <img src="/Images/Icons/wifi.png" width="150" height="150" />
 ### Equipment & Media 
 
 #### Long-term preparation
@@ -269,7 +269,7 @@ Preparing a variety of media can help engage an audience with diverse learning s
 
 If your equipment fails, do not panic. Call the IT support and explain the problem to the attendees. Most people understand that. What might feel like hours to you are just a few minutes of lost time. If the equipment still not works try to work offline with flip charts for example. If you are relying heavily on media equipment and it is just a small group of participants suggest to reschedule the training.
 
-## <img src="/Images/Icons/shout.png" width="150" height="150" />
+## <img src="/en/Images/Icons/shout.png" width="150" height="150" />
 ### Marketing & Advertising Strategy
 
 #### Long before the event
@@ -290,7 +290,7 @@ Send a reminder on social media and mailing lists. Put up signs so your attendee
 
 Publish pictures and short videos from the event on the website and social media. Tell participants the hashtag for the training and ask them to send at least one tweet/message during the event. Collect reasons for attendance for advertising of future events.
 
-## <img src="/Images/Icons/check.png" width="150" height="150" />
+## <img src="/en/Images/Icons/check.png" width="150" height="150" />
 ### Registration
 
 #### Long before the event
@@ -313,7 +313,7 @@ If there is no separate registration desk, prepare a cheat sheet with informatio
 
 Do you have consent from participants to re-use or share their contact information or to take pictures and publish them? Did all participants sign the participants list?
 
-## <img src="/Images/Icons/email.png" width="150" height="150" />
+## <img src="/en/Images/Icons/email.png" width="150" height="150" />
 ### Communication
 
 #### Long before the event
@@ -342,7 +342,7 @@ Remind people about reachability and accessibility of the venue. Send detailed i
 
 Dedicate some time to housekeeping at the start of your event. Write down hashtags and WIFI passwords.
 
-## <img src="/Images/Icons/lunch_break.png" width="150" height="150" />
+## <img src="/en/Images/Icons/lunch_break.png" width="150" height="150" />
 ### Catering
 
 #### Long before the event
@@ -359,7 +359,7 @@ Check the venue and inform the caterer where and when to deliver the refreshment
 
 Be sure you have the contact information of the caterer if the catering is not showing up, delivering the wrong lunch or forgot something.
 
-## <img src="/Images/Icons/write.png" width="150" height="150" />
+## <img src="/en/Images/Icons/write.png" width="150" height="150" />
 ### Code of Conduct
 
 #### Long before the event
@@ -384,7 +384,7 @@ Make sure the Code of Conduct is clearly visible/accessible from the event websi
 
 Make sure there is a safe space for participants to report any breaches of the Code of Conduct. Communicate sanctions, and follow through if any breaches occur.
 
-## <img src="/Images/Icons/badge.png" width="150" height="150" />
+## <img src="/en/Images/Icons/badge.png" width="150" height="150" />
 ### Certification of attendance
 
 #### Long before the event
@@ -401,7 +401,7 @@ Ask participants if a certificate of attendance is needed.
 
 If a signature sheet is required, make sure you do a check during the day or ask to complete it at registration. 
 
-## <img src="/Images/Icons/sign_left.png" width="150" height="150" /> <img src="/Images/Icons/sign_right.png" width="150" height="150" />
+## <img src="/en/Images/Icons/sign_left.png" width="150" height="150" /> <img src="/Images/Icons/sign_right.png" width="150" height="150" />
 ### Signs
 
 #### Long before the event
@@ -416,7 +416,7 @@ Design, print and place the signs and leave useful information at the reception 
 
 Remove the signs after the event.
 
-## <img src="/Images/Icons/social_facebook.png" width="150" height="150" /> <img src="/Images/Icons/social_twitter.png" width="150" height="150" />
+## <img src="/en/Images/Icons/social_facebook.png" width="150" height="150" /> <img src="/Images/Icons/social_twitter.png" width="150" height="150" />
 ### Social media and notes 
 
 #### Long before the event
@@ -433,7 +433,7 @@ Ask your audience whether they are ok with being filmed, photographed and featur
 
 Assign note takers and people responsible for social media. Ideally, rotate heavily to avoiding slacking and loss of attention. 
 
-## <img src="/Images/Icons/key.png" width="150" height="150" />
+## <img src="/en/Images/Icons/key.png" width="150" height="150" />
 ## Event closure
 
 ### Venue
@@ -456,7 +456,7 @@ Upload all the material used during the event (presentations, documents) if they
 
 Prepare a report for your funder or institution and if needed make it public (e.g. blog, twitter, website). 
 
-## <img src="/Images/Icons/coffee_break.png" width="150" height="150" /> <img src="/Images/Icons/toilets.png" width="150" height="150" />
+## <img src="/en/Images/Icons/coffee_break.png" width="150" height="150" /> <img src="/Images/Icons/toilets.png" width="150" height="150" />
 ## Checklist
 
 <table>
@@ -682,7 +682,7 @@ Prepare a report for your funder or institution and if needed make it public (e.
   </tr>
 </table>
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ## References
 
 Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62: [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 

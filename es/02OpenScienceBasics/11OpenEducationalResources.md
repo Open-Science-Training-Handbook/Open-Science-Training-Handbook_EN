@@ -1,4 +1,4 @@
-## <img src="/Images/Icons/open_education.png" width="200" height="200" />
+## <img src="/en/Images/Icons/open_education.png" width="200" height="200" />
 ## 11. Open Educational Resources
 
 ### What is it?
@@ -9,7 +9,7 @@ Open Educational Resources (OER) are defined as "teaching, learning and research
 
 In many cases open educational resources are build upon research findings. If you are an Open Science practitioner it makes sense that your educational resources maintain the level of openness of your research. Moreover other instructors could use your material to elaborate new resources or adapt existing ones. In fact the creation of educational resources can be seen as a cycle similar to the research cycle: find, compose, adapt, use, and share ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
+## <img src="/en/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
 1. Participants should learn the difference between open and non-open educational resources.
@@ -17,7 +17,7 @@ In many cases open educational resources are build upon research findings. If yo
 3. Participants should know where to find and place created OER resources.
 
 ### Key components
-## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
+## <img src="/en/Images/Icons/brain.png" width="150" height="150" /> <img src="/en/Images/Icons/gears.png" width="150" height="150" />
 #### Knowledge and Skills
 
 Open Educational Resources are only OER, if they have an open license. However, there is no clear guideline for the choice of license for your resource. So what kind of license is appropriate? In practice, Creative Commons (CC) licenses are most often used for OER. 
@@ -33,21 +33,21 @@ Examples for OER platforms are:
 - [Open Education Consortium](http://www.oeconsortium.org) for open course material
 - [OERCommons](https://www.oercommons.org/) for educational resources
 
-## <img src="/Images/Icons/questions.png" width="150" height="150" />
+## <img src="/en/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
 Q: How can you ensure quality of the materials?
 
 A: This is not always a given. So far there is no quality seal for OER materials. Open user comments, peer review, and the publication of materials on platforms of established institutions like e.g. universities can provide a first indication of quality. Just as with printed text materials, quality can though not be guaranteed. This unsettles many users. The actuality and adaptability of the materials nevertheless speaks for the use of OER. At the end of the day, you only know yourself whether the selected material is suitable for the intended purpose and whether its content is correct.
 
-## <img src="/Images/Icons/output.png" width="150" height="150" />
+## <img src="/en/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 
 1. Trainees will be able to distinguish between copyrighted and free materials. 
 2. The combination of different license types and their effects will be known. 
 3. They will be able to find, use and create Open Educational Resources. 
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 Butcher, Neil (2015): A Basic Guide to Open Educational Resources (OER): [hdl.handle.net/11599/36](http://hdl.handle.net/11599/36)
 
