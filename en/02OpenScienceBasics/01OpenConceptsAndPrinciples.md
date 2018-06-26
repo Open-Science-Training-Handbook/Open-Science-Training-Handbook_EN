@@ -38,6 +38,7 @@ Open Science, as defined above, encompasses a huge number of potential structura
 
 ### Key components
 ## <img src="/en/Images/02 Open Science Basics/02_open_concepts_and_principles.png" width="300" height="150"/>
+![](/en/Images/02 Open Science Basics/02_open_concepts_and_principles.png)
 
 ## <img src="/en/Images/Icons/brain.png" width="150" height="150" /><img src="/en/Images/Icons/gears.png" width="150" height="150" />
 #### Knowledge & Skills
