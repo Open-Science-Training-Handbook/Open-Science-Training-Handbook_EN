@@ -9,6 +9,8 @@ Advocacy in all its forms seeks to ensure that people, particularly those who ar
 
 * Defend and safeguard their rights.
 
+* add something important here
+
 * Have their views and wishes genuinely considered when decisions are being made about their lives.
 
 Advocacy include actions of defending, influencing, changing, decision-making, persuading, lobbying, attracting attention.
