@@ -1,4 +1,4 @@
 # Languages
 
 * [English](en/)
-* [Español](es/)
+* [Español](es/README.md)
