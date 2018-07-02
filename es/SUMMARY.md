@@ -1,6 +1,6 @@
 # Summary
 
-* [Español​](README.md)
+* [EspañolREADME​](es/README.md)
 * [Introduction](es/01Introduction/README.md)
 * [Open Science Basics](es/02OpenScienceBasics/README.md)
 	* [Open Concepts and Principles](es/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
