@@ -1,4 +1,4 @@
-## <img src="/en/Images/Icons/open_education.png" width="200" height="200" />
+## <img src="/Images/Icons/open_education.png" width="200" height="200" />
 ## On Learning and Training
 
 This chapter providing context on training strategies, practical guidance in designing a course as well as an overview of pedagogical theories. It will focus on three key concepts in teaching and training:
@@ -37,7 +37,7 @@ However...
 
 * In order to develop competencies as a professional, a person needs to attempt to understand the theoretical concepts as well as to have practical exposure. Therefore, teaching and training are equally important and complementary educational concepts.
 
-![](/en/Images/03 On Learning and Training/03_teaching_vs_learning.png)
+![](/Images/03 On Learning and Training/03_teaching_vs_learning.png)
 
 ### Strategies
 
@@ -48,7 +48,7 @@ Four well known learning theories are behaviorism, cognitivism, connectivism and
 This simplified diagram summarises their main characteristics in very practical terms:
 
 
-![image alt text](/en/Images/image_3.png)
+![image alt text](/Images/image_3.png)
 
 
 Transcribed from:
@@ -67,7 +67,7 @@ What is important to know, is that there are different approaches and you should
 
 In the end it is practice that matters and it may be helpful to check your content and practical exercises against one of the theoretical approaches in order to find out if they are appropriate at the given moment and for the target audience.
 
-## <img src="/en/Images/03 On Learning and Training/03_expectations.png" width="300" height="300" />
+## <img src="/Images/03 On Learning and Training/03_expectations.png" width="300" height="300" />
 ### Expectations about a trainer
 
 Everyone that comes to your training will come with expectations, conscious and unconscious ones. Among others \(such as teaching methodology, content and prior knowledge\) they will have specific expectations about the trainer.
@@ -94,7 +94,7 @@ Most learners will expect you to:
 
 * Provide links to online documents and resources that support newcomers.
 
-## <img src="/en/Images/Icons/target.png" width="150" height="150" />
+## <img src="/Images/Icons/target.png" width="150" height="150" />
 ### Target audiences
 
 A good way to get started with your Open Science training is to address audiences that have some idea and/or are interested in the topic. Generally, these people may be more open to the idea of Open Science. Starting your training with a motivated audience has several advantages:
@@ -145,7 +145,7 @@ A good way to get started with your Open Science training is to address audience
 2. confidently use what was learned during the training, thus increasing their impact in their professional environment.
 3. become able to network with advocates from multiple disciplines,and act in a global Open Science initiative.
 
-## <img src="/en/Images/Icons/guidance.png" width="150" height="150" />
+## <img src="/Images/Icons/guidance.png" width="150" height="150" />
 ### Teaching adults
 
 Scholarly research is practised by adults, as such, the participants of any training in Open Science will most likely be adults, often with a first or second degree in higher education. It is therefore interesting to see, how far teaching children or teenagers \(pedagogy\) differs from teaching adults \(andragogy\). The Canadian Literacy and Learning Network did some interesting work on this difference and recapitulated it in seven principles:
@@ -183,7 +183,7 @@ Specifying outcomes is part of handling training as a cognitive process. In 1956
 Bloom’s Taxonomy is a classification method with six levels. Using Bloom’s Taxonomy is worth the effort because it represents a significant step towards a desire to build robust training and teaching. Together with Bloom’s Taxonomy you can find several types of design aids such as annotated terminologies, verbs to use or to avoid in course planning and building assessment questions, etc.
 
 
-## <img src="/en/Images/Icons/finish.png" width="150" height="150" /> <img src="/en/Images/Icons/output.png" width="150" height="150" />
+## <img src="/Images/Icons/finish.png" width="150" height="150" /> <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Learning objectives & learning outcomes
 
 These two terms are often used interchangeably by the training community. Objectives, comprising aims or goals, and Outcomes, comprising tangible results, may overlap, but are not genuinely the same.
@@ -232,7 +232,7 @@ For Open Science Learning Objectives, see this FOSTER document: [https://doi.org
 
 * "Upon completing the course, the learner will be able to design a training exercise and a strategy to evaluate its effectiveness"
 
-## <img src="/en/Images/03 On Learning and Training/03_motivation_demotivation.png" width="300" height="300" />
+## <img src="/Images/03 On Learning and Training/03_motivation_demotivation.png" width="300" height="300" />
 ### Motivation & demotivation
 
 One of the key components in a training event is to make sure that the lack of confidence that the participants might have when being introduced to a new field \(Open Science, in this instance\) does not discourage them from pushing onwards. Even if some participants are generally familiar with the concepts presented in the training event, it is important to acknowledge when people are becoming confused. Acknowledging that their misunderstandings are valid is key to encouraging a growth mindset and motivating them to accept and endorse the Open Science practices.
@@ -261,12 +261,12 @@ There are several strategies that can be employed throughout the training event 
 
   * Give participants an opportunity to reflect and make their own connections between Open Science and their particular work.
 
-## <img src="/en/Images/Icons/idea.png" width="150" height="150" />
+## <img src="/Images/Icons/idea.png" width="150" height="150" />
 ## Practical guidance
 
 You will find more information concerning the concrete planning and execution of a training on Open Science in the chapters on [Organizational Aspects](https://docs.google.com/document/d/14COBhyFzL934Cs7waAohmLKm977dq-jGnnRHHD4mUjg/edit) and the [Examples and Practical Guidance](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit).
 
-## <img src="/en/Images/Icons/pen_paper.png" width="150" height="150" />
+## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
 ### Designing a course
 
 The creation of your course will either be driven by planning on the course’s objectives or on its outcomes.
@@ -303,7 +303,7 @@ Backward design challenges "traditional" methods of curriculum planning. In trad
 
 The idea in backward design is to teach toward the "end point" or learning goals, which typically ensures that content taught remains focused and organized. This, in turn, aims at promoting better understanding of the content or processes to be taught to students. The trainer is able to focus on addressing what the students need to learn, what data can be collected to show that the students have learned the desired outcomes \(or [learning standards](https://en.wikipedia.org/wiki/Learning_standards)\) and how to ensure the students will learn.
 
-## <img src="/en/Images/Icons/journal.png" width="150" height="150" />
+## <img src="/Images/Icons/journal.png" width="150" height="150" />
 ### Content
 
 #### Content collection
@@ -318,7 +318,7 @@ One of the biggest challenges in designing training courses is the reduction of 
 
 And try to keep enough time for open questions, discussions, sharing experience among participants. It will help you to get the "right" questions. Usually much more basic, than you expected or more detailed and specific than you planned.
 
-## <img src="/en/Images/Icons/rocket.png" width="150" height="150" />
+## <img src="/Images/Icons/rocket.png" width="150" height="150" />
 ### Starting the training
 
 #### Introductions
@@ -331,7 +331,7 @@ Know that there is no absolute need to immediately adapt  the content, just be c
 
 Once more, the information delivered by [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/) might be helpful to create the right ambiance.
 
-## <img src="/en/Images/05 Examples _ Practical Guidance/05_icebreaker.png" width="300" height="300" />
+## <img src="/Images/05 Examples _ Practical Guidance/05_icebreaker.png" width="300" height="300" />
 #### Ice-breaker
 
 In order to energise audience members and help them get to know the trainers and each other, many training sessions begin with an ice-breaker exercise. Creating a warm, welcoming, friendly and positive learning environment should enable attendees to better participate and learn, and help them to feel more comfortable.
@@ -360,7 +360,7 @@ Using active learning principles and implementation in training is, in general, 
 
 Active learning helps to bypass diversity in learning styles and other difficulties with audiences. While more efficient in reaching outcomes of higher levels, active learning also addresses cognition issues related to the nature of the content and the way to present it, as shown in the following diagram, commonly found in several textbooks and online resources, and known as the Cone of Learning. Active learning is best utilised at the top levels of Bloom’s Taxonomy \(Analize, Define, Create, Evaluate\), and that also corresponds to the best strata of memorization: what you say, write or do - the bottom half of the Cone of Learning. Cognition issues arise with more ease when content spans several of these levels at a time and fails to address the intermediate levels as well. Checking your content against the Cone of Learning is an easy way of detecting these potential miss-outs while you deliver training. Likewise it allows you to decide to use more visual aids where you expect that the need for memorization is higher. So, when your audience gets behind you may use this technique to diagnose, try to locate the causes and pick the most effective remediation.
 
-## <img src="/en/Images/Icons/gamification.png" width="300" height="300" />
+## <img src="/Images/Icons/gamification.png" width="300" height="300" />
 #### Gamification
 
 The foundations of the methodology in Active Learning lie in modern learning theories \(partly in Constructivism and some Connectivism\) and add learning engagement techniques to break barriers and flatten as many obstacles as possible. For example, gamifying a learning instance can move learners away from passive acquisition of content to full engagement, leading to the repositioning of the learner as someone who steps back and observes the learning process and how it works. An example of gamification in training is given here: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), a learning game for conceptual consolidation.. An additional example can be found in [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
@@ -404,7 +404,7 @@ Another way for getting instant feedback, especially at predefined points, is th
 
 Some more instant feedback strategies can be found under [teachthought.com](https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)
 
-## <img src="/en/Images/Icons/describe.png" width="150" height="150" />
+## <img src="/Images/Icons/describe.png" width="150" height="150" />
 ### Training evaluation
 
 Successful Open Science training also needs evaluation phases. Especially when starting a course, it is useful to look at trainees feedback. An evaluation can provide you with valuable insights on your methods and content. Continuous evaluation and consideration of the feedback improves the quality of the training and the trainer's performance.
@@ -470,7 +470,7 @@ You will have had your own expectations before teaching the course and the exper
 
 Be aware that it might even take you three attempts until you will have the feeling that your course has the format it needs and will satisfy both the attendees as well as you as the instructor.
 
-## <img src="/en/Images/Icons/output.png" width="150" height="150" />
+## <img src="/Images/Icons/output.png" width="150" height="150" />
 ## Learning outcomes of this chapter
 
 After going through this chapter you should be able to respond to requests to plan and deliver training in Open Science to specific audiences.
@@ -497,7 +497,7 @@ Consider the following hypothetical situation: You have been invited to train pr
 
 Similar exercises can be applied to training different audiences, for which you may consider the same way of testing your knowledge.
 
-## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
 **About Bloom's Taxonomy: **

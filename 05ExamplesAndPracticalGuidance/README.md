@@ -1,4 +1,4 @@
-## <img src="/en/Images/Icons/live_event.png" width="200" height="200" /> <img src="/Images/Icons/balloon_thought.png" width="200" height="200" />
+## <img src="/Images/Icons/live_event.png" width="200" height="200" /> <img src="/Images/Icons/balloon_thought.png" width="200" height="200" />
 ### Examples & Practical Guidance: adopt, adapt, develop
 
 In this chapter, you will find a wealth of materials to help you actively engage your trainees in critically examining Open Science issues.
@@ -57,7 +57,7 @@ Various universities across Europe organize weeklong summer schools on open scie
 [LERU Doctoral Summer school on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, description, learning objectives) 
 
 
-![image alt text](/en/Images/image_6.png)
+![image alt text](/Images/image_6.png)
 
 *Programme schedule Summer School Open Science and Scholarship, Utrecht University 2017*
 
@@ -383,7 +383,7 @@ Collaborative Platforms</td>
 
     * Discuss the results with the full group. Make sure people when seeing the dots also realize there may be a big opportunity for learning from other participants
 
-![image alt text](/en/Images/image_7.png)
+![image alt text](/Images/image_7.png)
 
 * Materials and tools needed
 
@@ -391,7 +391,7 @@ Collaborative Platforms</td>
 
     * Sticky dots in two colors
 
-![image alt text](/en/Images/image_8.png)
+![image alt text](/Images/image_8.png)
 
 * Level of prior knowledge needed
 
@@ -457,11 +457,11 @@ Collaborative Platforms</td>
 
         4. what policy changes would be needed
 
-![image alt text](/en/Images/image_9.png)
+![image alt text](/Images/image_9.png)
 
-![image alt text](/en/Images/image_10.png)
+![image alt text](/Images/image_10.png)
 
-![image alt text](/en/Images/image_11.png)
+![image alt text](/Images/image_11.png)
 
 * Materials and tools needed
 
@@ -507,7 +507,7 @@ Collaborative Platforms</td>
 
     * Confront own experiences and opinions on open science with perspectives from others 
 
-![image alt text](/en/Images/image_12.png)
+![image alt text](/Images/image_12.png)
 
 * Exercise description
 
@@ -1182,7 +1182,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * Small groups then report back to the whole group, and additional perspectives/viewpoints can be discussed. 
 
-![image alt text](/en/Images/image_13.png)
+![image alt text](/Images/image_13.png)
 
 * Materials and tools needed
 
@@ -1190,7 +1190,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * Two-cent coins (if available in your monetary system, otherwise any low-denomination coins will do)
 
-![image alt text](/en/Images/image_14.png)
+![image alt text](/Images/image_14.png)
 
 * Level of prior knowledge needed
 
@@ -1240,7 +1240,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
         2. Should Open Science be organized bottom-up or top-down?
 
-![image alt text](/en/Images/image_15.png)
+![image alt text](/Images/image_15.png)
 
 * Materials and tools needed
 
@@ -1368,7 +1368,7 @@ Some resources listing research tools and platforms:
 
 * [Tool combinations](https://tinyurl.com/toolcombinations-cb) (which tools are commonly used together) [colour-blind safe]
 
-![image alt text](/en/Images/image_16.png)
+![image alt text](/Images/image_16.png)
 Figure x - Rainbow of open science practices (available on Zenodo in different formats, including as editable slide:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
 
 #### Other resources (not curated yet)

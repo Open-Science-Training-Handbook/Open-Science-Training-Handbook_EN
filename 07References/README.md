@@ -1,4 +1,4 @@
-## <img src="/en/Images/Icons/magnifying_glass.png" width="200" height="200" />
+## <img src="/Images/Icons/magnifying_glass.png" width="200" height="200" />
 ##References
 
 > *Note:* This bibliography is collaboratively maintained by the *Open Science Training Handbook* community at https://www.zotero.org/groups/2114699/open_science_book/items/collectionKey/XIUNJBME. 
