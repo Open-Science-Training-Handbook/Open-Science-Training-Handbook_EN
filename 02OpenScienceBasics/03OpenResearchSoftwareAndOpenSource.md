@@ -1,4 +1,4 @@
-##<img src="/en/Images/Icons/open_source_software.png" width="150" height="150" /> <img src="/en/Images/Icons/publish.png" width="150" height="150" />
+##<img src="/Images/Icons/open_source_software.png" width="150" height="150" /> <img src="/Images/Icons/publish.png" width="150" height="150" />
 ## 3. Open Research Software and Open Source
 
 ### What is it?
@@ -13,7 +13,7 @@ Sharing software used for research \(whether computational in nature, or that re
 
 In addition to reproducibility, sharing software openly allows developers to receive career credit for their efforts, either through direct citation \(Smith et al., 2016\) or via software meta-articles published in, e.g., the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) or the [Journal of Open Source Software](http://joss.theoj.org) \(Smith et al., 2018\). Neil Chue Hong maintains a [list of many domain-specific journals](https://www.software.ac.uk/which-journals-should-i-publish-my-software) that publish software articles.
 
-## <img src="/en/Images/Icons/finish.png" width="150" height="150" />
+## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
 1. Learn the characteristics of open software; understand the ethical, legal, economic, and research-impact arguments for and against open software, and further understand the quality requirements of open code.
@@ -26,7 +26,7 @@ In addition to reproducibility, sharing software openly allows developers to rec
 
 ### Key components
 
-## <img src="/en/Images/Icons/brain.png" width="150" height="150" />
+## <img src="/Images/Icons/brain.png" width="150" height="150" />
 #### Knowledge
 
 There are several different platforms that support open sharing and collaboration on software, research or otherwise. First of all, you can use this checklist to evaluate openness of existing research software:
@@ -51,7 +51,7 @@ Having the research software on GitHub is just the first part; it is equally imp
 
 Publicly shared software is not actually open source unless accompanied by a suitable license, because by default software \(along with any other creative work\) falls under exclusive copyright to the creators, meaning no one else can use, copy, distribute, or modify your work \([choosealicense.com](https://choosealicense.com/no-permission/)\). \(If you truly want to share your code with no restrictions whatsoever, you can [dedicate it to the public domain](https://choosealicense.com/licenses/#unlicense).\) Instead, you should choose an appropriate license for your software, based on what you would prefer to let others do \(or prevent them from doing\) with your code; the [choosealicense.org](https://choosealicense.com) site is a helpful resource to differentiate between licenses, although it does not feature [every available or popular open-source license](https://opensource.org/licenses). Once you select a license, put the text—edited to include the author name\(s\) and year—in the software repository as a plaintext LICENSE file.
 
-![](/en/Images/02 Open Science Basics/02_open_research_software_open_source.png)
+![](/Images/02 Open Science Basics/02_open_research_software_open_source.png)
 
 Although sharing software in any form is better than not sharing it, your software will have more impact and be more easily used by others—and your future self!—if you include documentation. This can include helpful comments in the code that explain **why** you did something \(rather than what you did, which should be evident\), an informative README file that describes what your software does and gives some helpful information \(e.g., how to install, how to cite, how to run, important dependencies\), tutorials/examples, and/or API documentation \(which may be automatically generated from properly formatted comments in the code\).
 
@@ -61,12 +61,12 @@ When you use software—whether you wrote it, or someone else did and made it av
 
 Additional, more complicated concepts include automated testing and continuous integration of software, packaging of software in binary formats, and governance and management of multi-person open-source projects \(i.e., codes of conduct, contributing guides\). Some of these topics are described by Scopatz and Huff \(2015\). Wilson et al. \(2017\) also provide a practical guide to best practices for scientific computing that includes advice specifically on research software development.
 
-## <img src="/en/Images/Icons/laptop.png" width="150" height="150" />
+## <img src="/Images/Icons/laptop.png" width="150" height="150" />
 ##### Open Source Hardware
 
 The open source principles above extend to hardware. Researchers often use proprietary instrumentation or hardware in their research that is not freely accessible, reusable, or adaptable. Scientific hardware includes everything from sequencing tools and microscopes to specialized testing equipment and particle colliders. Open Science Hardware \(OScH\) community, for example, is leading a push for the open source movement to include scientific tools, hardware, and research infrastructures through their [Global Open Science Hardware Roadmap](http://openhardware.science/global-open-science-hardware-roadmap/).
 
-## <img src="/en/Images/Icons/gears.png" width="150" height="150" />
+## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Skills
 
 * Create a repository on GitHub, and enable the integration with Zenodo. Mint the first release of the software.
@@ -77,7 +77,7 @@ The open source principles above extend to hardware. Researchers often use propr
 
 * Appropriately cite software used for a paper.
 
-## <img src="/en/Images/Icons/questions.png" width="150" height="150" />
+## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
 Q: "I can’t share my software—it’s too messy / it doesn’t have good documentation / I didn’t leave good comments!"
@@ -94,7 +94,7 @@ A: Although potential users may ask you for help, either via email or \(e.g.\) i
 
 Common misconception: simply putting code online makes it open-source software. In fact, unless the software is accompanied by a license that grants permission for others to use, copy, modify, and/or distribute, then the developer\(s\) retain exclusive copyright. A open-source license needs to accompany the code to make it open-source software.
 
-## <img src="/en/Images/Icons/output.png" width="150" height="150" />
+## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 
 1. Be able to share software under the most appropriate license \(i.e., both the tools and the licensing\).
@@ -103,7 +103,7 @@ Common misconception: simply putting code online makes it open-source software. 
 
 3. Be able to cite software used for a research article.
 
-## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
 * [The Future of Research in Free/Open Source Software Development](http://www.ics.uci.edu/~wscacchi/Papers/New/FoSER-Scacchi-2010.pdf) \(Scacchi, 2010\).

@@ -1,4 +1,4 @@
-## <img src="/en/Images/Icons/open_access.png" width="200" height="200" />
+## <img src="/Images/Icons/open_access.png" width="200" height="200" />
 ## 5. Open Access to Published Research Results
 
 ### What is it?
@@ -21,7 +21,7 @@ The rise of many business models around open access journals poses a lot of misu
 
 Regarding self archiving, researchers are confused by the different requirements established by the publishers in relation with version of a paper that they can deposit in a repository and when this version can be available to the public. This delay in allowing public access to the full text is often called embargo period and it is not uniform for all the journals. Institutions who provide a repository for its researchers should facilitate self archiving practices by digesting all those publisher requirements.
 
-## <img src="/en/Images/Icons/finish.png" width="150" height="150" />
+## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
 1. Learn about the different options a researcher has when deciding where to publish a paper, including funder requirements.
@@ -38,7 +38,7 @@ Regarding self archiving, researchers are confused by the different requirements
 
 ### Key components
 
-## <img src="/en/Images/Icons/brain.png" width="150" height="150" />
+## <img src="/Images/Icons/brain.png" width="150" height="150" />
 #### Knowledge
 
 **Repositories and self-archiving**
@@ -51,7 +51,7 @@ Regarding the version, some journals allow the dissemination of the submitted ve
 
 In relation to the moment to make the paper publicly available, many journals establish a period of time from its original publication: the embargo period, which can range from zero to 60 months. Some journals include or exclude embargoes depending on the versions. For instance the accepted version could be made publicly available after publication but the published version must wait 12 months.
 
-![](/en/Images/02 Open Science Basics/02_open_access_archives.png)
+![](/Images/02 Open Science Basics/02_open_access_archives.png)
 
 **Open Access publishing**
 
@@ -63,7 +63,7 @@ Some funders, have decided to establish their own publishing platforms to provid
 
 Some disciplines prefer to use other formats than journals to publish results, for instance books. Initially, publishers were very reluctant to allow researchers to self archive a full book or even a book chapter. However, [some publishers](https://docs.google.com/spreadsheets/d/1-Lq_zzaGqge8SdY1DX-YXTN43JLn75jf2OhidJqXM60/edit#gid=142126524) have begun to adopt policies to facilitate it. On the other hand, some university presses have shifted their publication model to open access to increase the visibility of their contents, especially monographs. This change can be explained as an answer to the cuts in some of the expenditures in monographs due to the restrictions in library budgets. A common model for this open access university presses is to provide a free version in PDF and sell paper or epub versions \(see for instance UCL\). Moreover the creation of the [Directory of Open Access Books](https://doabooks.org/) have increased their discoverability. In a similar way than other journal initiatives, there have appeared some projects to join forces to establish a common fund to build open access monographs, for instance [Knowledge Unlatched](http://www.knowledgeunlatched.org/).
 
-## <img src="/en/Images/Icons/gears.png" width="150" height="150" />
+## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Skills
 
 * Choose a suitable repository or server to post a preprint according to your discipline
@@ -74,7 +74,7 @@ Some disciplines prefer to use other formats than journals to publish results, f
 
 * Find available funds or discounts to publish in open-access journals if needed
 
-## <img src="/en/Images/Icons/questions.png" width="150" height="150" />
+## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
 Q: "If I publish my work as a preprint, it won’t be acknowledged—I will only receive credit for a peer-reviewed journal article."
@@ -91,7 +91,7 @@ The hybrid model is very controversial and it could raise a lot of questions abo
 
 You may discuss the future of the scholarly communication by presenting some of the offsetting models or transition projects like [OA2020 global alliance](https://oa2020.org/) proposed by the Max Planck Society.
 
-## <img src="/en/Images/Icons/output.png" width="150" height="150" />
+## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 
 1. Trainees will be able to choose where to publish their research paper, describing the implications and consequences of this choice.
@@ -102,7 +102,7 @@ You may discuss the future of the scholarly communication by presenting some of 
 
 4. Trainees who manage repositories will be able to describe the tools and services that allow researchers to self-archive.
 
-## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
 * [The Open Access Directory](http://oad.simmons.edu/oadwiki/Main_Page)

@@ -1,4 +1,4 @@
-## <img src="/en/Images/Icons/peer_review.png" width="300" height="300" />
+## <img src="/Images/Icons/peer_review.png" width="300" height="300" />
 
 ## 8. Open Peer Review, Metrics, and Evaluation
 
@@ -12,13 +12,13 @@ Once they have passed peer review, research publications are then often the prim
 
 In recent years “Alternative Metrics” or [altmetrics](https://www.altmetric.com) have become a topic in the debate about a balanced assessment of research efforts that complement citation counting by gauging other online measures of research impact, including bookmarks, links, blog posts, tweets, likes, shares, press coverage and the like. Underlying all of these issues with metrics is that they are very produced by commercial entities (e.g., Clarivate Analytics and Elsevier) based on proprietary systems, which can lead to some issues with transparency.
 
-## <img src="/en/Images/Icons/umbrella.png" width="150" height="150" />
+## <img src="/Images/Icons/umbrella.png" width="150" height="150" />
 ### Rationale
 
 #### Open peer review
 Beginning in the 17th century with the Royal Society of London (1662) and the Académie Royale des Sciences de Paris (1699) as the privilege of science to censor itself rather than through the church, it took many years for peer review to be properly established in science. Peer review, as a formal mechanism, is much younger than many assume. For example, the journal Nature only introduced it in 1967. Although surveys show that researchers value peer review they also think it could work better. There are often complaints that peer review takes too long, that it is inconsistent and often fails to detect errors, and that anonymity shields biases. Open peer review \(OPR\) hence aims to bring greater transparency and participation to formal and informal peer review processes. Being a peer reviewer presents researchers with opportunities for engaging with novel research, building academic networks and expertise, and refining their own writing skills. It is a crucial element of quality control for academic work. Yet, in general, researchers do not often receive formal training in how to do peer review. Even where researchers believe themselves confident with traditional peer review, however, the many forms of open peer review present new challenges and opportunities. As OPR covers such a diverse range of practices, there are many considerations for reviewers and authors to take into account. 
 
-## <img src="/en/Images/02 Open Science Basics/02_open_peer_review.png" />
+## <img src="/Images/02 Open Science Basics/02_open_peer_review.png" />
 
 Regarding evaluation, current rewards and metrics in science and scholarship are not \(yet\) in line with Open Science. The metrics used to evaluate research \(e.g. Journal Impact Factor, h-index\) do not measure - and therefore do not reward - open research practices. Open peer review activity is not necessarily recognized as "scholarship" in professional advancement scenarios \(e.g. in many cases, grant reviewers don’t consider even the most brilliant open peer reviews to be scholarly objects unto themselves\). Furthermore, many evaluation metrics - especially certain types of bibliometrics - are not as open and transparent as the community would like.
 
@@ -30,7 +30,7 @@ Under those circumstances, at best Open Science practices are seen as an additio
 
 More and more funders and institutions are taking steps in these directions, for example by moving away from simple counts, and including narratives and indications of societal impact in their assessment exercises. Other steps funders are taking are allowing more types of research output \(such as preprints\) in applications and funding different types of research \(such as replication studies\).
 
-## <img src="/en/Images/Icons/finish.png" width="150" height="150" />
+## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
 1. Recognise the key elements of open peer review and their potential advantages and disadvantages
@@ -38,7 +38,7 @@ More and more funders and institutions are taking steps in these directions, for
 3. Engage with the debate over the way in which evaluation schema affect the ways in which scholarship is performed
 
 ### Key components
-## <img src="/en/Images/Icons/brain.png" width="150" height="150" />
+## <img src="/Images/Icons/brain.png" width="150" height="150" />
 ### Knowledge
 #### Open peer review
 
@@ -72,7 +72,7 @@ The [San Francisco Declaration on Research Assessment \(DORA\)](https://sfdora.o
 
 Regarding Altmetrics, Priem et al. (2010) advise that altmetrics have the following benefits: they accumulate quicker than citations; they can gauge the impact of research outputs other than journal publications (e.g. datasets, code, protocols, blog posts, tweets, etc.); and they can provide diverse measures of impact for individual objects. The timeliness of altmetrics presents a particular advantage to early-career researchers, whose research-impact may not yet be reflected in significant numbers of citations, yet whose career-progression depends upon positive evaluations. In addition, altmetrics can help with early identification of influential research and potential connections between researchers. A recent report by the EC’s Expert Group on Altmetrics (Directorate-General for Research and Innovation (European Commission), 2017) identified challenges of altmetrics, including lack of robustness and susceptibility to ‘gaming’; that any measure ceases to be a good measure once it becomes a target (‘Goodhart’s Law’); relative lack of social media uptake in some disciplines and geographical regions; and a reliance on commercial entities for the underlying data.
 
-## <img src="/en/Images/Icons/gears.png" width="150" height="150" />
+## <img src="/Images/Icons/gears.png" width="150" height="150" />
 ### Skills
 
 Example exercises
@@ -83,20 +83,20 @@ Example exercises
 
 * Use a free bibliometrics or altmetrics service \(e.g. Impactstory, Paperbuzz, Altmetric bookmarklet, Dimensions.ai\) to look up metrics for a paper, then write a short explanation of how exactly various metrics reported by each service are calculated \(it’s harder than you’d assume; this would get at the challenges of finding proper metrics documentation for even the seemingly most transparent services\)
 
-## <img src="/en/Images/Icons/questions.png" width="150" height="150" />
+## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 Q: Is research evaluation fair?
 
 A: Research evaluation is as fair as its methods and evaluation techniques. Metrics and altmetrics try to measure research quality with research output quantity, which can be accurate, but does not have to be.
 
 
-## <img src="/en/Images/Icons/output.png" width="150" height="150" />
+## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 
 1. Trainees will be able to identify open peer review journals
 2. Trainees will be aware of a range of metrics, their advantages and disadvantages
 
-## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
 * Peer Review the Nuts and Bolts. [A Guide for Early Career Researchers](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)

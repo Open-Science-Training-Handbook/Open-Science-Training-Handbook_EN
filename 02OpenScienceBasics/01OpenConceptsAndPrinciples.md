@@ -1,4 +1,4 @@
-## <img src="/en/Images/Icons/cloud.png" width="200" height="200" />
+## <img src="/Images/Icons/cloud.png" width="200" height="200" />
 ## 1. Open Concepts and Principles
 
 ### What is it?
@@ -25,9 +25,9 @@ The aims and assumptions underlying the push to implement these various practice
 
 Open Science, as defined above, encompasses a huge number of potential structural changes to academic practice, whose culture can often be hierarchical and conservative. Moreover, even where researchers are sympathetic to the aims of Open Science, they might not yet see the worth in taking them up, as existing incentive mechanisms do not yet reflect this new culture of openness and collaboration. As a consequence, convincing researchers of the need to change their practices will require a good understanding not only of the ethical, social and academic benefits, but also of the ways in which taking up Open Science practices will actually help them succeed in their work. This section will describe some of the core concepts, principles, actors, and practices in Open Science, and how these fit within a broader research ecosystem.
 
-![](/en/Images/image_1.png)
+![](/Images/image_1.png)
 
-## <img src="/en/Images/Icons/finish.png" width="150" height="150" />
+## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
 1. Understand the social, economical, legal, and ethical principles and concepts underpinning Open Science.
@@ -37,9 +37,9 @@ Open Science, as defined above, encompasses a huge number of potential structura
 3. Gain insight into the developments around Open Science, and the personal impact these can have on researchers, research, and society more broadly.
 
 ### Key components
-![](/en/Images/02 Open Science Basics/02_open_concepts_and_principles.png)
+![](/Images/02 Open Science Basics/02_open_concepts_and_principles.png)
 
-## <img src="/en/Images/Icons/brain.png" width="150" height="150" /><img src="/en/Images/Icons/gears.png" width="150" height="150" />
+## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Knowledge & Skills
 * Open Science is the movement to help make the results of scholarly research more accessible, including code, data, and research papers.
 
@@ -72,7 +72,7 @@ Open Science, as defined above, encompasses a huge number of potential structura
 
   * Typically, open research outputs are openly licensed in order to maximize re-use while allowing the creator to retain ownership and receive credit for their work.
 
-## <img src="/en/Images/Icons/questions.png" width="150" height="150" />
+## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
 Q: "What is the difference between Open Science and ‘science’?"
@@ -91,7 +91,7 @@ Q: "Will Open Science lead to too much information overload?"
 
 A: It is better to have too much information and deal with it, than to have too little and live with the risk of missing the important parts. And there are technologies such as RSS feeds, machine learning and artificial intelligence that are making content aggregation easier.
 
-## <img src="/en/Images/Icons/output.png" width="150" height="150" />
+## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 
 1. Be able to explain the core underlying academic, economic, and societal principles and concepts supporting Open Science, and why this matters to you in terms of broader impacts.
@@ -100,7 +100,7 @@ A: It is better to have too much information and deal with it, than to have too 
 
 3. Be familiar with the present state of Open Science, and the diversity of perspectives that this encompasses.
 
-## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
 * [Open Science: one term, five schools of thought](https://doi.org/10.1007/978-3-319-00026-8_2) \(Fecher and Friesike, 2014\).

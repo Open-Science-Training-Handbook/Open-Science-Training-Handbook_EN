@@ -1,11 +1,11 @@
-## <img src="/en/Images/Icons/collaborate.png" width="200" height="200" />
+## <img src="/Images/Icons/collaborate.png" width="200" height="200" />
 ## 7. Collaborative Platforms
 
 ### What is it?
 
 Online collaborative platforms connect geographically-dispersed researchers to enable them to cooperate seamlessly on their research, sharing research objects as well and ideas and experiences. Collaborative platforms are usually online services that provide a virtual environment to which multiple people can concurrently connect and work on the same task. These can range from extensive virtual research environments \(VREs\) which encompass a host of tools to facilitate sharing and collaboration, including web forums and wikis, collaborative document hosting, and discipline-specific tools such as data analysis or visualisation, right down to single specific tools which enable researchers to work together in real time on specific aspects of research \(such as writing or analysis\).
 
-![](/en/Images/02 Open Science Basics/02_collaborative_platforms.png)
+![](/Images/02 Open Science Basics/02_collaborative_platforms.png)
 
 ### Rationale
 
@@ -13,7 +13,7 @@ Research collaboration is growing exponentially and teams are becoming ever more
 
 Virtual Research Environments \(VRE\) and collaborative platforms enable collaboration across continents, time zones and disciplines. In this module you will develop an understanding of collaborative platforms that work today, and how they can greatly enhance your research workflows.
 
-## <img src="/en/Images/Icons/finish.png" width="150" height="150" />
+## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
 1. Learn what major types of collaborative platforms are available and what the use cases for each might be.
@@ -24,7 +24,7 @@ Virtual Research Environments \(VRE\) and collaborative platforms enable collabo
 
 ### Key components
 
-## <img src="/en/Images/Icons/brain.png" width="150" height="150" /> <img src="/en/Images/Icons/gears.png" width="150" height="150" />
+## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Knowledge & Skills
 
 **Virtual research environments \(VREs\)**
@@ -45,7 +45,7 @@ An important aspect here is the disciplinary-specific nature of many of these to
 
 * [West-Life](https://about.west-life.eu/network/west-life/west-life) - World-wide E-infrastructure for structural biology
 
-![](/en/Images/Icons/datamining.png)
+![](/Images/Icons/datamining.png)
 
 Some libraries already offer personalised VREs for specific projects. For example, [Leiden University library](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools) offers VREs for all externally-funded projects of more than five persons.
 
@@ -67,14 +67,14 @@ The power of the Web enables new modes of post-publication collaborative review 
 
 Researchers have long made use of the Web for social networking - either via mainstream social networks like [Twitter](https://twitter.com/), [Facebook ](https://www.facebook.com/)and [Linkedin](https://www.linkedin.com/) or dedicated academic social networks like [ResearchGate](https://www.researchgate.net/), [Academia.edu](http://www.academia.edu/) and [Loop](http://community.frontiersin.org/).
 
-## <img src="/en/Images/Icons/questions.png" width="150" height="150" />
+## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
 Q: "Why should I add another layer of complexity to my collaboration process? Sharing the doc file is sufficient!"
 
 A: This is incorrect; although it may seem that you are introducing additional tools and platforms into your usual working approach, they are actually resolving communication issues that you were probably not aware of in the first place. For example, using just a doc file \(with or without track changes\), only shows the higher level of information and usually only at the tail of the entire scientific process. Working in the context of a collaborative environment, from design to reporting, establishes both clear communication and adequate provenance.
 
-## <img src="/en/Images/Icons/output.png" width="150" height="150" />
+## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 
 1. The researcher will become familiar with the range of options available to aid greater collaborative research.
@@ -83,7 +83,7 @@ A: This is incorrect; although it may seem that you are introducing additional t
 
 3. The researcher will be able to collaborate with colleagues to write documents collaboratively, annotate articles and share this discussion.
 
-## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
 * Open Science Framework. The promise of Open Science collaboration: [https://osf.io/vmrgu/wiki/home/](https://osf.io/vmrgu/wiki/home/)

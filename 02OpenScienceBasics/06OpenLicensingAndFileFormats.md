@@ -1,4 +1,4 @@
-## <img src="/en/Images/Icons/open_licenses.png" width="200" height="200" />
+## <img src="/Images/Icons/open_licenses.png" width="200" height="200" />
 ## 6. Open Licensing and File Formats
 
 ### What is it?
@@ -9,7 +9,7 @@ A license is a legal document that grants specific rights to user to reuse and r
 
 A file format is a standard way that information is encoded for storage in a computer file; however, not all formats have freely available specification documents, partly because some developers view their specification documents as trade secrets.
 
-![](/en/Images/02 Open Science Basics/02_open_licensing.png)
+![](/Images/02 Open Science Basics/02_open_licensing.png)
 
 ### Rationale
 
@@ -19,7 +19,7 @@ It is important to know that a license builds on existing copyright regulations.
 
 When sharing any open content it is not enough to attach a license you must take into account the format. A choice of a non-open file format may make impossible to reuse the content. For that reason is important to know the options available when deciding in which format you want to share your content.
 
-## <img src="/en/Images/Icons/finish.png" width="150" height="150" />
+## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
 
 1. Participants should learn about differences among licenses and how they can suit some open-science definitions, open-science requirements, or how they fit into different research outcomes.
@@ -32,7 +32,7 @@ When sharing any open content it is not enough to attach a license you must take
 
 ### Key components
 
-## <img src="/en/Images/Icons/brain.png" width="150" height="150" /> <img src="/en/Images/Icons/gears.png" width="150" height="150" />
+## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Knowledge & Skills
 
 Basic concepts of copyright are needed in order to understand how the licenses work. Since copyright laws are not internationally harmonized you must refer to the applicable laws in your context.
@@ -77,7 +77,7 @@ Within the context of Open Science, and for optimal long-term archiving, files s
 
 Some file formats cannot be converted to open formats, but are nonetheless archived. They are often device-specific, but have a broad user community. Check if the repository where you want to deposit a publication has a list of preferred formats.
 
-## <img src="/en/Images/Icons/questions.png" width="150" height="150" />
+## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
 Q: "Why should I use the CC-BY license for my written/creative content?"
@@ -92,14 +92,14 @@ Interoperability of licenses: be aware that sometimes when you mix content licen
 
 Suitability of licenses: for instance, CC licenses should not be used for software, there are specific licenses for databases \(Open Data Commons\), and CC licenses were not suitable for databases before version 4.0.
 
-## <img src="/en/Images/Icons/output.png" width="150" height="150" />
+## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 
 1. Will be able to use existing resources to choose an appropriate license for written research work, based on the desired freedom/limitation for others to use/reuse.
 
 2. Will be able to use existing resources to choose an appropriate license for data, based on the desired freedom/limitation for others to use/reuse.
 
-## <img src="/en/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
 * Open Access Scholarly Publishers Association: ["Why CC-BY?"](https://oaspa.org/why-cc-by/)
