@@ -504,7 +504,7 @@ Similar exercises can be applied to training different audiences, for which you 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
-**About Bloom's Taxonomy: **
+**About Bloom's Taxonomy:**
 
 * [https://www.pearsoened.com/using-blooms-taxonomy-to-write-learning-outcomes/](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
 * [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
