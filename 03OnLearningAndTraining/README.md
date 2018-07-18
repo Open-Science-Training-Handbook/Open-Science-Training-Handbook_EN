@@ -150,7 +150,7 @@ A good way to get started with your Open Science training is to address audience
 
 Scholarly research is practised by adults, as such, the participants of any training in Open Science will most likely be adults, often with a first or second degree in higher education. It is therefore interesting to see, how far teaching children or teenagers \(pedagogy\) differs from teaching adults \(andragogy\). The Canadian Literacy and Learning Network did some interesting work on this difference and recapitulated it in seven principles:
 
-1. **Adults must want to learn**. This means that the inner motivation and added values are decisive and it might be worth to know them before starting the course.
+1. **Adults must want to learn.** This means that the inner motivation and added values are decisive and it might be worth to know them before starting the course.
 
 2. **Adults will learn only what they feel they need to learn.** Adults are practical in their approach to learning; they want to know, "How is this going to help me right now?" You should therefore be practical and direct.
 
@@ -160,9 +160,9 @@ Scholarly research is practised by adults, as such, the participants of any trai
 
 5. **Experience affects adult learning.** Adults have more experience than children, either negative or positive. You can make use of this experience by avoiding negative associations.
 
-6. **Adults learn best in an informal situation\*\***.\*\* School-age youngsters usually have to follow a curriculum.  Often, adults learn only what they feel they need to know. You should therefore try to involve your audience in the learning process. This may happen by making the environment relaxed, informal and inviting.
+6. **Adults learn best in an informal situation.** School-age youngsters usually have to follow a curriculum.  Often, adults learn only what they feel they need to know. You should therefore try to involve your audience in the learning process. This may happen by making the environment relaxed, informal and inviting.
 
-7. **Adults want guidance\*\***.\*\* Adults want information that will help them improve their situation or solve problems, but they do not want to be told what to do, but rather choose options based on their individual needs.
+7. **Adults want guidance.** Adults want information that will help them improve their situation or solve problems, but they do not want to be told what to do, but rather choose options based on their individual needs.
 
 Therefore, you will need to
 
@@ -178,7 +178,11 @@ In summary, adults have their interests focused on their own improvement and see
 
 Learning outcomes are often the most specific way of establishing how a training instance is delivered, by tailoring whatever is needed so that the best part of the expected outcomes are met by the best part of the audience. Learners meet outcomes in a variety of ways, often amenable to a quantitative evaluation.
 
-Specifying outcomes is part of handling training as a cognitive process. In 1956 Benjamin Bloom created a taxonomy of cognitive levels that has been modified through time. This is a very useful tool to build consistent and reusable learning outcomes in any subject matter. Transitions between non-contiguous levels of cognition is generally not acceptable. The taxonomy helps to detect potentially difficult situations where assessment can fail because the cognition level of the learning delivery is not the same as the cognition level of the assessment that is being used.![](/Images/03 On Learning and Training/03_bloom_s_taxonomy.png)A present day version  \(since 2001\) can also be found here: [https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
+Specifying outcomes is part of handling training as a cognitive process. In 1956 Benjamin Bloom created a taxonomy of cognitive levels that has been modified through time. This is a very useful tool to build consistent and reusable learning outcomes in any subject matter. Transitions between non-contiguous levels of cognition is generally not acceptable. The taxonomy helps to detect potentially difficult situations where assessment can fail because the cognition level of the learning delivery is not the same as the cognition level of the assessment that is being used.
+
+![](/Images/03 On Learning and Training/03_bloom_s_taxonomy.png)
+
+A present day version  \(since 2001\) can also be found here: [https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
 
 Bloom’s Taxonomy is a classification method with six levels. Using Bloom’s Taxonomy is worth the effort because it represents a significant step towards a desire to build robust training and teaching. Together with Bloom’s Taxonomy you can find several types of design aids such as annotated terminologies, verbs to use or to avoid in course planning and building assessment questions, etc.
 
