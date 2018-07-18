@@ -180,7 +180,7 @@ Learning outcomes are often the most specific way of establishing how a training
 
 Specifying outcomes is part of handling training as a cognitive process. In 1956 Benjamin Bloom created a taxonomy of cognitive levels that has been modified through time. This is a very useful tool to build consistent and reusable learning outcomes in any subject matter. Transitions between non-contiguous levels of cognition is generally not acceptable. The taxonomy helps to detect potentially difficult situations where assessment can fail because the cognition level of the learning delivery is not the same as the cognition level of the assessment that is being used.
 
-![](/Images/03 On Learning and Training/03_bloom_s_taxonomy.png)
+## <img src="/Images/03 On Learning and Training/03_bloom_s_taxonomy.png" width="300" height="300" />
 
 A present day version  \(since 2001\) can also be found here: [https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
 
@@ -228,7 +228,7 @@ Here is an attempt to clarify this situation and remove ambiguities:
 
 For Open Science Learning Objectives, see this FOSTER document: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(see page 13 & 14\)
 
-**Example of a training objective: **
+**Example of a training objective:**
 
 * "To learn how to use assessment and feedback in training with maximised effectiveness"
 
@@ -335,7 +335,7 @@ Know that there is no absolute need to immediately adapt  the content, just be c
 
 Once more, the information delivered by [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/) might be helpful to create the right ambiance.
 
-## <img src="/Images/05 Examples _ Practical Guidance/05_icebreaker.png" width="300" height="300" />
+## <img src="/Images/05 Examples _ Practical Guidance/05_icebreaker.png" width="400" height="300" />
 #### Ice-breaker
 
 In order to energise audience members and help them get to know the trainers and each other, many training sessions begin with an ice-breaker exercise. Creating a warm, welcoming, friendly and positive learning environment should enable attendees to better participate and learn, and help them to feel more comfortable.
