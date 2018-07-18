@@ -577,7 +577,7 @@ Collaborative Platforms</td>
 
 * Materials and tools needed
 
-    * The [LIBER Science Café card deck](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf), or a prepared stack of written statements
+    * The [LIBER Science Café card deck](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck), or a prepared stack of written statements based on [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)
 
     * one table per 6-8 persons
 
