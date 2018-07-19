@@ -249,7 +249,7 @@ There are several strategies that can be employed throughout the training event 
 
   * Provide authentic, real-world tasks and case studies, ideally matched to the participants background and immediate interests.
 
-  * Show relevance to the participants’ current academic lifes.
+  * Show relevance to the participants’ current academic lives.
 
   * Convey your own passion and enthusiasm for Open Science.
 
