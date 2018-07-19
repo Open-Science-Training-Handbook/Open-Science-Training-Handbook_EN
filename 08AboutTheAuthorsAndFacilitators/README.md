@@ -35,7 +35,7 @@ There are two major pitfalls for Open Science trainers, as I see it. One, novice
 
 <iframe src="https://www.youtube.com/embed/5H_0dMEv0N4" frameborder="0" allowfullscreen></iframe> 
 
-I run a training programme in Bioinformatics at the Instituto Gulbenkian de Ciência, in Oeiras, PT since 1999. More than 5000 course participants in 19 years. Extending this activity with distance and e-learning, to better reach for 21st century learners.  I am an advocate of Open Access, Open Data, Open Source and Open Science that takes any possible chance to put these causes through via training. I am conscious that this movement needs to scale-up and reach for non-scientists as well, so I am very interested in its amplification and diffusion.
+I run a training program in Bioinformatics at the Instituto Gulbenkian de Ciência, in Oeiras, PT since 1999. More than 5000 course participants in 19 years. Extending this activity with distance and e-learning, to better reach for 21st century learners.  I am an advocate of Open Access, Open Data, Open Source and Open Science that takes any possible chance to put these causes through via training. I am conscious that this movement needs to scale-up and reach for non-scientists as well, so I am very interested in its amplification and diffusion.
 
 Open Science is an attitude that requires a large but feasible education step. Advocates like me need to join forces and make it happen every day. Training in Open Science is needed at a wide range of levels. To address the entry level, together with Rutger A.Vos, we prepared the free e-book "Open Science, Open Data, Open Source" in 2017 \([http://osodos.org](http://osodos.org)\). More advocacy and training to come.
 
