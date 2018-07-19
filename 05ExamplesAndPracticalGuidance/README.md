@@ -28,7 +28,7 @@ The aim of the workshop is to provide researchers and administrators with hands-
 
 [Open Science - what’s in it for me](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Vienna, 2017, workshop report)
 
-[Open Science - what’s in it for me](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Torino, 2018, workshop programme)
+[Open Science - what’s in it for me](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Torino, 2018, workshop program)
 
 **Carpentry workshops (2 days)**
 
@@ -38,28 +38,28 @@ Software Carpentry: [https://software-carpentry.org](https://software-carpentry.
 
 Data Carpentry: [http://www.datacarpentry.org/](http://www.datacarpentry.org/)
 
-**EIFL Train-the-Trainer programme (4 days)**
+**EIFL Train-the-Trainer program (4 days)**
 
-EIFL organized a train-the-trainers programme for five universities in EIFL partner countries (Ethiopia, Ghana, Zimbabwe, Tanzania, and Nepal) that have committed to integrating open access, open science and open research data into courses for PhD students. Day 1 covered open access and open data. Day 2 and 3 were dedicated to open science across the research workflow, including current practices at participant’s universities. On Day 4, participants designed and prepared their own training programme. 
+EIFL organized a train-the-trainers program for five universities in EIFL partner countries (Ethiopia, Ghana, Zimbabwe, Tanzania, and Nepal) that have committed to integrating open access, open science and open research data into courses for PhD students. Day 1 covered open access and open data. Day 2 and 3 were dedicated to open science across the research workflow, including current practices at participant’s universities. On Day 4, participants designed and prepared their own training program. 
 
-[EIFL Train-the-trainer programme](https://osf.io/qf76a/) (Addis Ababa, 2017, programme and materials)
+[EIFL Train-the-trainer program](https://osf.io/qf76a/) (Addis Ababa, 2017, program and materials)
 
 **Open Science summer schools (5 days)**
 
 Various universities across Europe organize weeklong summer schools on open science, primarily aimed at early career researchers. These events cover a variety of topics in five days, usually with many hands-on activities to apply open science into daily practice. 
 
-[EPFL Summer school Open Science in Practice ](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, programme overview)
+[EPFL Summer school Open Science in Practice ](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, program overview)
 
-[Utrecht University Summer school Open Science and Scholarship](https://tinyurl.com/sumsopenscience2017) (2017, programme and materials)
+[Utrecht University Summer school Open Science and Scholarship](https://tinyurl.com/sumsopenscience2017) (2017, program and materials)
 
-[Essex Summer school in Social Science and Data Analysis - Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, programme overview) 
+[Essex Summer school in Social Science and Data Analysis - Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, program overview) 
 
 [LERU Doctoral Summer school on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, description, learning objectives) 
 
 
 ![image alt text](/Images/image_6.png)
 
-*Programme schedule Summer School Open Science and Scholarship, Utrecht University 2017*
+*Program schedule Summer School Open Science and Scholarship, Utrecht University 2017*
 
 ### Example Exercises
 
@@ -399,7 +399,7 @@ Collaborative Platforms</td>
 
 * Things to bear in mind
 
-    * Best at the beginning of a longer training programme where multiple topics will be covered
+    * Best at the beginning of a longer training program where multiple topics will be covered
 
     * For the sticky dots, choose a combination that is colour-blind friendly
 
