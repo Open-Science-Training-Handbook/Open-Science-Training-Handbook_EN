@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
 ## On Learning and Training
 
-This chapter providing context on training strategies, practical guidance in designing a course as well as an overview of pedagogical theories. It will focus on three key concepts in teaching and training:
+This chapter is providing context on training strategies, practical guidance in designing a course as well as an overview of pedagogical theories. It will focus on three key concepts in teaching and training:
 
 1. Preparation
 
