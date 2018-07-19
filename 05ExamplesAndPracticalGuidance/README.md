@@ -1407,7 +1407,7 @@ Awaiting some formatting to comply with the template
 
 PF - 1  Mind and Concept Maps
 
-The conceptualisation of higher complexity subject matter can benefit a lot from visualising recently acquired knowledge or skills. A great deal of enthusiasm can be raised when simple open source tools are used, individual and collectively. The general name for this set of  techniques is idea and concept mapping. A relatively simple software like [X-Mind](http://www.xmind.net/) is a good basis to start with. ![image alt text](/Images/image_17.png)
+The conceptualisation of higher complexity subject matter can benefit a lot from visualizing recently acquired knowledge or skills. A great deal of enthusiasm can be raised when simple open source tools are used, individual and collectively. The general name for this set of  techniques is idea and concept mapping. A relatively simple software like [X-Mind](http://www.xmind.net/) is a good basis to start with. ![image alt text](/Images/image_17.png)
 
 Figure X An example of an idea map to represent content in a training course
 
