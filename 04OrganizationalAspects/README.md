@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/timetable.png" width="200" height="200" />
 ## Organizational aspects
 
-This chapter will guide you through the main practical aspects of organising a training event. Of course, what you need and will use will depend on the type of event you’ll organise! The checklist should be adjusted accordingly. You will get information on preparation steps and necessary organizational tasks. This will provide you not only with valuable knowledge about event organization, but will reassure you while preparing your training. Note that most of the material in this chapter, and the whole handbook, is focused on training regarding practical workshops. Running a different type of event may require different decisions than the recommendations that follow.
+This chapter will guide you through the main practical aspects of organizing a training event. Of course, what you need and will use will depend on the type of event you’ll organize! The checklist should be adjusted accordingly. You will get information on preparation steps and necessary organizational tasks. This will provide you not only with valuable knowledge about event organization, but will reassure you while preparing your training. Note that most of the material in this chapter, and the whole handbook, is focused on training regarding practical workshops. Running a different type of event may require different decisions than the recommendations that follow.
 
 ## Training event basics
 
@@ -193,7 +193,7 @@ To provide you with initial guidance over possible types of training and their c
 
 ### Audience, guest speakers, and partners
 
-Before committing to the event be sure you defined your target audience and that you are aware of their needs. Consider your audience, its size and the number or area of competence of (guest) trainers. [link to On learning and training chapter: Target audiences] <!--- The link seems to be missing here -->
+Before committing to the event be sure you defined your target audience and that you are aware of their needs. Consider your [audience](#target-audience), its size and the number or area of competence of (guest) trainers.
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
 #### Cooperating with others
