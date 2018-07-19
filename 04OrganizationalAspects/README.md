@@ -208,36 +208,36 @@ Identify other trainers or experts/guest speakers that could help with the event
 
 Maintaining an inclusive environment is important for any successful training event. Ensure that each component of your programme includes a range of backgrounds. Your organizing team, speakers, and trainers should include representation across gender identities, different disciplines, underrepresented groups, diverse racial backgrounds, and geographic regions (if you intend to open your event to non-local participants). 
 
-Actively invite trainers and speakers from underrepresented groups. Make sure to discuss with them their specific goals and needs, and include these in the planning of the event. To learn more about trainers see On learning and training chapter, Expectations about a trainer subchapter. Ensure that a proportion of participant spots are reserved for attendees across ethnic backgrounds, gender identities, disciplines and geographic regions [link to On learning and training chapter: Inclusive engagement]. To learn more about how to make your workshop inclusive and welcoming, see the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+Actively invite trainers and speakers from underrepresented groups. Make sure to discuss with them their specific goals and needs, and include these in the planning of the event. To learn more about trainers see On learning and training chapter, [Expectations about a trainer](/03OnLearningAndTraining.md/#expectations-about-a-trainer) subchapter. Ensure that a proportion of participant spots are reserved for attendees across ethnic backgrounds, gender identities, disciplines and geographic regions (see [Inclusive engagement]/03OnLearningAndTraining.md/#inclusive-engagement)). To learn more about how to make your workshop inclusive and welcoming, see the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
 ## <img src="/Images/Icons/home.png" width="150" height="150" />
 ### Venue
 
-Before organizing a face to face training event consider few things related to a venue. It might help you to reduce several obstacles: 
+Before organizing a face-to-face training event consider few things related to a venue. It might help you to reduce several obstacles: 
 
-The venue should be easily accessible for the participants. The venue should have elevator access, accessible entrances and ramps and clear legible signs. Check if the venue is easily accessible by public transport or car (parking spaces) and that it’s not too far away from rail stations or the airport. For a checklist of what makes a workshop accessible, see the [Accessible Meetings Toolkit from the American Bar Association](http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) and the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html). Locate a place to greet your attendees and a place for them to circulate and socialise. A separate area for catering should be available. Also check if the venue offers a maternity room, a prayer room and a gender neutral washroom. 
+The venue should be easily accessible for the participants. The venue should have elevator access, accessible entrances and ramps as well as clear legible signs. Check if the venue is easily accessible by public transport or car (parking spaces) and that it’s not too far away from rail stations or the airport. For a checklist of what makes a workshop accessible, see the [Accessible Meetings Toolkit from the American Bar Association](http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) and the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html). Locate a place to greet your attendees and a place for them to circulate and socialize. A separate area for catering should be available. Also, check if the venue offers a maternity room, a prayer room and a gender-neutral washroom. 
 
 The training room should be sufficiently equipped (see equipment and media). The room should have sufficient WiFi and power access for every participant (possibly via power strips/extension cords). Check to see if furniture can be rearranged in order to suit your requirements. The presenter will need a high (or raisable) table for standing and a microphone (for recording and/or accessibility). An additional microphone for participant questions aids accessibility. 
 
 ## <img src="/Images/Icons/break.png" width="150" height="150" />
 ### Timing
 
-The length of the event depends on the content and depth of the training you intend to provide. You should have an estimate how much time each component will take. Make sure to define an agenda or time schedule, including any icebreakers and introductions. Allow enough time for lunch and coffee breaks. Be reasonable with your start and end times  [link to On learning and training chapter: Starting the training]. 
+The length of the event depends on the content and depth of the training you intend to provide. You should have an estimate how much time each component will take. Make sure to define an agenda or time schedule, including any icebreakers and introductions. Allow enough time for lunch and coffee breaks. Be reasonable with your start and end times (see chapter [Starting the training](/03OnLearningAndTraining.md/#starting-the-training)). 
 
-Before scheduling your event think about obstacles that might prevent or induce people to join and try to pick a suitable time and date of the event. Make sure to avoid conflict with any public holidays, religious holidays, or similar events. If your event is hosted at a university, keep class schedules in mind. Consider to place your training session along with a larger conference or meeting in order to bring more attention, increase the attendance and get the chance to bring any speaker attending the other event.  A family friendly workshop should avoid evenings and weekends, provide childcare or childcare sponsorships, and ensure areas for breastfeeding mothers. 
+Before scheduling your event think about obstacles that might prevent or induce people to join and try to pick a suitable time and date of the event. Make sure to avoid conflict with any public holidays, religious holidays, or similar events. If your event is hosted at a university, keep class schedules in mind. Consider to place your training session along with a larger conference or meeting in order to bring more attention, increase the attendance and get the chance to bring any speaker attending the other event. A family friendly workshop should avoid evenings and weekends, provide childcare or childcare sponsorships, and ensure areas for breastfeeding mothers. 
 
 ## <img src="/Images/Icons/budget.png" width="150" height="150" />
 ### Budget
 
-You may need financial support to help run your event, to pay for things like the venue (if the host institution cannot or will not provide this for free), travel support for non-local trainers/experts, refreshments, materials (e.g., name badges, USB drives) and swag. Most types of training will need at least a little money for material and equipment. Also keep in mind that the costs associated with human resource are often the largest costs associated with running an event. It is good to identify time needed for staff to prepare materials and content which is often not budgeted for. These costs may be covered through as a core aspect of the job, but if not it might be wise to ensure funding to cover this aspect is sourced.
+You may need financial support to help run your event, to pay for things like the venue (if the host institution cannot or will not provide this for free), travel support for non-local trainers/experts, refreshments, materials (e.g., name badges, USB drives) and swag. Most types of training will need at least a little money for material and equipment. Also, keep in mind that the costs associated with human resource are often the largest costs associated with running an event. It is good to identify time needed for staff to prepare materials and content which is often not budgeted for. These costs may be covered through as a core aspect of the job, but if not it might be wise to ensure funding to cover this aspect is sourced.
 
-Consider different ways of creating a budget for your training. If possible request funds from your institution. Otherwise you might have to charge a fee from participants or look for scholarships and other ways of funding. 
+Consider different ways of creating a budget for your training. If possible, request funds from your institution. Otherwise, you might have to charge a fee from participants or look for scholarships and other ways of funding. 
 
 #### Fee
 
 Collecting and managing funds or fees can be tricky. If you plan to do this, you should consider using an existing online registration service (e.g., Eventbrite, Event Smart) or your institution’s conference/event services. Although any cost impacts accessibility of the event, charging a nominal registration fee (e.g., $20–40 or €15–30) encourages those who register to actually attend—Software Carpentry found this reduced no-shows from almost a third to about 5% (Wilson 2016). 
 
-If planning to charge a fee of any sort, it is good to clarify with your institution's finance team how best to handle this. In some cases, the amount of time/effort required to set such things up can outweigh the value of charging - particularly if it is only a nominal fee being charged. Your institution will likely have specific financial processes and budget codes that need to be used so speak to them early on to see what is the best approach. This is true even when using external services such as Eventbrite (you'll need an institutional budget centre to allow the income to come into your institution).
+If planning to charge a fee of any sort, it is good to clarify with your institution's finance team how best to handle this. In some cases, the amount of time/effort required to set such things up can outweigh the value of charging - particularly if it is only a nominal fee being charged. Your institution will likely have specific financial processes and budget codes that need to be used, so speak to them early on to see what the best approach is. This is true even when using external services such as Eventbrite (you'll need an institutional budget center to allow the income to come into your institution).
 
 If you do charge a fee, consider making a waiver available upon request for those unable to pay or creating scholarships. Scholarship allocation should be prioritized for groups that face the most barriers for self-funding.
 
@@ -255,7 +255,7 @@ Consider different levels of sponsorship (bronze, silver, gold) in case of bigge
 
 Here are some things to consider:
 
-Will participants need access to WIFI? Make sure that any requirements for access are dealt with ahead of time (e.g., by providing guest account details). Check if the venue has enough power outlets. Make sure to check with the venue owner in advance for availability of technical support. If you are planning on recording the event make sure you have the correct equipment, and that attendees are aware (and have consented) to being recorded. Think about how you are going to license any outcomes: will you apply a CC license to pictures, videos, and training materials? Are the authors ok with that? 
+Will participants need access to WI-FI? Make sure that any requirements for access are dealt with ahead of time (e.g., by providing guest account details). Check if the venue has enough power outlets. Make sure to check with the venue owner in advance for availability of technical support. If you are planning on recording the event make sure you have the correct equipment, and that attendees are aware (and have consented) to being recorded. Think about how you are going to license any outcomes: will you apply a CC license to pictures, videos, and training materials? Are the authors ok with that? 
 
 #### Shortly before event
 
@@ -280,7 +280,7 @@ Consider which kind of name your training will have. Think about your framing an
 
 Consider both digital and non-digital media. Use institutional mailing lists and social media (e.g., Twitter, Facebook, blog). Will you have dedicated social media profiles? What sort of content will you share on them? Think about relevant images and logos. This is more important if you want to run more than one event. If the event is being run with the sponsorship of, or in coordination with, an institutional organization (e.g., the library, a particular college/department), then you may want or need to use the profiles of the organization. This might require someone else to post the material, so keep that in mind. Several of these recommendations might require organizational sign off or additional budget support - start investigating these options as soon as possible. 
 
-Find out if you can post flyers or posters at your institution. Are you going to design a poster? What sort of logos, images, text, and information do you need to include? Make sure to clearly communicate the pre-defined objectives (skills and knowledge). Ask relevant organisations to help with advertising. Connect with relevant media, create a press release. Use existing communication channels, e.g. at the university library you might ask subject librarians to promote the event to their academic communities.
+Find out if you can post flyers or posters at your institution. Are you going to design a poster? What sort of logos, images, text, and information do you need to include? Make sure to clearly communicate the pre-defined objectives (skills and knowledge). Ask relevant organizations to help with advertising. Connect with relevant media, create a press release. Use existing communication channels, e.g. at the university library you might ask subject librarians to promote the event to their academic communities.
 
 #### Shortly before the event
 
@@ -299,7 +299,7 @@ Set up an event registration using a service like [Eventbrite](https://www.event
 
 Think about the fee you want/need to charge (see budget). Think about the credits students can get. Is a certificate needed (see certification of attendance)?
 
-Be sensible and transparent about the information you collect. If you need to ask information like gender, age or nationality, keep into account that this is not always as straightforward as you might think - always offer the option of a blank field. Please do not use the distinction between Mrs and Ms.
+Be sensible and transparent about the information you collect. If you need to ask information like gender, age or nationality, keep into account that this is not always as straightforward as you might think - always offer the option of a blank field. Please do not use the distinction between Mrs. and Ms.
 
 You can make a short poll to measure what do participants already know about the topic (their pre-knowledge). It can help you to prepare training material. Make clear what data is going to be shared/retained and why. Always offer people the option of opting out, and keep any information you do archive safely stored. Consider creating a list of interested participants for a newsletter or for keeping in touch, but be aware of data protection (like the EU General Data Protection Regulation (Regulation (EU) 2016/679)). 
 
@@ -340,7 +340,7 @@ Remind people about reachability and accessibility of the venue. Send detailed i
 
 #### During the event
 
-Dedicate some time to housekeeping at the start of your event. Write down hashtags and WIFI passwords.
+Dedicate some time to housekeeping at the start of your event. Write down hashtags and WiFi passwords.
 
 ## <img src="/Images/Icons/lunch_break.png" width="150" height="150" />
 ### Catering
@@ -481,7 +481,7 @@ Prepare a report for your funder or institution and if needed make it public (e.
     <td></td>
   </tr>
   <tr>
-    <td>Order wifi for participants</td>
+    <td>Order WiFi for participants</td>
     <td></td>
     <td></td>
   </tr>
@@ -606,7 +606,7 @@ Prepare a report for your funder or institution and if needed make it public (e.
     <td></td>
   </tr>
   <tr>
-    <td>Organise a wardrobe checkroom for larger events</td>
+    <td>Organize a wardrobe checkroom for larger events</td>
     <td></td>
     <td></td>
   </tr>
@@ -703,5 +703,5 @@ Commission on Disability Rights of American Bar Association (2016): Planning Acc
 
 * Wikihow [Conduct a Workshop](https://www.wikihow.com/Conduct-a-Workshop)
 
-* SPA 2010 Guidelines[Organising training seminars workshops](https://www.ica.org/sites/default/files/SPA_2010_Guidelines_Organising-training-seminars-workshops_EN.pdf)
+* SPA 2010 Guidelines [Organising training seminars workshops](https://www.ica.org/sites/default/files/SPA_2010_Guidelines_Organising-training-seminars-workshops_EN.pdf)
 
