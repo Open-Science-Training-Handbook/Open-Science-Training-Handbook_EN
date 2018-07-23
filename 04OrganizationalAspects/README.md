@@ -446,7 +446,7 @@ Debrief with the other trainers/speakers to self-assess how the event went.
 
 ### Evaluation
 
-Send post-training assessment survey to participants [link to evaluation/assessment chapter] or distribute an evaluation form during the event and make sure people hand it in at the end.
+Send post-training assessment survey to participants (see [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) or distribute an evaluation form during the event and make sure people hand it in at the end.
 
 Read and count the questions in the evaluation form. Make your self-evaluation.
 
