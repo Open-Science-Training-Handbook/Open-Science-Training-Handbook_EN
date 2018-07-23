@@ -365,23 +365,23 @@ Collaborative Platforms</td>
 
 * Learning objectives
 
-    * Identify knowledge gaps / areas participants feel they would most benefit from training in  
+    * Identify knowledge gaps / areas participants feel they would most benefit from training in.  
 
-    * (optional) Identify areas participants feel knowledgeable about (and can thus share their own knowledge)
+    * (optional) Identify areas participants feel knowledgeable about (and can thus share their own knowledge).
 
 * Exercise description
 
-    * Briefly introducing the research cycle and activities therein
+    * Briefly introducing the research cycle and activities therein.
 
     * Ask participants to individually identify two to three activities they would most benefit getting training in (in relation to open science).
 
-    * Optionally, also ask participants which two to three areas they already feel knowledgeable about (again, in relation to open science)
+    * Optionally, also ask participants which two to three areas they already feel knowledgeable about (again, in relation to open science).
 
-    * On individual printouts, participants add sticky dots for each question
+    * On individual printouts, participants add sticky dots for each question.
 
-    * Participants then add similar sticky dots to the communal printout
+    * Participants then add similar sticky dots to the communal printout.
 
-    * Discuss the results with the full group. Make sure people when seeing the dots also realize there may be a big opportunity for learning from other participants
+    * Discuss the results with the full group. Make sure people when seeing the dots also realize there may be a big opportunity for learning from other participants.
 
 ![image alt text](/Images/image_7.png)
 
@@ -395,23 +395,23 @@ Collaborative Platforms</td>
 
 * Level of prior knowledge needed
 
-    * None; some familiarity with the research cycle is helpful
+    * None; some familiarity with the research cycle is helpful.
 
 * Things to bear in mind
 
-    * Best at the beginning of a longer training program where multiple topics will be covered
+    * Best at the beginning of a longer training program where multiple topics will be covered.
 
-    * For the sticky dots, choose a combination that is colour-blind friendly
+    * For the sticky dots, choose a combination that is colour-blind friendly.
 
-    * The number of activities to choose depends on the number of participants (e.g., three for smaller groups, two for larger groups)
+    * The number of activities to choose depends on the number of participants (e.g., three for smaller groups, two for larger groups).
 
-    * Individual printouts are used to prevent peer pressure / bias
+    * Individual printouts are used to prevent peer pressure / bias.
 
-    * Individual printouts can be kept for reference during the remaining of the training
+    * Individual printouts can be kept for reference during the remaining of the training.
 
 * How to adapt for other purposes
 
-    * This exercise can easily be adapted to prioritize other topics
+    * This exercise can easily be adapted to prioritize other topics.
 
 ##### **Example 3: Selection of open science practices**
 
@@ -425,21 +425,21 @@ Collaborative Platforms</td>
 
 * Learning objectives 
 
-    * See the spectrum of open science practices across the full research workflow
+    * See the spectrum of open science practices across the full research workflow.
 
     * Assess which practices would the most feasible and effective to focus on. 
 
 * Exercise description
 
-    * Prior to the exercise, sort the cards according to research phase/activity and spread them across the room (e.g., on tables, or on a large section of the floor)
+    * Prior to the exercise, sort the cards according to research phase/activity and spread them across the room (e.g., on tables, or on a large section of the floor).
 
-    * Mark a large section of a wall (windows or pinboards can also be used) with the different phases of the research cycle (e.g., preparation, discovery, analysis, writing, publication, outreach, assessment)
+    * Mark a large section of a wall (windows or pinboards can also be used) with the different phases of the research cycle (e.g., preparation, discovery, analysis, writing, publication, outreach, assessment).
 
-    * Ask participants to select practices they feel are really important for open science, and hang them on the wall, grouped by research phase
+    * Ask participants to select practices they feel are really important for open science, and hang them on the wall, grouped by research phase.
 
-    * Encourage people to add research practices that are not included in the cards
+    * Encourage people to add research practices that are not included in the cards.
 
-    * Divide participants in seven groups
+    * Divide participants in seven groups.
 
     * Each group looks at the selected practices for one research phase, and chooses the two practices that they feel are *most feasible to implement* and *most effective to make research more open*. Either move these cards higher up on the wall, or remove the other cards.
 
@@ -481,7 +481,7 @@ Collaborative Platforms</td>
 
 * Things to bear in mind
 
-    * Depending on the number of participants, small groups can prioritize practices for more than one research phase
+    * Depending on the number of participants, small groups can prioritize practices for more than one research phase.
 
     * Test tape on windows / walls first, some types are really hard to remove :-) 
 
@@ -489,9 +489,9 @@ Collaborative Platforms</td>
 
 * How to adapt for other purposes
 
-    * The exercise could be modified to focus on specific activities / a specific phase of the research cycle (e.g., publication or assessment)
+    * The exercise could be modified to focus on specific activities / a specific phase of the research cycle (e.g., publication or assessment).
 
-    * Other selection criteria could be used, e.g. practices participants use themselves, or practices that would be most ideal (independent of feasibility/efforts needed)
+    * Other selection criteria could be used, e.g. practices participants use themselves, or practices that would be most ideal (independent of feasibility/efforts needed).
 
 ##### **Example 4: Open Science discussion topics**
 
@@ -505,17 +505,17 @@ Collaborative Platforms</td>
 
 * Learning objectives 
 
-    * Confront own experiences and opinions on open science with perspectives from others 
+    * Confront own experiences and opinions on open science with perspectives from others.
 
 ![image alt text](/Images/image_12.png)
 
 * Exercise description
 
-    * Divide participants in groups of four or five and distribute discussion topics (e.g., printed out on paper)
+    * Divide participants in groups of four or five and distribute discussion topics (e.g., printed out on paper).
 
-    * Have groups discuss the topics from participants’ own perspectives
+    * Have groups discuss the topics from participants’ own perspectives.
 
-    * (optional) Have each group summarize most important points that came up for the whole group 
+    * (optional) Have each group summarize most important points that came up for the whole group .
 
     * Suggestions for discussion topics:
 
@@ -549,15 +549,15 @@ Collaborative Platforms</td>
 
 * Level of prior knowledge needed
 
-    * Some familiarity with the research system
+    * Some familiarity with the research system.
 
 * Things to bear in mind
 
-    * This exercise is best suited to researchers (rather than support people), because they can directly relate to their own situation and speak from their own experience 
+    * This exercise is best suited to researchers (rather than support people), because they can directly relate to their own situation and speak from their own experience .
 
 * How to adapt for other purposes
 
-    * By changing the discussion statements, this exercise can be adapted to other topics
+    * By changing the discussion statements, this exercise can be adapted to other topics.
 
 ##### **Example 5: LIBER Open Science café**
 
@@ -571,9 +571,9 @@ Collaborative Platforms</td>
 
 * Learning objectives
 
-    * Have knowledge of different aspects of open science
+    * Have knowledge of different aspects of open science.
 
-    * Connect different stakeholders to discuss statements and topics
+    * Connect different stakeholders to discuss statements and topics.
 
 * Materials and tools needed
 
@@ -598,31 +598,31 @@ good that it deserves to go on this card.
 
 ##### **Example 6: What is research data for me?**
 
-* Format, time needed: 
+* Format, time needed
 
     * Individual/pairs, 15 minutes
 
-* Topic:
+* Topic
 
     * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Learning objectives
 
     * Know their own research data and data in their field of research
 
-* Exercise description:
+* Exercise description
 
     * Let the participants think about the last articles they wrote/read. Was there supplementary material (e.g., tables, images)? Let them write down examples and types of research data in their field of work. What information or data would they need in order to reanalyze the study? What would be needed for their own dissertation/article to be understood properly? Let them present their results either in pairs/groups and then in the plenary
 
-* Materials and tools needed:
+* Materials and tools needed
 
     * A piece of paper and a pen
 
-* Level of prior knowledge needed:
+* Level of prior knowledge needed
 
     * No prior knowledge needed
 
-* Things to bear in mind:
+* Things to bear in mind
 
     * Give the participants enough time to brainstorm
 
