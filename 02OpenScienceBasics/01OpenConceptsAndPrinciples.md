@@ -11,15 +11,15 @@ There are several definitions of "openness" with regards to various aspects of s
 
 The aims and assumptions underlying the push to implement these various practices have been analysed by Fecher & Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\), whose analyses of the literature found five broad concerns, or "schools of thought". These are:
 
-* **Democratic school: **Believing that there is an unequal distribution of access to knowledge, this area is concerned with making scholarly knowledge \(including publications and data\) available freely for all.
+* **Democratic school:** Believing that there is an unequal distribution of access to knowledge, this area is concerned with making scholarly knowledge \(including publications and data\) available freely for all.
 
-* **Pragmatic school: **Following the principle that the creation of knowledge is made more efficient through collaboration and strengthened through critique, this area seeks to harness network effects by connecting scholars and making scholarly methods transparent.
+* **Pragmatic school:** Following the principle that the creation of knowledge is made more efficient through collaboration and strengthened through critique, this area seeks to harness network effects by connecting scholars and making scholarly methods transparent.
 
-* **Infrastructure school: **This thread is motivated by the assumption that efficient research requires readily available platforms, tools and services for dissemination and collaboration.
+* **Infrastructure school:** This thread is motivated by the assumption that efficient research requires readily available platforms, tools and services for dissemination and collaboration.
 
-* **Public school: **Based on the recognition that true societal impact requires societal engagement in research and readily understandable communication of scientific results, this area seeks to bring the public to collaborate in research through citizen science, and make scholarship more readily understandable through lay summaries, blogging and other less formal communicative methods.
+* **Public school:** Based on the recognition that true societal impact requires societal engagement in research and readily understandable communication of scientific results, this area seeks to bring the public to collaborate in research through citizen science, and make scholarship more readily understandable through lay summaries, blogging and other less formal communicative methods.
 
-* **Measurement school: **Motivated by the acknowledgement that traditional metrics for measuring scientific impact have proven problematic \(by being too heavily focused on publications, often only at the journal-level, for instance\), this strand seeks "alternative metrics" which can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities.
+* **Measurement school:** Motivated by the acknowledgement that traditional metrics for measuring scientific impact have proven problematic \(by being too heavily focused on publications, often only at the journal-level, for instance\), this strand seeks "alternative metrics" which can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities.
 
 ### Rationale
 
