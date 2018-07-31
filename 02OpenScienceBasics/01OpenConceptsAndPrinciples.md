@@ -111,7 +111,7 @@ A: It is better to have too much information and deal with it, than to have too 
 
 * [Do you speak Open Science? Resources and tips to learn the language](https://doi.org/10.7287/peerj.preprints.2689v1) \(Masuzzo and Martens, 2017\).
 
-* [Open innovation, Open Science, open to the world](https://doi.org/10.2777/79895) : reflections of the Research, Innovation and Science Policy Experts \(RISE\) High Level Group \(2017\)
+* [Europe's future. Open innovation, Open Science, open to the world](https://doi.org/10.2777/79895): reflections of the Research, Innovation and Science Policy Experts \(RISE\) High Level Group \(2017\)
 
 
 
