@@ -3,7 +3,7 @@
 
 ### What is it?
 
-Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods ([FOSTER Open Science Definition] (https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). In a nutshell, Open Science is transparent and accessible knowledge that is shared and developed through collaborative networks \(Vicente-Sáez & Martínez-Fuentes 2018\).
+Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods ([FOSTER Open Science Definition](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). In a nutshell, Open Science is transparent and accessible knowledge that is shared and developed through collaborative networks \(Vicente-Sáez & Martínez-Fuentes 2018\).
 
 Open Science is about increased rigour, accountability, and reproducibility for research. It is based on the principles of inclusion, fairness, equity, and sharing, and ultimately seeks to change the way research is done, who is involved and how it is valued. It aims to make research more open to participation, review/refutation, improvement and \(re\)use for the world to benefit.
 
