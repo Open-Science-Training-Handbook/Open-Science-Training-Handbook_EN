@@ -1377,7 +1377,7 @@ Figure x - Rainbow of open science practices (available on Zenodo in different f
 
 * "Open Science, Open Data, Open Source" (2017) 21st century skills for the life sciences [http://osodos.org](http://osodos.org)
 
-* Tips on how to build and publish a versionised e-book are given in the github repository [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Also  available in GitHub Pages as a website [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub and Mobi versions were made available by [Unglue.it](unglue.it/work/229980/)
+* Tips on how to build and publish a versionised e-book are given in the github repository [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Also  available in GitHub Pages as a website [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub and Mobi versions were made available by [Unglue.it](https://unglue.it/work/229980/)
 
 * [Open Science Training Initiative](http://www.opensciencetraining.com/) - Graduate Training in Open Science.
 
