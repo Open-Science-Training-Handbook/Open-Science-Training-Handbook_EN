@@ -76,11 +76,11 @@ Although there is still an open debate on how to assess some citizen science act
 
 * Overview of citizen science projects:
 
-  * [http://socientize.eu/](http://socientize.eu/)
+  * [socientize.eu](http://socientize.eu/)
 
-  * [https://www.zooniverse.org/projects](https://www.zooniverse.org/projects)
+  * [zooniverse.org/projects](https://www.zooniverse.org/projects)
 
-  * [https://crowdcrafting.org/](https://crowdcrafting.org/)
+  * [crowdcrafting.org](https://crowdcrafting.org/)
 
 * François Grey, Daniel Wyler, Judith Fröhlich, Katrien Maes 2016: [Citizen science at universities. Trends, guidelines and recommendations ](https://www.leru.org/publications/citizen-science-at-universities-trends-guidelines-and-recommendations)
 
