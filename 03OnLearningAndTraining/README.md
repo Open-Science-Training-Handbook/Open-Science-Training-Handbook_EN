@@ -268,7 +268,8 @@ There are several strategies that can be employed throughout the training event 
 ## <img src="/Images/Icons/idea.png" width="150" height="150" />
 ## Practical guidance
 
-You will find more information concerning the concrete planning and execution of a training on Open Science in the chapters on [Organizational Aspects](https://docs.google.com/document/d/14COBhyFzL934Cs7waAohmLKm977dq-jGnnRHHD4mUjg/edit) and the [Examples and Practical Guidance](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit).
+You will find more information concerning the concrete planning and execution of a training on Open Science in the chapters on [Organizational Aspects](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/04OrganizationalAspects) and the [Examples and Practical Guidance](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/05ExamplesAndPracticalGuidance).
+
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
 ### Designing a course
