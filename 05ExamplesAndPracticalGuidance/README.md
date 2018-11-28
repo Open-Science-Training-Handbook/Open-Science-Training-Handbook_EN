@@ -11,7 +11,7 @@ We recommend you approach all of these materials with the motto "Adopt, adapt, d
 
 The Open Science Network Göttingen, a group of researchers and librarians who support open science practices and knowledge exchange regularly organize these meet-up events where various open science related topics are discussed. The network unites people interested in Open Science topics at the Göttingen Campus and is open to everyone. They have become quite popular attracting scholars from different disciplines who are eager to discuss their experiences with open scholarship and to learn about new methods, tools, and practices. Invited speakers usually introduce the topics which is followed by small group discussions with a more in-depth view on related issues. 
 
-More information: [https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/)
+* More information: [State and University Library Göttingen - Open Science](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/)
 
 **Mozilla Study groups (a series of 2–3 hour meetings)**
 
@@ -26,35 +26,35 @@ Transparency, open sharing, and reproducibility are core values of science, but 
 
 The aim of the workshop is to provide researchers and administrators with hands-on examples of Open Science tools and workflow examples across various disciplines, and to start applying and discussing these. For this, we present an overview of Open Science practices and tools that are used throughout the scientific workflow, with practical examples, audience polling and interactive discussions. The second day is oriented at application and sharing. In various rounds participants explore and where possible try out or apply tools and practices. They do this in small groups and individually and also in a lively marketplace. In a final session we have a discussion on obstacles and incentives for switching to open science in your own research.
 
-[Open Science - what’s in it for me](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Vienna, 2017, workshop report)
+* [Open Science - what’s in it for me](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Vienna, 2017, workshop report)
 
-[Open Science - what’s in it for me](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Torino, 2018, workshop program)
+* [Open Science - what’s in it for me](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Torino, 2018, workshop program)
 
 **Carpentry workshops (2 days)**
 
 A Carpentry workshop is a hands-on two-day event that covers the core skills needed to be productive in a small research team. Short tutorials alternate with practical exercises, and all instruction is done via live coding. Software Carpentry was founded in 1998 and Data Carpentry was founded in 2013. Both focus on computational skills, run two-day workshops taught by volunteer instructors, and strive to fill gaps in current training for researchers. However, they differ in their content and intended audience. Data Carpentry workshops focus on best practices surrounding data. Its learners are not people who want to learn about coding, but rather those who have a lot of data and don’t know what to do with it. Data Carpentry workshops are aimed at pure novices, are domain-specific, and present a full curriculum centered around a single data set. Software Carpentry workshops are intended for people who need to program more effectively to solve their computational challenges, are not domain-specific, and are modular—each Software Carpentry lesson is standalone.
 
-Software Carpentry: [https://software-carpentry.org](https://software-carpentry.org)
+* Software Carpentry: [https://software-carpentry.org](https://software-carpentry.org)
 
-Data Carpentry: [http://www.datacarpentry.org/](http://www.datacarpentry.org/)
+* Data Carpentry: [http://www.datacarpentry.org/](http://www.datacarpentry.org/)
 
 **EIFL Train-the-Trainer program (4 days)**
 
 EIFL organized a train-the-trainers program for five universities in EIFL partner countries (Ethiopia, Ghana, Zimbabwe, Tanzania, and Nepal) that have committed to integrating open access, open science and open research data into courses for PhD students. Day 1 covered open access and open data. Day 2 and 3 were dedicated to open science across the research workflow, including current practices at participant’s universities. On Day 4, participants designed and prepared their own training program. 
 
-[EIFL Train-the-trainer program](https://osf.io/qf76a/) (Addis Ababa, 2017, program and materials)
+* [EIFL Train-the-trainer program](https://osf.io/qf76a/) (Addis Ababa, 2017, program and materials)
 
 **Open Science summer schools (5 days)**
 
 Various universities across Europe organize weeklong summer schools on open science, primarily aimed at early career researchers. These events cover a variety of topics in five days, usually with many hands-on activities to apply open science into daily practice. 
 
-[EPFL Summer school Open Science in Practice ](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, program overview)
+* [EPFL Summer school Open Science in Practice ](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, program overview)
 
-[Utrecht University Summer school Open Science and Scholarship](https://tinyurl.com/sumsopenscience2017) (2017, program and materials)
+* [Utrecht University Summer school Open Science and Scholarship](https://tinyurl.com/sumsopenscience2017) (2017, program and materials)
 
-[Essex Summer school in Social Science and Data Analysis - Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, program overview) 
+* [Essex Summer school in Social Science and Data Analysis - Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, program overview) 
 
-[LERU Doctoral Summer school on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, description, learning objectives) 
+* [LERU Doctoral Summer school on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, description, learning objectives) 
 
 
 ![image alt text](/Images/image_6.png)
@@ -1377,25 +1377,25 @@ Figure x - Rainbow of open science practices (available on Zenodo in different f
 
 * "Open Science, Open Data, Open Source" (2017) 21st century skills for the life sciences [http://osodos.org](http://osodos.org)
 
-* Tips on how to build and publish a versionised e-book are given in the github repository [https://github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Also  available in GitHub Pages as a website [https://pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub and Mobi versions were made available by Unglue.it [https://unglue.it/work/229980/](https://unglue.it/work/229980/)
+* Tips on how to build and publish a versionised e-book are given in the github repository [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Also  available in GitHub Pages as a website [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub and Mobi versions were made available by Unglue.it [https://unglue.it](unglue.it/work/229980/)
 
-* Open Science Training Initiative - Graduate Training in Open Science. [http://www.opensciencetraining.com/](http://www.opensciencetraining.com/)
+* [Open Science Training Initiative](http://www.opensciencetraining.com/) - Graduate Training in Open Science.
 
-* MANTRA - Research Management Training [https://mantra.edina.ac.uk/](https://mantra.edina.ac.uk/)
+* [MANTRA - Research Management Training](https://mantra.edina.ac.uk/)
 
-* Research Data Management Educational Efforts [https://docs.google.com/spreadsheets/d/10RTW-nZk0x_mpQw2VAlttcc656MV9EeCaDe2lM4umb4/edit#gid=0](https://docs.google.com/spreadsheets/d/10RTW-nZk0x_mpQw2VAlttcc656MV9EeCaDe2lM4umb4/edit#gid=0)
+* [Research Data Management Educational Efforts](https://docs.google.com/spreadsheets/d/10RTW-nZk0x_mpQw2VAlttcc656MV9EeCaDe2lM4umb4/edit#gid=0)
 
-* Information website about research data management:[ https://www.forschungsdaten.info/en/](https://www.forschungsdaten.info/)
+* Information website about research data management:[forschungsdaten.info](https://www.forschungsdaten.info/)
 
-* E-Learning Module (German and French):[ http://www.researchdatamanagement.ch](http://www.researchdatamanagement.ch/)
+* E-Learning Module (German and French):[researchdatamanagement.ch](http://www.researchdatamanagement.ch/)
 
-* Digital Curation Centre:[ ](http://www.dcc.ac.uk/)[http://www.dcc.ac.uk](http://www.dcc.ac.uk)
+* [Digital Curation Centre](http://www.dcc.ac.uk)
 
-* Research data management (RDM) open training materials (Zenodo Community) [https://zenodo.org/communities/dcc-rdm-training-materials/](https://zenodo.org/communities/dcc-rdm-training-materials/)
+* Research data management (RDM) open training materials [Zenodo Community](https://zenodo.org/communities/dcc-rdm-training-materials/)
 
 * A complete repository of materials and methods, selected for training instructors, only a small part is specific to Bioinformatics [https://github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT)
 
-* Sewell, Claire. ‘Research Data Management: Activity Cards’, 23 November 2017. https://doi.org/10.17863/CAM.10074.
+* Sewell, Claire. ‘Research Data Management: Activity Cards’, 23 November 2017. [doi.org/10.17863/CAM.10074](https://doi.org/10.17863/CAM.10074).
 
 * [Open Science Q&A](https://openscience.uni-bielefeld.de/)
 
