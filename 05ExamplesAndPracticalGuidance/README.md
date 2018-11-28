@@ -16,11 +16,11 @@ The Open Science Network Göttingen, a group of researchers and librarians who s
 **Mozilla Study groups (a series of 2–3 hour meetings)**
 
 Study groups are communities of peers (e.g., from the same institution) committed to learning and teaching each other. They’re fun, informal meetups allowing participants to share skills, experiences, and ideas around open science, open source, code, and community in research. The goal of the [Mozilla Study Group Project](https://science.mozilla.org/programs/studygroups) is to support this kind of peer-to-peer study by providing a simple set of tools, template lesson plans, and access to an international community of like-minded researchers and avid learners in code
-(text adapted from [https://science.mozilla.org/programs/studygroups](https://science.mozilla.org/programs/studygroups))
+(text adapted from [science.mozilla.org/programs/studygroups](https://science.mozilla.org/programs/studygroups))
 
 **Reproducible analysis and Research Transparency (a single full-day workshop)**
 
-Transparency, open sharing, and reproducibility are core values of science, but not always part of daily practice. A first iteration of this workshop took place within the context of the [Open Science Tools, Data & Technologies for Efficient Ecological & Evolutionary Research](https://nioo.knaw.nl/en/open-science-tools) event, organized by NIOO-KNAW and DANS-KNAW. It provides an overview of current status in reproducible analysis in order to provide transparency in research. The workshop covers methodological topics (such as the use of the Open Science Framework and reporting guidelines) as well as software tools (such as Git, Docker, RMarkdown / knitr, and Jupyter). Going beyond simple listing and presentations, the second half of the workshop focuses on hands-on skill building, with exercises and tutorials covering most of the software aspects. Material and content is available here: [http://reproducible-analysis-workshop.readthedocs.io](http://reproducible-analysis-workshop.readthedocs.io)
+Transparency, open sharing, and reproducibility are core values of science, but not always part of daily practice. A first iteration of this workshop took place within the context of the [Open Science Tools, Data & Technologies for Efficient Ecological & Evolutionary Research](https://nioo.knaw.nl/en/open-science-tools) event, organized by NIOO-KNAW and DANS-KNAW. It provides an overview of current status in reproducible analysis in order to provide transparency in research. The workshop covers methodological topics (such as the use of the Open Science Framework and reporting guidelines) as well as software tools (such as Git, Docker, RMarkdown / knitr, and Jupyter). Going beyond simple listing and presentations, the second half of the workshop focuses on hands-on skill building, with exercises and tutorials covering most of the software aspects. Material and content is available here: [reproducible-analysis-workshop.readthedocs.io](http://reproducible-analysis-workshop.readthedocs.io)
 
 **Open Science: what’s in it for me? (1-2 days)**
 
@@ -34,9 +34,9 @@ The aim of the workshop is to provide researchers and administrators with hands-
 
 A Carpentry workshop is a hands-on two-day event that covers the core skills needed to be productive in a small research team. Short tutorials alternate with practical exercises, and all instruction is done via live coding. Software Carpentry was founded in 1998 and Data Carpentry was founded in 2013. Both focus on computational skills, run two-day workshops taught by volunteer instructors, and strive to fill gaps in current training for researchers. However, they differ in their content and intended audience. Data Carpentry workshops focus on best practices surrounding data. Its learners are not people who want to learn about coding, but rather those who have a lot of data and don’t know what to do with it. Data Carpentry workshops are aimed at pure novices, are domain-specific, and present a full curriculum centered around a single data set. Software Carpentry workshops are intended for people who need to program more effectively to solve their computational challenges, are not domain-specific, and are modular—each Software Carpentry lesson is standalone.
 
-* Software Carpentry: [https://software-carpentry.org](https://software-carpentry.org)
+* [Software Carpentry](https://software-carpentry.org)
 
-* Data Carpentry: [http://www.datacarpentry.org/](http://www.datacarpentry.org/)
+* [Data Carpentry](http://www.datacarpentry.org/)
 
 **EIFL Train-the-Trainer program (4 days)**
 
@@ -67,7 +67,7 @@ Various universities across Europe organize weeklong summer schools on open scie
 
 * Format, time needed 
 
-* Topic \([see Open Science Basics](/02OpenScienceBasics/README.md)\)
+* Topic \([see Open Science Basics](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
 
 * Learning objectives 
 
