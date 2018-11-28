@@ -507,14 +507,14 @@ Similar exercises can be applied to training different audiences, for which you 
 
 **About Bloom's Taxonomy:**
 
-* [https://www.pearsoened.com/using-blooms-taxonomy-to-write-learning-outcomes/](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
-* [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
+* [pearsoened.com](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
+* [clinton.edu](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
 **Resources/Exercises for ice-breakers**
 
-* [https://www.mindtools.com/pages/article/newLDR\_76.htm](https://www.mindtools.com/pages/article/newLDR_76.htm)
-* [http://documents.manchester.ac.uk/display.aspx?DocID=7582](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
-* [https://www.thebalance.com/top-ice-breakers-1918426](https://www.thebalance.com/top-ice-breakers-1918426)
+* [mindtools.com](https://www.mindtools.com/pages/article/newLDR_76.htm)
+* [documents.manchester.ac.uk](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
+* [thebalance.com](https://www.thebalance.com/top-ice-breakers-1918426)
 
 **References**
 
