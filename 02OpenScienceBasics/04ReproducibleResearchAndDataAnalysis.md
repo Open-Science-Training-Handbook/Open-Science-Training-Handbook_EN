@@ -128,7 +128,7 @@ Avoid supplementary files, decide on an acceptable permissive license, and share
 
 ###### Materials
 
-Share your materials so they can be reused. Deposit reagents with repositories like [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. For more information, see the Open Materials subsection of Open Research Data and Materials.
+Share your materials so they can be reused. Deposit reagents with repositories like [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. For more information, see the Open Materials subsection of [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
 
 ###### Software, notebooks, and containers
 
