@@ -84,7 +84,7 @@ The following is an indicative list of take-away points on reproducibility:
 There are several practical tips for reproducibility that one should have in mind when setting out the particular skills necessary to ensure this. Best practices in reproducibility borrow from Open Science practices more generally but their integration offers benefits to the individual researcher themselves, whether they choose to share their research or not. The reason that integrating reproducibility best practices benefits the individual researcher is that they improve the planning, organization, and documentation of research. Below we outline one example of implementing reproducibility into a research workflow with references to these practices in the handbook.
 
 ## <img src="/Images/Icons/task.png" width="150" height="150" />
-##### **1. Plan for reproducibility before you start **
+##### **1. Plan for reproducibility before you start**
 
 ###### Create a study plan or protocol.
 
