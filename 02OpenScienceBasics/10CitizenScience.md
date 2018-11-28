@@ -78,7 +78,7 @@ Although there is still an open debate on how to assess some citizen science act
 
   * [socientize.eu](http://socientize.eu/)
 
-  * [zooniverse.org/projects](https://www.zooniverse.org/projects)
+  * [zooniverse.org](https://www.zooniverse.org/projects)
 
   * [crowdcrafting.org](https://crowdcrafting.org/)
 
