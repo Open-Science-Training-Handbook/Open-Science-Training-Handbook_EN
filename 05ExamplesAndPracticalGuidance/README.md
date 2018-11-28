@@ -319,7 +319,7 @@ Collaborative Platforms</td>
 </table>
 
 
-##### **Example 1: Line up! **
+##### **Example 1: Line up!**
 
 * Format, time needed 
 
@@ -604,7 +604,7 @@ good that it deserves to go on this card.
 
 * Topic
 
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Learning objectives
 
@@ -638,7 +638,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic
 
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Learning objectives:
 
@@ -672,7 +672,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic:
 
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Learning objectives:
 
@@ -786,7 +786,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * How to adapt for other purposes:
 
-    * You can adapt this exercise for Open Access by using the Directory of Open Access Journals (DOAJ) website ([https://doaj.org](https://doaj.org))
+    * You can adapt this exercise for Open Access by using the Directory of Open Access Journals [DOAJ[https://doaj.org](https://doaj.org)) website
 
 ##### **Example 11: What do you need for a data publication?**
 
@@ -1028,7 +1028,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * How to adapt for other purposes:
 
-    * You can also use web tools like PINGO ([http://trypingo.com](http://trypingo.com)) for the collection of file formats or let them write down their file formats on a piece of paper and collect those, if you don’t want to use post-its
+    * You can also use web tools like [PINGO](http://trypingo.com) for the collection of file formats or let them write down their file formats on a piece of paper and collect those, if you don’t want to use post-its
 
 ##### **Example 17: Creative Commons License matching**
 
@@ -1086,7 +1086,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Exercise description:
 
-    * There is an online version [http://www.opencontent.org/game/](http://www.opencontent.org/game/) and a printed version  [http://www.opencontent.org/game/print/](http://www.opencontent.org/game/print/)
+    * There is an [online version](http://www.opencontent.org/game/) and a [printed version](http://www.opencontent.org/game/print/)
 
     * There is a set of cards marked with a type of content: text, image, music, and video, and each card carries a copyright sign that ranges from all rights reserved to public domain including the set of Creative Commons licenses and the GNU Free Documentation License.
 
@@ -1096,7 +1096,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * For the online game: computer with beamer
 
-    * For the printed game: the set of card available at [http://www.opencontent.org/game/print/](http://www.opencontent.org/game/print/) or a self created set of cards
+    * For the printed game: the set of cards is available at [opencontent.org](http://www.opencontent.org/game/print/) or you can create a set of cards yourself
 
 * Level of prior knowledge needed:
 
