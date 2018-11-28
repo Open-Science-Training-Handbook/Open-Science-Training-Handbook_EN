@@ -996,7 +996,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 
 
-##### **Example 16: Open file formats **
+##### **Example 16: Open file formats**
 
 * Format, time needed: 
 
@@ -1208,7 +1208,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * The concept of voting with coins ("your two cents") can be applied to other topics, as can the assignment of roles in small group discussions
 
-##### **Example 21: Taking a stance ** 
+##### **Example 21: Taking a stance** 
 
 * Format, time needed
 
@@ -1244,7 +1244,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Materials and tools needed
 
-    * Access to an online tool like Mentimeter ([https://www.mentimeter.com/](https://www.mentimeter.com/)); a paid account allows export of the results but is not required for this exercise
+    * Access to an online tool like [Mentimeter](https://www.mentimeter.com/); a paid account allows export of the results but is not required for this exercise
 
     * For each participant, access to smartphone, tablet, or computer with internet access
 
@@ -1276,9 +1276,9 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * Topic 
 
-    * [Citizen Scientists and Science Communication](/02OpenScienceBasics/10CitizenScience.md)
+    * [Citizen Science](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
 
-    * [Collaborative Platforms](/02OpenScienceBasics/07CollaborativePlatforms.md)
+    * [Collaborative Platforms](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
 
 * Learning objectives 
 
