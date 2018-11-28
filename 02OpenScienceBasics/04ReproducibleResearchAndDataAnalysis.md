@@ -120,7 +120,7 @@ Document everything done by hand in a README file. Create a data dictionary \(al
 Consider using [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr), or other approaches to literate programming to integrate your code with your narrative and documentation.
 
 ## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
-##### 3**. Share and license your research**
+##### **3. Share and license your research**
 
 ###### Data
 
@@ -135,7 +135,7 @@ Share your materials so they can be reused. Deposit reagents with repositories l
 License your code to inform about how it may be \(re\)used. Share notebooks with services such as [mybinder](http://mybinder.org) that allow for public viewing and execution of the entire notebook on shared resources. Share containers or notebooks with services such as [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/). Follow best practices outlined in Open Research Software and Open Source.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
-##### 4**. Report your research transparently**
+##### **4. Report your research transparently**
 
 Report and publish your methods and interventions explicitly and transparently and fully to allow for replication. Guidelines from the [Equator Network](http://www.equator-network.org/), tools like [Protocols.io](https://www.protocols.io/), or processes like [Registered Reports](https://cos.io/rr/) can help you report reproducibly. Remember to post your results to your public registration platform \(such as [ClinicalTrials.gov](https://www.socialscienceregistry.org/) or the [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) within a year of finishing your study no matter the nature or direction of your results.
 
