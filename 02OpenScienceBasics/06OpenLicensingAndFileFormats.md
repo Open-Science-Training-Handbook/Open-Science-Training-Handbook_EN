@@ -9,7 +9,7 @@ A license is a legal document that grants specific rights to user to reuse and r
 
 A file format is a standard way that information is encoded for storage in a computer file; however, not all formats have freely available specification documents, partly because some developers view their specification documents as trade secrets.
 
-![](/Images/02 Open Science Basics/02_open_licensing.png)
+![](/Images/02%20Open%20Science%20Basics/02_open_licensing.png)
 
 ### Rationale
 
