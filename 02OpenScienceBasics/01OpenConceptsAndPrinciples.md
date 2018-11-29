@@ -101,17 +101,17 @@ A: It is better to have too much information and deal with it, than to have too 
 3. Be familiar with the present state of Open Science, and the diversity of perspectives that this encompasses.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
+
 ### References and further reading
+
+* European Commission's Directorate-General for Research & Innovation (RTD) (2016). Open innovation, Open Science, open to the world - a vision for Europe. [ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe)
 
 * Fecher and Friesike (2014). Open Science: One Term, Five Schools of Thought. [doi.org/10.1007/978-3-319-00026-8_2](https://doi.org/10.1007/978-3-319-00026-8_2)
 
-* Watson (2015). When will ‘Open Science’ become simply ‘science’?. [doi.org/10.1186/s13059-015-0669-2](https://doi.org/10.1186/s13059-015-0669-2)
-
-* European Commission's Directorate-General for Research & Innovation (RTD) (2016). Open innovation, Open Science, open to the world - a vision for Europe [ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe)
+* High Level Group (2017). Europe's future. Open innovation, Open Science, open to the world: reflections of the Research, Innovation and Science Policy Experts \(RISE\). [doi.org/10.2777/79895](https://doi.org/10.2777/79895) 
 
 * Masuzzo and Martens (2017). Do you speak Open Science? Resources and tips to learn the language. [doi.org/10.7287/peerj.preprints.2689v1](https://doi.org/10.7287/peerj.preprints.2689v1)
 
-* High Level Group (2017). Europe's future. Open innovation, Open Science, open to the world: reflections of the Research, Innovation and Science Policy Experts \(RISE\). [doi.org/10.2777/79895](https://doi.org/10.2777/79895) 
-
+* Watson (2015). When will ‘Open Science’ become simply ‘science’?. [doi.org/10.1186/s13059-015-0669-2](https://doi.org/10.1186/s13059-015-0669-2)
 
 
