@@ -216,7 +216,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 
 * Gorgolewski et al. (2013). Making data sharing count: a publication-based solution. [doi.org/10.3389/fnins.2013.00009](https://doi.org/10.3389/fnins.2013.00009)
 
-* Hooft et al. The FAIR Data Principles explained. [dtls.nl/fair-data/fair-principles-explained/](https://www.dtls.nl/fair-data/fair-principles-explained/)
+* Hooft et al. The FAIR Data Principles explained. [dtls.nl/fair-data/fair-principles-explained](https://www.dtls.nl/fair-data/fair-principles-explained/)
   
 * Kratz and Strasser (2015). Making Data Count. [doi.org/10.1038/sdata.2015.39](https://www.nature.com/articles/sdata201539) 
 
@@ -229,7 +229,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 
 #### Initiatives and projects
 
-* FAIR Metrics. [http://fairmetrics.org/](http://fairmetrics.org/)
+* FAIR Metrics. [fairmetrics.org](http://fairmetrics.org/)
 
 * GO FAIR Initiative. [go-fair.org](https://www.go-fair.org/)
 
