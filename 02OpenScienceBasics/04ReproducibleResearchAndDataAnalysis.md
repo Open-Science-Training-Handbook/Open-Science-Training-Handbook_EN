@@ -22,7 +22,7 @@ The concept of reproducibility is directly applied to the scientific method, the
 
 Each of these steps should be clearly reported by providing clear and open documentation, and thus making the study transparent and reproducible.
 
-![](/Images/02 Open Science Basics/02_reproducible_research_data_analysis.png)
+![](/Images/02%20Open%20Science%20Basics/02_reproducible_research_data_analysis.png)
 
 ### Rationale
 
