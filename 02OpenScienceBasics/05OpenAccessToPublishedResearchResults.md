@@ -51,7 +51,7 @@ Regarding the version, some journals allow the dissemination of the submitted ve
 
 In relation to the moment to make the paper publicly available, many journals establish a period of time from its original publication: the embargo period, which can range from zero to 60 months. Some journals include or exclude embargoes depending on the versions. For instance the accepted version could be made publicly available after publication but the published version must wait 12 months.
 
-![](/Images/02 Open Science Basics/02_open_access_archives.png)
+![](/Images/02%20Open%20Science%20Basics/02_open_access_archives.png)
 
 **Open Access publishing**
 
@@ -105,11 +105,14 @@ You may discuss the future of the scholarly communication by presenting some of 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
-* [The Open Access Directory](http://oad.simmons.edu/oadwiki/Main_Page)
+* Björk (2017). Growth of hybrid open access, 2009–2016. _PeerJ_ 5:e3878 [doi.org/10.7717/peerj.3878](https://doi.org/10.7717/peerj.3878)
 
 * Piwowar H, Priem J, Larivière V, Alperin JP, Matthias L, Norlander B, Farley A, West J, Haustein S. \(2018\) The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles. _PeerJ_ 6:e4375 [https://doi.org/10.7717/peerj.4375](https://doi.org/10.7717/peerj.4375)
 
-* Björk B. \(2017\) Growth of hybrid open access, 2009–2016. _PeerJ_ 5:e3878 [https://doi.org/10.7717/peerj.3878](https://doi.org/10.7717/peerj.3878)
+* The Open Access Directory [oad.simmons.edu/oadwiki](http://oad.simmons.edu/oadwiki/Main_Page)
+
+
+
 
 
 
