@@ -47,7 +47,7 @@ In 2014, a core set of principles were drafted in order to optimize the reusabil
 
 Distinct from peer initiatives that focus on the human scholar, the FAIR principles put a specific emphasis on enhancing the ability of machines to automatically find and use data or any digital object, in addition to supporting its reuse by individuals. The FAIR principles are guiding principles, not standards. FAIR describes qualities or behaviours that are required to make data maximally reusable \(e.g., description, citation\). Those qualities can be achieved by different standards.
 
-![](/Images/02 Open Science Basics/02_open_research_data_material.png)
+![](/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png)
 
 ##### Data publishing
 
@@ -225,6 +225,8 @@ A: "You should talk to experts in domain specific repositories on how to provide
 * CESSDA ERIC, ["Citing your data"](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Publishing-with-CESSDA-archives/Citing-your-data)
 
 * 5 ★ OPEN DATA, [http://5stardata.info/en/](http://5stardata.info/en/)
+
+* [Brase et al., 2009](https://doi.org/10.3233/ISU-2009-0595)\)
 
 
 
