@@ -197,7 +197,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 7. Be able to write a data management plan.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### References and further reading
+### Further reading
 * Averkamp et al. (2018). Data packaging guide. [github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md).
 
 * Barend et al. (2017). Cloudy, increasingly FAIR; revisiting the FAIR Data guiding principles for the European Open Science Cloud. [doi.org/10.3233/ISU-170824](https://doi.org/10.3233/ISU-170824)
