@@ -9,7 +9,7 @@ Online collaborative platforms connect geographically-dispersed researchers to e
 
 ### Rationale
 
-Research collaboration is growing exponentially and teams are becoming ever more interdisciplinary as researchers increasingly work in international and cross-disciplinary consortia to enable a multitude of perspectives on specific research questions. Fostering national and international collaborative research is increasingly a funder priority. It lies, for example, at the heart of EC Research Commissioner Carlos Moedas’ strategy, i.e., ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world)
+Research collaboration is growing exponentially and teams are becoming ever more interdisciplinary as researchers increasingly work in international and cross-disciplinary consortia to enable a multitude of perspectives on specific research questions. Fostering national and international collaborative research is increasingly a funder priority. It lies, for example, at the heart of EC Research Commissioner Carlos Moedas’ strategy, i.e., ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
 
 Virtual Research Environments \(VRE\) and collaborative platforms enable collaboration across continents, time zones and disciplines. In this module you will develop an understanding of collaborative platforms that work today, and how they can greatly enhance your research workflows.
 
@@ -86,11 +86,8 @@ A: This is incorrect; although it may seem that you are introducing additional t
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
-* Open Science Framework. The promise of Open Science collaboration: [https://osf.io/vmrgu/wiki/home/](https://osf.io/vmrgu/wiki/home/)
+* Candela et al. (2013). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81. [doi.org/10.2481/dsj.GRDI-013](http://doi.org/10.2481/dsj.GRDI-013)
 
-* Alexander Voss, Rob Procter, \(2009\) ["Virtual research environments in scholarly work and communications"](https://www.emeraldinsight.com/doi/abs/10.1108/07378830910968146), Library Hi Tech, Vol. 27 Issue: 2, pp.174-190: [doi.org/10.1108/07378830910968146](https://doi.org/10.1108/07378830910968146)
+* Open Science Framework. The promise of Open Science collaboration. [osf.io](https://osf.io/vmrgu/wiki/home/)
 
-* Candela, L., Castelli, D. & Pagano, P., \(2013\). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81: [doi.org/10.2481/dsj.GRDI-013](http://doi.org/10.2481/dsj.GRDI-013)
-
-
-
+* Voss and Procter (2009). Virtual research environments in scholarly work and communications, Library Hi Tech, Vol. 27 Issue: 2, pp.174-190. [doi.org/10.1108/07378830910968146](https://doi.org/10.1108/07378830910968146)
