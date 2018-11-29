@@ -102,25 +102,25 @@ Suitability of licenses: for instance, CC licenses should not be used for softwa
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
-* Open Access Scholarly Publishers Association: ["Why CC-BY?"](https://oaspa.org/why-cc-by/)
+* Creative Commons License Picker. [creativecommons.org](https://creativecommons.org/choose/)
 
-* Wikipedia: [List of open formats](https://en.wikipedia.org/wiki/List_of_open_formats)
+* How to License Research Data. [dcc.ac.uk](http://www.dcc.ac.uk/resources/how-guides/license-research-data)
 
-* Till Kreutzer,[ "Validity of the Creative Commons Zero 1.0 Universal Public Domain Dedication and its usability for bibliographic metadata from the perspective of German Copyright Law"](https://www.rd-alliance.org/sites/default/files/cc0-analysis-kreuzer.pdf)
+* Klimpe (2012). Free knowledge thanks to Creative Commons Licenses - Why a non-commercial clause often won‘t serve your needs. ([original PDF in German](https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf), [English translation PDF](openglam.org/files/2013/01/iRights_CC-NC_Guide_English.pdf)\)
 
-* A good resource with arguments against NC licenses: "Free knowledge thanks to Creative Commons Licenses - Why a non-commercial clause often won‘t serve your needs", Paul Klimpe \([original in German](https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf), [English translation](openglam.org/files/2013/01/iRights_CC-NC_Guide_English.pdf)\)
+* Kreutzer (n.y.). Validity of the Creative Commons Zero 1.0 Universal Public Domain Dedication and its usability for bibliographic metadata from the perspective of German Copyright Law. [PDF](https://www.rd-alliance.org/sites/default/files/cc0-analysis-kreuzer.pdf)
 
-* World Intellectual Property Organization: [Universitites and Intellectual Property](http://www.wipo.int/about-ip/en/universities_research/)
+* List of open formats. [Wikipedia](https://en.wikipedia.org/wiki/List_of_open_formats)
 
-* Good explanation about CC0 and CC licenses: ["Open Content - A Practical Guide to Using Creative Commons Licences/The Creative Commons licencing scheme"](https://meta.wikimedia.org/wiki/Open_Content_-_A_Practical_Guide_to_Using_Creative_Commons_Licences/The_Creative_Commons_licencing_scheme)
+* Open Content - A Practical Guide to Using Creative Commons Licences/The Creative Commons licencing scheme. [meta.wikimedia.org](https://meta.wikimedia.org/wiki/Open_Content_-_A_Practical_Guide_to_Using_Creative_Commons_Licences/The_Creative_Commons_licencing_scheme)
 
-* [How to License Research Data](http://www.dcc.ac.uk/resources/how-guides/license-research-data)
+* Open Definition. Licenses. [opendefinition.org](http://opendefinition.org/licenses/)
 
-* [Creative Commons License Picker](https://creativecommons.org/choose/)
+* Open Source Licensing. [opensource.org/licenses](https://opensource.org/licenses)
 
-* [Open Source Licensing](https://opensource.org/licenses)
+* Redhead (2012). Why CC-BY?. Open Access Scholarly Publishers Association. [oaspa.org/why-cc-by](https://oaspa.org/why-cc-by/)
 
-* Open Definition: [Licenses](http://opendefinition.org/licenses/)
+* World Intellectual Property Organization. Universitites and Intellectual Property.[wipo.int](http://www.wipo.int/about-ip/en/universities_research/)
 
 
 
