@@ -106,7 +106,7 @@ Common misconception: simply putting code online makes it open-source software. 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
-* Balasegaram et al. (2017).An open source pharma roadmap. [doi.org/10.1371/journal.pmed.1002276](https://doi.org/10.1371/journal.pmed.1002276) 
+* Balasegaram et al. (2017). An open source pharma roadmap. [doi.org/10.1371/journal.pmed.1002276](https://doi.org/10.1371/journal.pmed.1002276) 
 
 * Dryden et al. (2017). Upon the Shoulders of Giants: Open-Source Hardware and Software in Analytical Chemistry. [doi.org/10.1021/acs.analchem.7b00485](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b00485) 
 
