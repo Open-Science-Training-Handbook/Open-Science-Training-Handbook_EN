@@ -25,7 +25,7 @@ The aims and assumptions underlying the push to implement these various practice
 
 Open Science, as defined above, encompasses a huge number of potential structural changes to academic practice, whose culture can often be hierarchical and conservative. Moreover, even where researchers are sympathetic to the aims of Open Science, they might not yet see the worth in taking them up, as existing incentive mechanisms do not yet reflect this new culture of openness and collaboration. As a consequence, convincing researchers of the need to change their practices will require a good understanding not only of the ethical, social and academic benefits, but also of the ways in which taking up Open Science practices will actually help them succeed in their work. This section will describe some of the core concepts, principles, actors, and practices in Open Science, and how these fit within a broader research ecosystem.
 
-## <img src="Images/image_1.png" />
+![](/Images/image_1.png)
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Learning objectives
