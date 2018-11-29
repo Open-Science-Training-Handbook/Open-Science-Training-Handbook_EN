@@ -109,7 +109,7 @@ You may discuss the future of the scholarly communication by presenting some of 
 
 * Piwowar H, Priem J, Larivière V, Alperin JP, Matthias L, Norlander B, Farley A, West J, Haustein S. \(2018\) The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles. _PeerJ_ 6:e4375 [https://doi.org/10.7717/peerj.4375](https://doi.org/10.7717/peerj.4375)
 
-* The Open Access Directory [oad.simmons.edu/oadwiki](http://oad.simmons.edu/oadwiki/Main_Page)
+* The Open Access Directory. [oad.simmons.edu/oadwiki](http://oad.simmons.edu/oadwiki/Main_Page)
 
 
 
