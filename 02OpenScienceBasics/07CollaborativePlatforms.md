@@ -5,7 +5,7 @@
 
 Online collaborative platforms connect geographically-dispersed researchers to enable them to cooperate seamlessly on their research, sharing research objects as well and ideas and experiences. Collaborative platforms are usually online services that provide a virtual environment to which multiple people can concurrently connect and work on the same task. These can range from extensive virtual research environments \(VREs\) which encompass a host of tools to facilitate sharing and collaboration, including web forums and wikis, collaborative document hosting, and discipline-specific tools such as data analysis or visualisation, right down to single specific tools which enable researchers to work together in real time on specific aspects of research \(such as writing or analysis\).
 
-![](/Images/02 Open Science Basics/02_collaborative_platforms.png)
+![](/Images/02%20Open%20Science%20Basics/02_collaborative_platforms.png)
 
 ### Rationale
 
