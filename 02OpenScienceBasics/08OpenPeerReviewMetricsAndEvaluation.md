@@ -99,27 +99,27 @@ A: Research evaluation is as fair as its methods and evaluation techniques. Metr
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
-* Peer Review the Nuts and Bolts. [A Guide for Early Career Researchers](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
+* Directorate-General for Research and Innovation (European Commission) (2017). Evaluation of Research Careers Fully Acknowledging Open Science Practices: Rewards, Incentives and/or Recognition for Researchers Practicing Open Science. [doi.org/10.2777/75255](https://doi.org/10.2777/75255)
 
-* [Peer Reviewers’ Openness Initiative](https://opennessinitiative.org/)
+* Hicks et al. (2015) Bibliometrics: The Leiden Manifesto for research metrics. [doi.org/10.1038/520429a](www.doi.org/10.1038/520429a), [leidenmanifesto.org](http://www.leidenmanifesto.org/)
 
-* [Open Rev](https://www.openrev.org/)
-
-* [Peerage of Science](https://www.peerageofscience.org/)
-
-* [Make Data Count](https://makedatacount.org/)
-
-* [OpenUP Hub](https://www.openuphub.eu/review)
-
-* [Leiden Manifesto for Research Metrics](http://www.leidenmanifesto.org/)
-
-* [Responsible Metrics](https://responsiblemetrics.org/)
-
-* [NISO Alternative Assessment Metrics \(Altmetrics\) Initiative](http://www.niso.org/standards-committees/altmetrics)
-
-* [Snowball Metrics](https://www.snowballmetrics.com/)
-
-* Directorate-General for Research and Innovation (European Commission): Evaluation of Research Careers Fully Acknowledging Open Science Practices: Rewards, Incentives and/or Recognition for Researchers Practicing Open Science. Report, 14 November 2017: [doi.org/10.2777/75255](https://doi.org/10.2777/75255)
+* Peer Review the Nuts and Bolts (2012). A Guide for Early Career Researchers. [PDF](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
 
 
+### Projects and initiatives
 
+* Make Data Count. [makedatacount.org](https://makedatacount.org/)
+
+* NISO Alternative Assessment Metrics \(Altmetrics\) Initiative. [niso.org](http://www.niso.org/standards-committees/altmetrics)
+
+* Open Rev. [openrev.org](https://en.wikipedia.org/wiki/Open_Rev)
+
+* OpenUP Hub. [openuphub.eu](https://www.openuphub.eu/review)
+
+* Peer Reviewers’ Openness Initiative. [opennessinitiative.org](https://opennessinitiative.org/)
+
+* Peerage of Science. A free service for scientific peer review and publishing. [peerageofscience.org](https://www.peerageofscience.org/)
+
+* Responsible Metrics. [responsiblemetrics.org](https://responsiblemetrics.org/)
+
+* Snowball Metrics. Standardized research metrics - by the sector for the sector. [snowballmetrics.com](https://www.snowballmetrics.com/)
