@@ -229,6 +229,8 @@ A: "You should talk to experts in domain specific repositories on how to provide
 
 #### Initiatives and projects
 
+* DANS GDPR DataTags. [zingtree.com](https://zingtree.com/host.php?style=buttons&tree_id=442670046&persist_names=Restart&persist_node_ids=58#58)
+
 * FAIR Metrics. [fairmetrics.org](http://fairmetrics.org/)
 
 * GO FAIR Initiative. [go-fair.org](https://www.go-fair.org/)
