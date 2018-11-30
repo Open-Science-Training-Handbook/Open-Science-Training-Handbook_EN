@@ -89,7 +89,7 @@ Main goals of advocacy program:
 
 * Advocating for your own rights as an author
 
-* The basic steps for achieving local culture change [Kotter n.y.](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)
+* The basic steps for achieving local culture change ([Kotter n.y.](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html))
 
 * Advocating to your peers: Writing letters and articles advocating for Open
 
@@ -149,7 +149,7 @@ The trainer will be able to consider the training event in the context of a prog
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
-* A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) 
+* A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch. [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) 
 
 * Bolick et al. (2017). How open access is crucial to the future of science. [doi.org/10.1002/jwmg.21216](https://doi.org/10.1002/jwmg.21216) (comment: rebuttal article written in the Journal of Wildlife Management after a misleading / fear mongering article about OA)
 
