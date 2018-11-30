@@ -89,7 +89,7 @@ Main goals of advocacy program:
 
 * Advocating for your own rights as an author
 
-* The basic steps for achieving local culture change [http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)
+* The basic steps for achieving local culture change [Kotter n.y.](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)
 
 * Advocating to your peers: Writing letters and articles advocating for Open
 
@@ -161,21 +161,27 @@ The trainer will be able to consider the training event in the context of a prog
 
 * eLife ECRwednesday webinar, May 31, about advocating for Open Science - video will be available on YouTube shortly. Featured Gary McDowell, Nick Shockey, Osman Aldirdiri, Corina Logan, Brianne Kent. Advice pitched at early-career researchers.
 
-* [Advocating for transparency policies - a toolkit for researchers, staff, and librarians ](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)\(April Clyburne-Sherin \(FSCI2017\)\)
+* Clyburne-Sherin (FSCI2017). Advocating for transparency policies - a toolkit for researchers, staff, and librarians. [github.com](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)\(
 
-* [Advocating Open Access - a toolkit for librarians and research support staff](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf) \(UCL\).
+*  JISC Pathfinder project Pathways to Open Access (n.y.). Advocating Open Access - a toolkit for librarians and research support staff. [PDF](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf)
 
-* [Open science and its advocacy](https://www.fosteropenscience.eu/content/open-science-and-its-advocacy) \(FOSTER\).
+* Jones (2015). Open science and its advocacy. [fosteropenscience.eu](https://www.fosteropenscience.eu/content/open-science-and-its-advocacy)
 
-* [FOSTER Plus: Supporting the practical adoption of Open Science](http://libereurope.eu/our-activities/projects/fosterplus/) \(LIBER\).
+* Kotter (n.y.). Kotter's 8-Step Change Model of Managementt. [study.com](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)
 
-* [Open Science Leadership Workshop](https://github.com/mozillascience/open-science-leadership-workshop), Mozilla Science Lab.
+* Mozilla Science Lab (2015). Open Science Leadership Workshop. Working OpenProject Guide. [github.com](https://github.com/mozillascience/open-science-leadership-workshop)
 
-* [Strengthen Advocacy](http://sites.path.org/advocacyandpolicy/how-we-do-it/strengthen-advocacy-capacity/) Capacity \(PATH\).
+* 8 Steps to Good Advocacy. [PDF](http://www.chpca.net/media/7413/8_Steps_to_Good_Advocacy.pdf)
 
-* [Retraction Watch](http://retractionwatch.com/)
 
-* [8 Steps to Good Advocacy](http://www.chpca.net/media/7413/8_Steps_to_Good_Advocacy.pdf)
+### Initiatives and projects
+
+* FOSTER Plus Project (2017-2019). Fostering the practical implementation of Open Science in Horizon 2020 and beyond. [fosteropenscience.eu](https://www.fosteropenscience.eu/about)
+
+* PATH. Strengthen Advocacy. [sites.path.org](http://sites.path.org/advocacyandpolicy/how-we-do-it/strengthen-advocacy-capacity/)
+
+* Retraction Watch. [retractionwatch.com](http://retractionwatch.com/) 
+
 
 
 
