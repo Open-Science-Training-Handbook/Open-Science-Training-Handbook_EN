@@ -66,25 +66,24 @@ Although there is still an open debate on how to assess some citizen science act
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
-* [White Paper on Citizen Science for Europe](http://www.socientize.eu/sites/default/files/white-paper_0.pdf)
+* Bonn et al. (2016): Green Paper Citizen Science Strategy 2020 for Germany. Bürger Schaffen Wissen (GEWISS) publication. [PDF from buergerschaffenwissen.de](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/21/gewiss_cs_strategy_englisch_0.pdf)
 
-* Citizen science for all. [A guide for citizen science practitioners](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/20/handreichunga5_engl_web.pdf), Bürger schaffen Wissen.
+* Citizen Science Cost Action. Training Schools. [cs-eu.net](https://www.cs-eu.net/training-schools)
 
-* [Green Paper-Citizen Science Strategie 2020 for Germany](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/21/gewiss_cs_strategy_englisch_0.pdf), Bürger schaffen Wissen 
+* Community Places (2014). Community Planning Toolkit - Community Engagement [PDF from communityplanningtoolkit.org](https://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf)
 
-* [Community Planning Toolkit-Community Engagement](https://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf)
+* Grey et al. (2016). Citizen science at universities. Trends, guidelines and recommendations [leru.org](https://www.leru.org/publications/citizen-science-at-universities-trends-guidelines-and-recommendations)
+
+* Socientize consortium (2014).White Paper on Citizen Science for Europe [socientize.eu](http://www.socientize.eu/sites/default/files/white-paper_0.pdf)
+
+* Pettibone et al. (2016). Citizen science for all – a guide for citizen science
+practitioners. Bürger Schaffen Wissen (GEWISS) publication. [PDF from buergerschaffenwissen.de](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/20/handreichunga5_engl_web.pdf)
 
 * Overview of citizen science projects:
 
-  * [socientize.eu](http://socientize.eu/)
+  * Socientize Project. [socientize.eu](http://socientize.eu/)
 
-  * [zooniverse.org](https://www.zooniverse.org/projects)
+  * ZOONIVERSE - People-powered research. [zooniverse.org](https://www.zooniverse.org/projects)
 
-  * [crowdcrafting.org](https://crowdcrafting.org/)
-
-* François Grey, Daniel Wyler, Judith Fröhlich, Katrien Maes 2016: [Citizen science at universities. Trends, guidelines and recommendations ](https://www.leru.org/publications/citizen-science-at-universities-trends-guidelines-and-recommendations)
-
-* Citizen Science Training School [Example](https://www.cs-eu.net/events/internal/citizen-science-training-school)
-
-
+  * Crowdcrafting scifabric. [crowdcrafting.org](https://crowdcrafting.org/)
 
