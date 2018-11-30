@@ -49,10 +49,11 @@ A: This is not always a given. So far there is no quality seal for OER materials
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
-Butcher, Neil (2015): A Basic Guide to Open Educational Resources (OER): [hdl.handle.net/11599/36](http://hdl.handle.net/11599/36)
 
-Miao, Fengchun; Mishra, Sanjaya; McGreal, Rory (2016): Open Educational Resources: Policy, Costs and Transformation: [hdl.handle.net/11599/2306](http://hdl.handle.net/11599/2306)
+* Butcher (2015). A Basic Guide to Open Educational Resources (OER). [hdl.handle.net](http://hdl.handle.net/11599/36)
 
-OECD (2007): Giving Knowledge for Free: The Emergence of Open Educational Resources. OECD Publishing, Paris: [/dx.doi.org/10.1787/9789264032125-en](http://dx.doi.org/10.1787/9789264032125-en)
+* Miao et al. (2016). Open Educational Resources: Policy, Costs and Transformation. [hdl.handle.net](http://hdl.handle.net/11599/2306)
 
-Open Knowledge Foundation (2014): Open Education Handbook 2014: [education.okfn.org/handbooks/handbook/](https://education.okfn.org/handbooks/handbook/)
+* OECD (2007). Giving Knowledge for Free: The Emergence of Open Educational Resources. OECD Publishing, Paris. [doi.org/10.1787/9789264032125-en](http://dx.doi.org/10.1787/9789264032125-en)
+
+* Open Knowledge Foundation (2014). Open Education Handbook 2014. [education.okfn.org](https://education.okfn.org/handbooks/handbook/)
