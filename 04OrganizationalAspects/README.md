@@ -687,9 +687,9 @@ Prepare a report for your funder or institution and if needed make it public (e.
 
 * Christodolou et al. (2014). How to conduct a successful workshop: The trainee’s perspective (Arab Journal of Urology), 12(1), 12-14. [doi.org/10.1016/j.aju.2013.08.004](https://doi.org/10.1016/j.aju.2013.08.004)
 
-* Commission on Disability Rights of American Bar Association (2016): Planning Accessible Meetings and Events.  A toolkit. [PDF](https://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf).
+* Commission on Disability Rights of American Bar Association (2016). Planning Accessible Meetings and Events.  A toolkit. [PDF](https://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf)
 
-* SPARC (n.y.). Diversity, Equity, and Inclusion. Conference Planning Checklist. [sparcopen.github.io](https://sparcopen.github.io/opencon-dei-report/checklist.html) by SPARC
+* SPARC (n.y.). Diversity, Equity, and Inclusion. Conference Planning Checklist. [sparcopen.github.io](https://sparcopen.github.io/opencon-dei-report/checklist.html)
 
 * Pavelin et al. (2014). Ten simple rules for running interactive workshops, *PLOS Biology*: [doi.org/10.1371/journal.pcbi.1003485](https://doi.org/10.1371/journal.pcbi.1003485)
 
