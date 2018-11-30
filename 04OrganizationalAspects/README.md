@@ -691,9 +691,9 @@ Prepare a report for your funder or institution and if needed make it public (e.
 
 * SPARC (n.y.). Diversity, Equity, and Inclusion. Conference Planning Checklist. [sparcopen.github.io](https://sparcopen.github.io/opencon-dei-report/checklist.html)
 
-* Pavelin et al. (2014). Ten simple rules for running interactive workshops, *PLOS Biology*: [doi.org/10.1371/journal.pcbi.1003485](https://doi.org/10.1371/journal.pcbi.1003485)
+* Pavelin et al. (2014). Ten simple rules for running interactive workshops, *PLOS Biology*. [doi.org/10.1371/journal.pcbi.1003485](https://doi.org/10.1371/journal.pcbi.1003485)
 
-* Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62: [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
+* Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62. [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
 
 **Inspirations**
 
