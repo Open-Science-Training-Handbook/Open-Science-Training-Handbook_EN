@@ -161,7 +161,7 @@ The trainer will be able to consider the training event in the context of a prog
 
 * Kotter (n.y.). Kotter's 8-Step Change Model of Managementt. [study.com](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)
 
-* Lingua / Glossa articles on their move away from Elsevier - their advocacy as editors with a publishing organization
+* Lingua / Glossa articles on their move away from Elsevier - their advocacy as editors with a publishing organization [Wikipedia](https://en.wikipedia.org/wiki/Lingua_(journal))
 
 * Mozilla Science Lab (2015). Open Science Leadership Workshop. Working OpenProject Guide. [github.com](https://github.com/mozillascience/open-science-leadership-workshop)
 
