@@ -72,9 +72,9 @@ Although there is still an open debate on how to assess some citizen science act
 
 * Community Places (2014). Community Planning Toolkit - Community Engagement [PDF from communityplanningtoolkit.org](https://www.communityplanningtoolkit.org/sites/default/files/Engagement.pdf)
 
-* Grey et al. (2016). Citizen science at universities. Trends, guidelines and recommendations [leru.org](https://www.leru.org/publications/citizen-science-at-universities-trends-guidelines-and-recommendations)
+* Grey et al. (2016). Citizen science at universities. Trends, guidelines and recommendations. [leru.org](https://www.leru.org/publications/citizen-science-at-universities-trends-guidelines-and-recommendations)
 
-* Socientize consortium (2014).White Paper on Citizen Science for Europe [socientize.eu](http://www.socientize.eu/sites/default/files/white-paper_0.pdf)
+* Socientize consortium (2014). White Paper on Citizen Science for Europe. [socientize.eu](http://www.socientize.eu/sites/default/files/white-paper_0.pdf)
 
 * Pettibone et al. (2016). Citizen science for all – a guide for citizen science
 practitioners. Bürger Schaffen Wissen (GEWISS) publication. [PDF from buergerschaffenwissen.de](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/20/handreichunga5_engl_web.pdf)
