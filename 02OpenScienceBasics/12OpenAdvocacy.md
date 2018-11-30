@@ -161,7 +161,7 @@ The trainer will be able to consider the training event in the context of a prog
 
 * eLife ECRwednesday webinar, May 31, about advocating for Open Science - video will be available on YouTube shortly. Featured Gary McDowell, Nick Shockey, Osman Aldirdiri, Corina Logan, Brianne Kent. Advice pitched at early-career researchers.
 
-* Clyburne-Sherin (FSCI2017). Advocating for transparency policies - a toolkit for researchers, staff, and librarians. [github.com](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)\(
+* Clyburne-Sherin (FSCI2017). Advocating for transparency policies - a toolkit for researchers, staff, and librarians. [github.com](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)
 
 *  JISC Pathfinder project Pathways to Open Access (n.y.). Advocating Open Access - a toolkit for librarians and research support staff. [PDF](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf)
 
