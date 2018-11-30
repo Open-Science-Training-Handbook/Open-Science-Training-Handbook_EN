@@ -149,17 +149,9 @@ The trainer will be able to consider the training event in the context of a prog
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further reading
 
-* [Starting Open Projects From Scratch](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) \(CC0, Crowdsourced by OpenCon attendees\)
+* A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) 
 
-* SPARC author addendum - [advocate for your own rights as an author w/ a journal](https://sparcopen.org/our-work/author-rights/)
-
-* Bolick et al. rebuttal article written in the Journal of Wildlife Management after a misleading / fear mongering article about OA: [https://kuscholarworks.ku.edu/handle/1808/22672](https://kuscholarworks.ku.edu/handle/1808/22672?utm_content=buffer40244&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-
-* Perhaps some of the Lingua / Glossa articles on their move away from Elsevier - their advocacy as editors with a publishing organization
-
-* Another example of a letter to a scholarly society advocating for Open Access: [Jackie Smith to the American Sociological Association](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html)  and [another article](https://www.opendemocracy.net/jackie-smith/defending-global-knowledge-commons).
-
-* eLife ECRwednesday webinar, May 31, about advocating for Open Science - video will be available on YouTube shortly. Featured Gary McDowell, Nick Shockey, Osman Aldirdiri, Corina Logan, Brianne Kent. Advice pitched at early-career researchers.
+* Bolick et al. (2017). How open access is crucial to the future of science. [doi.org/10.1002/jwmg.21216](https://doi.org/10.1002/jwmg.21216) (comment: rebuttal article written in the Journal of Wildlife Management after a misleading / fear mongering article about OA)
 
 * Clyburne-Sherin (FSCI2017). Advocating for transparency policies - a toolkit for researchers, staff, and librarians. [github.com](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)
 
@@ -169,7 +161,17 @@ The trainer will be able to consider the training event in the context of a prog
 
 * Kotter (n.y.). Kotter's 8-Step Change Model of Managementt. [study.com](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)
 
+* Lingua / Glossa articles on their move away from Elsevier - their advocacy as editors with a publishing organization
+
 * Mozilla Science Lab (2015). Open Science Leadership Workshop. Working OpenProject Guide. [github.com](https://github.com/mozillascience/open-science-leadership-workshop)
+
+* Smith (2014). The Open Access Movement and Activism for the “Knowledge Commons”. [asanet.org](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html) (comment: example of a letter to a scholarly society advocating for Open Access) 
+
+* Smith (2015). Defending the global knowledge commons. [opendemocracy.net](https://www.opendemocracy.net/jackie-smith/defending-global-knowledge-commons)
+
+* SPARC*. Author Rights & the SPARC Author Addendum. Your work, your rights. [sparcopen.org](https://sparcopen.org/our-work/author-rights/)
+
+* Webinar Report: Organising and advocating (2018). How can early-career researchers make their voices heard? eLife ECRwednesday webinar. [elifesciences.org](https://elifesciences.org/inside-elife/c458eb7c/webinar-report-organising-and-advocating)
 
 * 8 Steps to Good Advocacy. [PDF](http://www.chpca.net/media/7413/8_Steps_to_Good_Advocacy.pdf)
 
