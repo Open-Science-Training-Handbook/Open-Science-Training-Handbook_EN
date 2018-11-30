@@ -685,23 +685,25 @@ Prepare a report for your funder or institution and if needed make it public (e.
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ## References
 
-Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62: [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
+* Christodolou et al. (2014). How to conduct a successful workshop: The trainee’s perspective (Arab Journal of Urology), 12(1), 12-14. [doi.org/10.1016/j.aju.2013.08.004](https://doi.org/10.1016/j.aju.2013.08.004)
 
-Christodolou et al., (2014) How to conduct a successful workshop: The trainee’s perspective (Arab Journal of Urology), 12(1), 12-14: [doi.org/10.1016/j.aju.2013.08.004](https://doi.org/10.1016/j.aju.2013.08.004)
+* Commission on Disability Rights of American Bar Association (2016): Planning Accessible Meetings and Events.  A toolkit. [PDF](https://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf).
 
-Pavelin et al., (2014) Ten simple rules for running interactive workshops, *PLOS Biology*: [doi.org/10.1371/journal.pcbi.1003485](https://doi.org/10.1371/journal.pcbi.1003485)
+* SPARC (n.y.). Diversity, Equity, and Inclusion. Conference Planning Checklist. [sparcopen.github.io](https://sparcopen.github.io/opencon-dei-report/checklist.html) by SPARC
 
-Commission on Disability Rights of American Bar Association (2016): Planning Accessible Meetings and Events.  [A toolkit](https://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf).
+* Pavelin et al. (2014). Ten simple rules for running interactive workshops, *PLOS Biology*: [doi.org/10.1371/journal.pcbi.1003485](https://doi.org/10.1371/journal.pcbi.1003485)
 
-[Conference Planning Checklist](https://sparcopen.github.io/opencon-dei-report/checklist.html) by SPARC
+* Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62: [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
 
 **Inspirations**
 
-* Software Carpentry [Workshop Operations](https://software-carpentry.org/workshops/operations/)
+* International Council on Archives (2010). Organising training workshops and seminars: Guidelines for professional association. [PDF](https://www.ica.org/sites/default/files/SPA_2010_Guidelines_Organising-training-seminars-workshops_EN.pdf)
 
-* Software Carpentry [Admin Checklist](https://software-carpentry.org/checklists/admin/) 
+* Software Carpentry. Workshop Operations. [software-carpentry.org](https://software-carpentry.org/workshops/operations/)
 
-* Wikihow [Conduct a Workshop](https://www.wikihow.com/Conduct-a-Workshop)
+* Software Carpentry. Teaching and Hosting. Admin Checklist. [software-carpentry.org](https://software-carpentry.org/checklists/admin/) 
 
-* SPA 2010 Guidelines [Organising training seminars workshops](https://www.ica.org/sites/default/files/SPA_2010_Guidelines_Organising-training-seminars-workshops_EN.pdf)
+* Wikihow. Conduct a Workshop. [wikihow.com](https://www.wikihow.com/Conduct-a-Workshop)
+
+
 
