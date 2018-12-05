@@ -534,7 +534,7 @@ Similar exercises can be applied to training different audiences, for which you 
 
 * Owen Wilson (2018). The Flipped Classroom. [thesecondprinciple.com](https://thesecondprinciple.com/teaching-essentials/models-of-teaching/the-flipped-classroom/)
 
-* Prince (2004). Does Active Learning Work? A Review of the Research [PDF](https://drive.google.com/open?id=1trrxEgF7RLYw2FTCe82oxlXvfm_MfY7m)
+* Prince (2004). Does Active Learning Work? A Review of the Research. [PDF](https://drive.google.com/open?id=1trrxEgF7RLYw2FTCe82oxlXvfm_MfY7m)
 
 * Rowe (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! Journal of Teacher Education, 37\(1\), 43–50. [doi.org/10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 
