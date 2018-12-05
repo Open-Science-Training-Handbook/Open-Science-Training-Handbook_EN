@@ -507,7 +507,7 @@ Similar exercises can be applied to training different audiences, for which you 
 
 **About Bloom's Taxonomy:**
 
-* Davis (2014). Using Bloom’s Taxonomy to Write Learning Outcomes.[pearsoened.com](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
+* Davis (2014). Using Bloom’s Taxonomy to Write Learning Outcomes. [pearsoened.com](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
 * Clinton Community College (1966-2017). List of Measurable Verbs Used to Assess Learning Outcomes. [clinton.edu](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
 **Resources/Exercises for ice-breakers**
@@ -518,7 +518,7 @@ Similar exercises can be applied to training different audiences, for which you 
 
 **References**
 
-* Ambrose, Bridges, DiPietro, Lovett, Norman and Mayer. How learning works. [highlights summarized by Brent and Felder](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
+* Ambrose, Bridges, DiPietro, Lovett, Norman and Mayer. How learning works. [Highlights summarized by Brent and Felder](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
 
 * Dale (1969). Audio-Visual Methods in Teaching, 3rd ed., Holt, Rinehart & Winston, New York, p.10.
 
@@ -534,9 +534,9 @@ Similar exercises can be applied to training different audiences, for which you 
 
 * Owen Wilson (2018). The Flipped Classroom. [thesecondprinciple.com](https://thesecondprinciple.com/teaching-essentials/models-of-teaching/the-flipped-classroom/)
 
-* Prince (2004). Does Active Learning Work? A Review of the Research \([PDF](https://drive.google.com/open?id=1trrxEgF7RLYw2FTCe82oxlXvfm_MfY7m)\).
+* Prince (2004). Does Active Learning Work? A Review of the Research [PDF](https://drive.google.com/open?id=1trrxEgF7RLYw2FTCe82oxlXvfm_MfY7m)
 
-* Rowe (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! Journal of Teacher Education, 37\(1\), 43–50: [doi.org/10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
+* Rowe (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! Journal of Teacher Education, 37\(1\), 43–50. [doi.org/10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 
 * Siemens (2006). Knowing Knowledge. [PDF](http://www.elearnspace.org/KnowingKnowledge_LowRes.pdf)
 
