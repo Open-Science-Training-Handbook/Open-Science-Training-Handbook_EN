@@ -52,6 +52,8 @@ Open Science is an attitude that requires a large but feasible education step. A
 
 <iframe src="https://www.youtube.com/embed/J3B-pQ7-1Vo" frameborder="0" allowfullscreen></iframe> 
 
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Edit Gorogh](http://img.youtube.com/vi/J3B-pQ7-1Vo/0.jpg)](http://www.youtube.com/watch?v=J3B-pQ7-1Vo "Writing the Open Science Training Handbook - an author's perspective by Edit Gorogh")
+
 I am currently working at the University of Göttingen as a project officer for OpenUP, an EU funded project which aims at developing a cohesive framework for new methods, indicators and tools for peer review, dissemination of research results, and impact measurement. I have been in involved in knowledge management and open science/access related programs for more than 10 years.
 
 Working for Open Science projects, I had the chance to get acquainted with both the diverse community of Open Science advocates and the reluctant, skeptical groups of researchers and decision makers, which both urged me to get more immersed in the Open Science discourse and follow developments and learn about the tools and methods to speak effectively about the benefits and challenges we face in the changing world of research communications.
