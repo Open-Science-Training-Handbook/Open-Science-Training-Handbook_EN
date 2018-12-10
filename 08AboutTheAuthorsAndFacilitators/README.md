@@ -11,8 +11,7 @@
 
 <iframe src="https://www.youtube.com/embed/v41JkOz9svA" frameborder="0" allowfullscreen></iframe> 
 
-
-[![Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak](http://img.youtube.com/vi/v41JkOz9svA/0.jpg)](http://www.youtube.com/watch?v=v41JkOz9svA "Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak")
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak](http://img.youtube.com/vi/v41JkOz9svA/0.jpg)](http://www.youtube.com/watch?v=v41JkOz9svA "Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak")
 
 In the Social Science Data Archives I am primarily engaged with issues related to open access to research data. One of my roles is to train different stakeholders on research data policy, research data management planning, data citation, data publications etc. As a member of CESSDA ERIC training group I try to share my knowledge and experience internationally.
 
@@ -37,6 +36,8 @@ There are two major pitfalls for Open Science trainers, as I see it. One, novice
 * [0000-0003-2124-0241](https://orcid.org/0000-0003-2124-0241)
 
 <iframe src="https://www.youtube.com/embed/5H_0dMEv0N4" frameborder="0" allowfullscreen></iframe> 
+
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes](http://img.youtube.com/vi/5H_0dMEv0N4/0.jpg)](http://www.youtube.com/watch?v=5H_0dMEv0N4 "Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes")
 
 I run a training program in Bioinformatics at the Instituto Gulbenkian de Ciência, in Oeiras, PT since 1999. More than 5000 course participants in 19 years. Extending this activity with distance and e-learning, to better reach for 21st century learners.  I am an advocate of Open Access, Open Data, Open Source and Open Science that takes any possible chance to put these causes through via training. I am conscious that this movement needs to scale-up and reach for non-scientists as well, so I am very interested in its amplification and diffusion.
 
