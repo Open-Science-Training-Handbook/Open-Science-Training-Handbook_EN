@@ -12,7 +12,7 @@
 <iframe src="https://www.youtube.com/embed/v41JkOz9svA" frameborder="0" allowfullscreen></iframe> 
 
 
-[![sonja bezjak](http://img.youtube.com/vi/v41JkOz9svA/0.jpg)](http://www.youtube.com/watch?v=v41JkOz9svA "Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak")
+[![Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak](http://img.youtube.com/vi/v41JkOz9svA/0.jpg)](http://www.youtube.com/watch?v=v41JkOz9svA "Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak")
 
 In the Social Science Data Archives I am primarily engaged with issues related to open access to research data. One of my roles is to train different stakeholders on research data policy, research data management planning, data citation, data publications etc. As a member of CESSDA ERIC training group I try to share my knowledge and experience internationally.
 
