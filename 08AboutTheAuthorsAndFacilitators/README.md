@@ -11,7 +11,7 @@
 
 <iframe src="https://www.youtube.com/embed/v41JkOz9svA" frameborder="0" allowfullscreen></iframe> 
 
-[![Video - Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak](http://img.youtube.com/vi/v41JkOz9svA/0.jpg)](http://www.youtube.com/watch?v=v41JkOz9svA "Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak")
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak](http://img.youtube.com/vi/qygm7Byc9eA/0.jpg)](http://www.youtube.com/watch?v=qygm7Byc9eA "Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak")
 
 In the Social Science Data Archives I am primarily engaged with issues related to open access to research data. One of my roles is to train different stakeholders on research data policy, research data management planning, data citation, data publications etc. As a member of CESSDA ERIC training group I try to share my knowledge and experience internationally.
 
@@ -37,7 +37,7 @@ There are two major pitfalls for Open Science trainers, as I see it. One, novice
 
 <iframe src="https://www.youtube.com/embed/5H_0dMEv0N4" frameborder="0" allowfullscreen></iframe> 
 
-[![Video - Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes](http://img.youtube.com/vi/5H_0dMEv0N4/0.jpg)](http://www.youtube.com/watch?v=5H_0dMEv0N4 "Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes")
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes](http://img.youtube.com/vi/r9k729JROEE/0.jpg)](http://www.youtube.com/watch?v=r9k729JROEE "Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes")
 
 I run a training program in Bioinformatics at the Instituto Gulbenkian de Ciência, in Oeiras, PT since 1999. More than 5000 course participants in 19 years. Extending this activity with distance and e-learning, to better reach for 21st century learners.  I am an advocate of Open Access, Open Data, Open Source and Open Science that takes any possible chance to put these causes through via training. I am conscious that this movement needs to scale-up and reach for non-scientists as well, so I am very interested in its amplification and diffusion.
 
@@ -52,7 +52,7 @@ Open Science is an attitude that requires a large but feasible education step. A
 
 <iframe src="https://www.youtube.com/embed/J3B-pQ7-1Vo" frameborder="0" allowfullscreen></iframe> 
 
-[![Video - Writing the Open Science Training Handbook - an author's perspective by Edit Gorogh](http://img.youtube.com/vi/J3B-pQ7-1Vo/0.jpg)](http://www.youtube.com/watch?v=J3B-pQ7-1Vo "Writing the Open Science Training Handbook - an author's perspective by Edit Gorogh")
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Edit Görögh](http://img.youtube.com/vi/4OOSU4V__RQ/0.jpg)](http://www.youtube.com/watch?v=4OOSU4V__RQ "Writing the Open Science Training Handbook - an author's perspective by Edit Görögh")
 
 I am currently working at the University of Göttingen as a project officer for OpenUP, an EU funded project which aims at developing a cohesive framework for new methods, indicators and tools for peer review, dissemination of research results, and impact measurement. I have been in involved in knowledge management and open science/access related programs for more than 10 years.
 
@@ -66,6 +66,8 @@ Working for Open Science projects, I had the chance to get acquainted with both 
 * [0000-0002-2775-6751](https://orcid.org/0000-0002-2775-6751)
 
 <iframe src="https://www.youtube.com/embed/lOP2zHfVucI" frameborder="0" allowfullscreen></iframe> 
+
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Kerstin Helbig](http://img.youtube.com/vi/uC02v5JuTlo/0.jpg)](http://www.youtube.com/watch?v=uC02v5JuTlo "Writing the Open Science Training Handbook - an author's perspective by Kerstin Helbig")
 
 I am research data management coordinator at Humboldt-Universität zu Berlin, Germany. In my consultative capacity, I assist researchers in the management of their research data and organize training as well as information sessions.
 
@@ -91,6 +93,8 @@ Training in open science is rewarding because it is not just about teaching peop
 
 <iframe src="https://www.youtube.com/embed/miRXFszYqiE" frameborder="0" allowfullscreen></iframe> 
 
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida](http://img.youtube.com/vi/VTGYlyTnBFg/0.jpg)](http://www.youtube.com/watch?v=VTGYlyTnBFg "Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida")
+
 PhD in Physics, Universitat de Barcelona (UB), 2000. Now, devoted to openness: Head of the [Office for the Dissemination of Knowledge](http://crai.ub.edu/en/crai-services/intellectual-property) at the CRAI of the UB and public leader of Creative Commons in Spain since its beginning in 2003.
 
 I hope in the near future there will be no need to train about open science because those practices, now described here, will be the default ones. There will be no need to attach the open tag anymore, and researchers would need to justify why they close some of their results or activities. I think this book may help to achieve this situation by showing a lot of robust examples and viable cases to perform research openly.
@@ -104,6 +108,8 @@ I hope in the near future there will be no need to train about open science beca
 
 <iframe src="https://www.youtube.com/embed/sbaH0uVDQkA" frameborder="0" allowfullscreen></iframe> 
 
+[![Writing the Open Science Training Handbook - an author's perspective by Kyle Niemeyer](http://img.youtube.com/vi/93CERDH4Lq0/0.jpg)](http://www.youtube.com/watch?v=93CERDH4Lq0 "Writing the Open Science Training Handbook - an author's perspective by Kyle Niemeyer")
+
 I am an Assistant Professor of Mechanical Engineering at Oregon State University in Corvallis, Oregon, USA. My research group studies combustion and fluid flows using computer simulations, and develop numerical methods and parallel computing strategies. Open science advocate!
 
 As a graduate student, I frequently faced roadblocks in my research due to software not being shared openly; now, as the leader of a research group, my students and I face data availability and formatting challenges when working with results in the literature. However, simply showing others how easy it can be to share research products openly can be enough to catalyze change, as can leading by example.
@@ -116,6 +122,8 @@ As a graduate student, I frequently faced roadblocks in my research due to softw
 * [0000-0002-0222-4273](https://orcid.org/0000-0002-0222-4273)
 
 <iframe src="https://www.youtube.com/embed/rKtNdplYlBc" frameborder="0" allowfullscreen></iframe> 
+
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos](http://img.youtube.com/vi/_uNxt3rUlSY/0.jpg)](http://www.youtube.com/watch?v=_uNxt3rUlSY "Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos")
 
 Fotis is a Bioinformatician at the Institute of Applied Biosciences \(INAB\|CERTH\) in Thessaloniki, Greece. He was awarded his PhD in Electrical and Computer Engineering in 2010 with a focus on Bioinformatics and e-infrastructures, and a particular appreciation to open and reproducible methods. He spends significant time in training activities, both within formal academic structures as well as through the Carpentries as a certified Instructor and Trainer. He rambles about bits and pieces on his website.
 
@@ -141,6 +149,8 @@ Although creating and delivering training events is very daunting, training othe
 
 <iframe src="https://www.youtube.com/embed/OpRzpIzBlf4" frameborder="0" allowfullscreen></iframe> 
 
+[![Video - Writing the Open Science Training Handbook - an author's perspective by René Schneider](http://img.youtube.com/vi/PoaqS3cp6PI/0.jpg)](http://www.youtube.com/watch?v=PoaqS3cp6PI "Writing the Open Science Training Handbook - an author's perspective by René Schneider")
+
 René Schneider is a professor in Information Science at Geneva School of Business Administration \(being part of the University of Applied Sciences and Arts Western Switzerland\). Originally trained as a computational linguist, he is mainly interested in data and all of its aspects.
 
 I discovered the field of research data management  quite lately and mainly got engaged because of the complexity and high potential of open science. After having managed a project on how to train librarians to become instructors for research data management \(www.researchdatamanagement.ch\), I experienced myself that open science open doors, leads to a better understanding and reuse of scientific outcomes and finally links the academic ivory tower to the world outside.
@@ -153,6 +163,8 @@ I discovered the field of research data management  quite lately and mainly got 
 * [0000-0001-7794-0218](https://orcid.org/0000-0001-7794-0218)
 
 <iframe src="https://www.youtube.com/embed/rvLggnE6ZPE" frameborder="0" allowfullscreen></iframe> 
+
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Jon Tennant](http://img.youtube.com/vi/KbD-CdhgC9A/0.jpg)](http://www.youtube.com/watch?v=KbD-CdhgC9A "Writing the Open Science Training Handbook - an author's perspective by Jon Tennant")
 
 Jon finished his award-winning PhD in Palaeontology at Imperial College London in 2017, and became the Communications Director of ScienceOpen for two years in 2015. Now, he is independently continuing his research into dinosaur evolution, while working on building an Open Science MOOC to help train the next generation of researchers in open practices. He has published papers on Open Access and Peer Review, is currently leading the development of the Foundations for Open Science Strategy document, and is the founder of the digital publishing platform paleorXiv. Jon is also an ambassador for ASAPbio and the Center for Open Science, a Mozilla Open Leadership mentor, and the co-runner of the Berlin Open Science meetup. He is also a freelance science communicator and consultant, and has written a kids book called Excavate Dinosaurs.
 
@@ -183,6 +195,8 @@ April is an epidemiologist, methodologist, and expert in open science tools, met
 I have been lucky enough to make a living out of training other scientists how to science better. My community of support grows with each workshop and I hope this handbook might help grow the open research training community. Conversations about open research often occur in echo-chambers of well-meaning researchers \(like myself\) and librarians with similar worldviews. Training in open research can be similarly siloed with Western or Northern perspectives being taught as though universal. Adding context and new perspectives to open research conversations is the only way to make knowledge work for everyone. The content we captured during this sprint is limited by our own experiences, but as other authors add and edit based on their own experiences, we can aim for a handbook that can improve how we talk and train others in open research.
 
 ## Facilitators on site
+
+[![Video - Writing the Open Science Training Handbook - Helene Brinken and Lambert Heller](http://img.youtube.com/vi/on49K7y8Mlk/0.jpg)](http://www.youtube.com/watch?v=on49K7y8Mlk "Writing the Open Science Training Handbook - an author's perspective by Helene Brinken and Lamber Heller")
 
 ### Helene Brinken
 
