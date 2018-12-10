@@ -165,7 +165,7 @@ The trainer will be able to consider the training event in the context of a prog
 
 * Mozilla Science Lab (2015). Open Science Leadership Workshop. Working OpenProject Guide. [github.com](https://github.com/mozillascience/open-science-leadership-workshop)
 
-* Smith (2014). The Open Access Movement and Activism for the “Knowledge Commons”. [asanet.org](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html) (commentby authors: example of a letter to a scholarly society advocating for Open Access) 
+* Smith (2014). The Open Access Movement and Activism for the “Knowledge Commons”. [asanet.org](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html) (comment by authors: example of a letter to a scholarly society advocating for Open Access) 
 
 * Smith (2015). Defending the global knowledge commons. [opendemocracy.net](https://www.opendemocracy.net/jackie-smith/defending-global-knowledge-commons)
 
