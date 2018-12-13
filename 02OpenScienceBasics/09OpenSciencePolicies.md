@@ -37,14 +37,14 @@ Since science is international, then we should review any international policy t
 
 Also at the international level, some publishers have introduced new policies, especially regarding the publication of research data when submitting a paper.
 
-If your training audience is willing to develop a roadmap or agenda to implement a national Open Science policy it could be advisable to benchmark what has been done in other parts. It As a starting point, the 2016 Amsterdam Call for Action could show some of the issues that must be taken into account and to whom are addressed. Examples of the \([Netherlands](https://www.openscience.nl/)\), \([Portugal](http://www.ciencia-aberta.pt)\), or \([Finland](https://openscience.fi/)\) can help to plan national policies, outline some actions and find how to measure their implementation.
+If your training audience is willing to develop a roadmap or agenda to implement a national Open Science policy it could be advisable to benchmark what has been done in other parts. It As a starting point, the 2016 Amsterdam Call for Action could show some of the issues that must be taken into account and to whom are addressed. Examples of the [Netherlands](https://www.openscience.nl/), [Portugal](http://www.ciencia-aberta.pt), or [Finland](https://openscience.fi/) can help to plan national policies, outline some actions and find how to measure their implementation.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Skills
 
 Trainees would need to identify the main features of each policy mainly: to whom is addressed, what are the requirements, how they overlap with each other.
 
-You might show how researchers can fulfil with the different policies: where are the services, the tools that the institution can provide but also where they can find alternatives. For instance, an institution might not provide an infrastructure for depositing and publishing research data; but it can point out external solutions that fulfil policy requirements. It is also useful to compare those solutions with other external options with not desired features.
+You might show how researchers can fulfill with the different policies: where are the services, the tools that the institution can provide but also where they can find alternatives. For instance, an institution might not provide an infrastructure for depositing and publishing research data; but it can point out external solutions that fulfill policy requirements. It is also useful to compare those solutions with other external options with not desired features.
 
 When designing an Open Science policy, trainees would need to be able to define the main purposes of having such a policy and to establish the goals or changes they are pursuing. Once defined, they must be able to find key performance indicators to measure if the policy have achieved its goals and they must be able to review and update the policy if the goals are not achieved.
 
@@ -53,7 +53,7 @@ When designing an Open Science policy, trainees would need to be able to define 
 
 The main question coming from researchers in training sessions on policies is how they can fulfill the requirements without losing any freedom on deciding where to publish, for instance. You as a trainer, may describe all the available options researchers have because in general, Open Science policies provide a range of options.
 
-Another question often raised is what happens if researchers don’t fulfil the requirements. In this case you may give examples of projects monitored by funders or warnings received by researchers.
+Another question often raised is what happens if researchers don’t fulfill the requirements. In this case you may give examples of projects monitored by funders or warnings received by researchers.
 
 A common misconception regarding research data policy is that researchers should share all data openly. To overcome it, you must highlight the different excerpts in the text of a policy where there are explanations about which is the data affected by the policy and when it must be shared. We might also remark all the opt-out choices that policies include. A good resource to clarify those issues can be an infographic like the [one available from Horizon 2020](https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=1521447690670000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ).
 
