@@ -1435,7 +1435,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
    
 * Things to bear in mind
 
-* He/she may have to put more time in explaining the concept of open data and why people should do it. Most debates occur in this preliminary stage.
+   * He/she may have to put more time in explaining the concept of open data and why people should do it. Most debates occur in this preliminary stage.
 
 * How to adapt for other purposes
 
