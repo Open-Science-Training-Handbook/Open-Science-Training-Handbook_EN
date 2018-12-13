@@ -151,7 +151,7 @@ The trainer will be able to consider the training event in the context of a prog
 
 * A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch. [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) 
 
-* Bolick et al. (2017). How open access is crucial to the future of science. [doi.org/10.1002/jwmg.21216](https://doi.org/10.1002/jwmg.21216) (comment by authors: rebuttal article written in the Journal of Wildlife Management after a misleading / fear mongering article about OA)
+* Bolick et al. (2017). How open access is crucial to the future of science. [doi.org/10.1002/jwmg.21216](https://doi.org/10.1002/jwmg.21216) *(comment by authors: rebuttal article written in the Journal of Wildlife Management after a misleading / fear mongering article about OA)
 
 * Clyburne-Sherin (FSCI2017). Advocating for transparency policies - a toolkit for researchers, staff, and librarians. [github.com](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)
 
@@ -165,7 +165,7 @@ The trainer will be able to consider the training event in the context of a prog
 
 * Mozilla Science Lab (2015). Open Science Leadership Workshop. Working OpenProject Guide. [github.com](https://github.com/mozillascience/open-science-leadership-workshop)
 
-* Smith (2014). The Open Access Movement and Activism for the “Knowledge Commons”. [asanet.org](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html) (comment by authors: example of a letter to a scholarly society advocating for Open Access) 
+* Smith (2014). The Open Access Movement and Activism for the “Knowledge Commons”. [asanet.org](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html) *(comment by authors: example of a letter to a scholarly society advocating for Open Access) 
 
 * Smith (2015). Defending the global knowledge commons. [opendemocracy.net](https://www.opendemocracy.net/jackie-smith/defending-global-knowledge-commons)
 
