@@ -37,7 +37,7 @@ Since science is international, then we should review any international policy t
 
 Also at the international level, some publishers have introduced new policies, especially regarding the publication of research data when submitting a paper.
 
-If your training audience is willing to develop a roadmap or agenda to implement a national Open Science policy it could be advisable to benchmark what has been done in other parts. It As a starting point, the 2016 Amsterdam Call for Action could show some of the issues that must be taken into account and to whom are addressed. Examples of the [Netherlands](https://www.openscience.nl/), [Portugal](http://www.ciencia-aberta.pt), or [Finland](https://openscience.fi/) can help to plan national policies, outline some actions and find how to measure their implementation.
+If your training audience is willing to develop a roadmap or agenda to implement a national Open Science policy it could be advisable to benchmark what has been done in other parts. As a starting point, the 2016 Amsterdam Call for Action could show some of the issues that must be taken into account and to whom are addressed. Examples of the [Netherlands](https://www.openscience.nl/), [Portugal](http://www.ciencia-aberta.pt), or [Finland](https://openscience.fi/) can help to plan national policies, outline some actions and find how to measure their implementation.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Skills
