@@ -1461,6 +1461,9 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 * How to adapt for other purposes
 
    * The exercise is made especially for geo/spatial sciences, but most part of it can used for any science, including citizen science project.
+   
+ * Licensing conditions
+ 
    * CC BY - [Dasapta Erwin Irawan](dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; [Willem Vervoort](willem.vervoort@sydney.edu.au), The University of Sydney; [Gene Melzack](gene.melzack@sydney.edu.au), The University of Sydney
 
 
