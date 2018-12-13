@@ -38,11 +38,7 @@ Source: Symposium report, October 2015. Reproducibility and reliability of biome
 
 _"the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results."_
 
-This is distinct from replicability:
-
-_"which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected."_
-
-A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented.
+This is distinct from replicability: _"which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected."_ A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented.
 
 Reproducibility can be assessed at several different levels: at the level of an individual project \(e.g., a paper, an experiment, a method or a dataset\), an individual researcher, a lab or research group, an institution, or even a research field. Slightly different kinds of criteria and points of assessment might apply to these different levels. For example, an institution upholds reproducibility practices if it institutes policies that reward researchers who conduct reproducible research. On the other hand, a research field might be considered to have a higher level of reproducibility if it develops community-maintained resources that promote and enable reproducible research practices, such as data repositories, or common data-sharing standards.
 
