@@ -28,6 +28,8 @@ In *Wavelets and Statistics*, edited by Anestis Antoniadis and Georges
 Oppenheim, 103:55–81. New York, NY: Springer New York, 1995.
 [doi.org/10.1007/978-1-4612-2544-7_5](https://doi.org/10.1007/978-1-4612-2544-7_5)
 
+Candela, Leonardo, Donatella Castelli,  and Pasquale Pagano (2013). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81. [doi.org/10.2481/dsj.GRDI-013](https://doi.org/10.2481/dsj.GRDI-013)
+
 Christodoulou, Michail, Stefanos Kachrilas, Ahmed Dina, Andreas Bourdoumis,
 Junaid Masood, Noor Buchholz, and Athanasios Papatsoris. ‘How to Conduct a
 Successful Workshop: The Trainees’ Perspective’. *Arab Journal of Urology*,
