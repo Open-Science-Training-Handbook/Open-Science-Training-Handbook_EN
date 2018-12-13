@@ -70,7 +70,7 @@ When planning a policy is important to know what do you intend to achieve or sol
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further Reading
 
-* EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science. [ec.europa.eu](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg).
+* EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science. [ec.europa.eu](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg)
 
 * Open Research Funders Group & SPARC. Open Policies 101. [PDF from orfg.org](https://static1.squarespace.com/static/5817749f8419c25c3b5b318d/t/5b75bfc1352f53d3f2e4409f/1534443459039/Grantee.pdf) 
 
