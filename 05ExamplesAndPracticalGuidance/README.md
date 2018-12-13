@@ -1366,6 +1366,83 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 * How to adapt for other purposes
 
 
+##### **Example 25: The publishing trap - in progress**
+* Format, time needed 
+
+    * Small group exercise, 2 h
+
+* Topic 
+
+    * [Open Access to Published Research Results](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
+
+* Learning objectives 
+   * "The game lets you explore the impact of scholarly communications choices and discuss the role of open access in research by following the lives of four researchers, from doctoral research to their academic legacies." [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
+
+* Exercise description
+
+   * "It is played by four teams of up to four people – sat around a game board and using a playbook to guide the decisions the teams must make. The workshop leader acts as a host and presents the scenarios to the teams during each round. Each round involves making three decisions about publishing choices. After hearing the scenario, each team chooses from the pre-determined options. At the end of each round, the teams discuss the decisions they have reached and are asked to justify their choices." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
+   
+* Materials and tools needed
+
+   * The board, cards, booklets, points and other object has to be downloaded, printed and cut out. They plan to also have a professionally produced game available to purchase. Materials are available here: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
+
+* Level of prior knowledge needed
+   
+   * "The Publishing Trap is aimed at early career researchers and academics, as well as anyone who has a vested interested in understanding how access to information works and how the whole scholarly communication system in higher education operates." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
+
+* Things to bear in mind
+   
+   * Maybe stimulate discussions during the game play
+   
+* How to adapt for other purposes
+   
+   * The beta version of the game is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Licence.
+   
+   
+##### **Example 26: ** - in progress
+
+* Format, time needed 
+
+    * Small groups, 4 days (5 hours/day)
+
+* Topic 
+
+    * [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+
+* Learning objectives 
+   
+   * The participants understand the basics of open data and reproducible research, understand the stages to setup a research data management plan, and can build their own data repository. 
+
+* Exercise description
+
+1. the knowledge about repository and licensing
+2. data assessment: types, sum, sensitivity
+3. setting up a research data management plan using DMPtool
+4. setting up an OSF repository
+5. using Git for version control
+6. integrating GitHub, Google Drive, and other services to OSF project 
+7. using R, R Studio, and R Markdown to create a reproducible research
+8. exercise in creating a citizen science project 
+
+* Materials and tools needed
+
+   * Registration of: ORCID, OSF, GitHub, and DMPTool
+   * Downloading and installing: Git, R, and R Studio
+
+* Level of prior knowledge needed
+
+   * A basic knowledge in R, R Studio, and Git would be a plus.
+   
+* Things to bear in mind
+
+* He/she may have to put more time in explaining the concept of open data and why people should do it. Most debates occur in this preliminary stage.
+
+* How to adapt for other purposes
+
+   * The exercise is made especially for geo/spatial sciences, but most part of it can used for any science, including citizen science project.
+   * CC BY - Dasapta Erwin Irawan (dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; Willem Vervoort (willem.vervoort@sydney.edu.au), The University of Sydney; Gene Melzack (gene.melzack@sydney.edu.au), The University of Sydney
+
+   
 ### Resources
 
 #### What tools & platforms to use / recommend?
