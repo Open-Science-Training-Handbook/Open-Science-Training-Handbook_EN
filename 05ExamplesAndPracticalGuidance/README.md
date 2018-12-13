@@ -311,7 +311,7 @@ Collaborative Platforms</td>
   </tr>
   <tr>
     <td>24</td>
-    <td> Set up OSF project & link to other platforms (in progress)</td>
+    <td>Set up OSF project & link to other platforms (in progress)</td>
     <td>Open Research Data and Materials</td>
     <td>individually or in pairs</td>
     <td></td>
@@ -320,6 +320,20 @@ Collaborative Platforms</td>
     <td>25</td>
     <td>The publishing trap (in progress)</td>
     <td>Open Access to Published Research Results</td>
+    <td>small group exercise</td>
+    <td>2 hours</td>
+  </tr>
+   <tr>
+    <td>26</td>
+    <td> (in progress)</td>
+    <td>Open Research Data and Materials</td>
+    <td>small group exercise</td>
+    <td>4 days (5 hrs/day)</td>
+  </tr>
+   <tr>
+    <td>27</td>
+    <td>Train-the-trainer card game for Open Science training</td>
+    <td>Open Advocacy</td>
     <td>small group exercise</td>
     <td>2 hours</td>
   </tr>
@@ -1447,8 +1461,55 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 * How to adapt for other purposes
 
    * The exercise is made especially for geo/spatial sciences, but most part of it can used for any science, including citizen science project.
-   * CC BY - Dasapta Erwin Irawan (dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; Willem Vervoort (willem.vervoort@sydney.edu.au), The University of Sydney; Gene Melzack (gene.melzack@sydney.edu.au), The University of Sydney
+   * CC BY - [Dasapta Erwin Irawan](dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; [Willem Vervoort](willem.vervoort@sydney.edu.au), The University of Sydney; [Gene Melzack](gene.melzack@sydney.edu.au), The University of Sydney
 
+
+##### **Example 27: Train-the-trainer card game for Open Science training**
+
+* Format, time needed 
+
+    * Small groups, 2 hours
+
+* Topic 
+
+    * [Open Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
+
+* Learning objectives 
+
+   * Trainers can use this game to facilitate ‘train-the-trainer’ workshops. Participants design a usable framework for a training – which will they deliver themselves at a later stage -  on (a) topic(s) of their choice. The card game offers the participants the option to preselect audience type, audience size, training type and audience knowledge level. In addition, two ‘unforeseen’ circumstances can be added: audience mood, and ‘trouble’ (uh-oh!).  Apart from going home with a usable design for a training, the audience of this workshop will also benefit from the input and experience of the other participants.  
+
+* Exercise description
+
+   * INSTRUCTIONS:
+
+Have each group pick a card (blind) determining: audience type, audience size, audience knowledge level and training type. It is possible that the different cards turn out a training situation that is impossible or that is not in line with to the interests of the group. It can be useful to allow some flexibility and allow people to change cards or switch cards with another group. In most cases, there is an empty card or an ‘other’ card available as well, allowing people to modify the exercise according to their own needs.
+Hand out the persona pages: every member of the group should create one persona according to the conditions laid out on the cards (no longer than 15 mins). 
+The group has 1,5 hour to prepare the training according to the conditions laid out by the cards, keeping in mind their target audience(s), with help of the persona pages created. 
+Have each group present their training (take note: they don’t have to give the actual training, they only have to describe what they will do!) . Ask the other groups to give feedback afterwards: Is the proposed training suitable for the conditions laid out by the cards? What would they do differently? Do they have any experiences that they can share?
+Extra challenge: How would each group deal with unexpected/unpredictable circumstances during the training? Right before their presentation, each group picks (blind) an 'audience mood' card and a 'trouble' card and gives them to the moderator, who will either during the presentation or afterwards discuss these cards with the entire group – allowing the audience to learn from the experience of their colleagues.
+
+* Materials and tools needed
+
+   * https://www.fosteropenscience.eu/node/2570
+   
+   * You can download the files in pdf and png format via this public dropbox link: https://www.dropbox.com/sh/k314ebvqpb6mqq8/AAABEcJqYF_2PYJxqmYf3mmna?dl=0&fbclid=IwAR0DBmnArU8raKlaoJa7RKPEGRNEv2y74PQRR2Ft_y4Oy7DLfdawF_n5LbQ
+
+* Level of prior knowledge needed
+
+   * Participants are expected to be knowledgeable about the topic(s) they will create the training about
+
+* Things to bear in mind
+
+   * Timekeeping is essential; limit the time people will work on persona's and training design. Clarify that the presentation should be a description of all the elements of the training they have designed, not actually giving the training. When evaluating with the group, make sure everybody gives input.
+
+* How to adapt for other purposes
+
+   * In principle, all parameters can be adapted and changed to suit a specific training, by creating new cards, new categories, or by removing existing ones. 
+   
+* Licensing conditions
+
+   * CC BY-SA 4.0. Creator: [Gwen Franck](gwenfranckgcv@gmail.com)
+  
    
 ### Resources
 
