@@ -155,6 +155,8 @@ Open Science to Research Using a Taxonomy and an ELearning Portal’. In
 Data-Driven Business*, 11:1–11:8. I-KNOW ’15. New York, NY, USA: ACM, 2015.
 [doi.org/10.1145/2809563.2809571](https://doi.org/10.1145/2809563.2809571)
 
+Priem, Jason, D. Taraborelli, P. Groth, C. Neylon (2010). Altmetrics: A manifesto, 26 October 2010. [altmetrics.org/manifesto](http://altmetrics.org/manifesto)
+
 Prins, Pjotr, Joep de Ligt, Artem Tarasov, Ritsert C Jansen, Edwin Cuppen, and
 Philip E Bourne. ‘Toward Effective Software Solutions for Big Biology’. *Nature
 Biotechnology* 33, no. 7 (July 2015): 686–87. [doi.org/10/f3mn4p](https://doi.org/10/f3mn4p)
