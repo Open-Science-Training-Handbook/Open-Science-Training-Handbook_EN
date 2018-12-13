@@ -1348,13 +1348,14 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 * Learning objectives 
 
 * Exercise description
-      * Create an OSF collaborative environment from data to publication.
 
-          * Connect your OSF project to GitHub.
+   * Create an OSF collaborative environment from data to publication.
+   
+      * Connect your OSF project to GitHub.
 
-          * Upload any raw code, images, data, tables to project.
+      * Upload any raw code, images, data, tables to project.
 
-          * Obtain a DOI and ARK identifier for your project.
+      * Obtain a DOI and ARK identifier for your project.
 
 * Materials and tools needed
 
