@@ -316,6 +316,13 @@ Collaborative Platforms</td>
     <td>individually or in pairs</td>
     <td></td>
   </tr>
+  <tr>
+    <td>25</td>
+    <td>The publishing trap (in progress)</td>
+    <td>Open Access to Published Research Results</td>
+    <td>small group exercise</td>
+    <td>2 hours</td>
+  </tr>
 </table>
 
 
@@ -1399,7 +1406,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
    * The beta version of the game is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Licence.
    
    
-##### **Example 26: ** - in progress
+##### **Example 26: - in progress**
 
 * Format, time needed 
 
