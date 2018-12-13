@@ -1371,7 +1371,7 @@ Some resources listing research tools and platforms:
 ![image alt text](/Images/image_16.png)
 Figure x - Rainbow of open science practices (available on Zenodo in different formats, including as editable slide:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
 
-#### Other resources (not curated yet)
+#### Other resources
 
 * Ask Open Science. [ask-open-science.org](https://ask-open-science.org/)
 
