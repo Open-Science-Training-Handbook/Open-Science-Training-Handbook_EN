@@ -1383,7 +1383,7 @@ Figure x - Rainbow of open science practices (available on Zenodo in different f
 
 * MANTRA - Research Management Training. [mantra.edina.ac.uk](https://mantra.edina.ac.uk/)
 
-* Materials for ELIXIR-EXCELERATE Train The Trainer workshops and courses. [github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT) *(comment by authors: A complete repository of materials and methods, selected for training instructors, only a small part is specific to Bioinformatics) 
+* Materials for ELIXIR-EXCELERATE Train The Trainer workshops and courses. [github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT) (*comment by authors: A complete repository of materials and methods, selected for training instructors, only a small part is specific to Bioinformatics*) 
 
 * Open Science MOOC. [opensciencemooc.eu](https://opensciencemooc.eu/open-science-resources/)
 
