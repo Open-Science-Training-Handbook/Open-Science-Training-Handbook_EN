@@ -77,9 +77,9 @@ Some disciplines prefer to use other formats than journals to publish results, f
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 
-Q: "If I publish my work as a preprint, it won’t be acknowledged—I will only receive credit for a peer-reviewed journal article."
+Q: "If I publish my work as a preprint, it won’t be acknowledged - I will only receive credit for a peer-reviewed journal article."
 
-A: Many funders are acknowledging the growing presence of preprint publishing in their policies: Howard Hughes Medical Institute \(HHMI\), Wellcome Trust, the Medical Research Council \(UK\) and the National Institutes of Health \(NIH\) announced policies allowing researchers to cite their own preprints in grant applications and reports \([Luther 2017](https://scholarlykitchen.sspnet.org/2017/04/18/stars-aligning-preprints/)\). In addition, preprints help establish priority of results and may increase the impact — and citation count — of a later peer-reviewed article \([McKiernan 2016](https://doi.org/10/gbqsng)\).
+A: Many funders are acknowledging the growing presence of preprint publishing in their policies: Howard Hughes Medical Institute \(HHMI\), Wellcome Trust, the Medical Research Council \(UK\) and the National Institutes of Health \(NIH\) announced policies allowing researchers to cite their own preprints in grant applications and reports \([Luther 2017](https://scholarlykitchen.sspnet.org/2017/04/18/stars-aligning-preprints/)\). In addition, preprints help establish priority of results and may increase the impact - and citation count - of a later peer-reviewed article \([McKiernan 2016](https://doi.org/10/gbqsng)\).
 
 There are still some researchers reluctant to deposit other versions than the final published version. It is important to inform them about the copyright implications when they sign a transfer document.
 
