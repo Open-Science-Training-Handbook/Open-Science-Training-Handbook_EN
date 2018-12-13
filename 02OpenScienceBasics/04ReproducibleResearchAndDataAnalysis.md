@@ -36,11 +36,11 @@ Source: Symposium report, October 2015. Reproducibility and reliability of biome
 
 [Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) note that in epidemiology, computational biology, economics, and clinical trials, reproducibility is often defined as:
 
-_the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results._
+_"the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results."_
 
 This is distinct from replicability:
 
-_which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected._
+_"which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected."_
 
 A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented.
 
@@ -76,7 +76,7 @@ The following is an indicative list of take-away points on reproducibility:
 
 * Reproducible analysis environments \(virtualization\).
 
-* Addressing the "Researcher Degrees of Freedom" \(Wicherts et al., 2016\).
+* Addressing the "Researcher Degrees of Freedom" \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Skills
