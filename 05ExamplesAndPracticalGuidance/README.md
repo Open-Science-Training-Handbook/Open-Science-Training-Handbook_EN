@@ -1373,31 +1373,32 @@ Figure x - Rainbow of open science practices (available on Zenodo in different f
 
 #### Other resources (not curated yet)
 
-* Open Science MOOC - resources [https://opensciencemooc.eu/open-science-resources/](https://opensciencemooc.eu/open-science-resources/)
+* Ask Open Science. [ask-open-science.org](https://ask-open-science.org/)
 
-* "Open Science, Open Data, Open Source" (2017) 21st century skills for the life sciences [http://osodos.org](http://osodos.org)
+* Digital Curation Centre. Because good research needs good data. [dcc.ac.uk](http://www.dcc.ac.uk)
 
-* Tips on how to build and publish a versionised e-book are given in the github repository [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Also  available in GitHub Pages as a website [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub and Mobi versions were made available by [Unglue.it](https://unglue.it/work/229980/)
+* Fernandes and Rutger (2017). Open Science, Open Data, Open Source. 21st century skills for the life sciences. [osodos.org](http://osodos.org)
 
-* [Open Science Training Initiative](http://www.opensciencetraining.com/) - Graduate Training in Open Science.
+* Forschung und Daten managen (German information website about research data management).[forschungsdaten.info](https://www.forschungsdaten.info/)
 
-* [MANTRA - Research Management Training](https://mantra.edina.ac.uk/)
+* MANTRA - Research Management Training. [mantra.edina.ac.uk](https://mantra.edina.ac.uk/)
+
+* Materials for ELIXIR-EXCELERATE Train The Trainer workshops and courses. [github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT) *(comment by authors: A complete repository of materials and methods, selected for training instructors, only a small part is specific to Bioinformatics) 
+
+* Open Science MOOC. [opensciencemooc.eu](https://opensciencemooc.eu/open-science-resources/)
+
+* Open Science Training Initiative. Graduate Training in Open Science. [opensciencetraining.com](http://www.opensciencetraining.com/)
+
+* Research Data E-Learning Platform. (German and French) [researchdatamanagement.ch](http://www.researchdatamanagement.ch/)
 
 * [Research Data Management Educational Efforts](https://docs.google.com/spreadsheets/d/10RTW-nZk0x_mpQw2VAlttcc656MV9EeCaDe2lM4umb4/edit#gid=0)
 
-* Information website about research data management:[forschungsdaten.info](https://www.forschungsdaten.info/)
+* Research data management (RDM) open training materials. [Zenodo Community](https://zenodo.org/communities/dcc-rdm-training-materials/)
 
-* E-Learning Module (German and French):[researchdatamanagement.ch](http://www.researchdatamanagement.ch/)
+* Sewell (2017). Research Data Management: Activity Cards. [doi.org/10.17863/CAM.10074](https://doi.org/10.17863/CAM.10074).
 
-* [Digital Curation Centre](http://www.dcc.ac.uk)
+* Tips on how to build and publish a versionised e-book are given in the github repository [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Also  available in GitHub Pages as a website [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub and Mobi versions were made available by [Unglue.it](https://unglue.it/work/229980/)
 
-* Research data management (RDM) open training materials [Zenodo Community](https://zenodo.org/communities/dcc-rdm-training-materials/)
-
-* A complete repository of materials and methods, selected for training instructors, only a small part is specific to Bioinformatics [https://github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT)
-
-* Sewell, Claire. ‘Research Data Management: Activity Cards’, 23 November 2017. [doi.org/10.17863/CAM.10074](https://doi.org/10.17863/CAM.10074).
-
-* [Open Science Q&A](https://openscience.uni-bielefeld.de/)
 
 ---------------------------------------------------------------------------------------------------------------
 
