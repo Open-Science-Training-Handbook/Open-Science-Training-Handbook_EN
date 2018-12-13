@@ -32,9 +32,9 @@ While understanding the full range of factors that contribute to reproducibility
 
 ![](/Images/image_2.png)
 
-Source: [Reproducibility and reliability of biomedical research: improving research practice](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
+Source: Symposium report, October 2015. Reproducibility and reliability of biomedical research: improving research practice [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
 
-Goodman, Fanelli, & Ioannidis \(2016\) note that in epidemiology, computational biology, economics, and clinical trials, reproducibility is often defined as:
+[Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) note that in epidemiology, computational biology, economics, and clinical trials, reproducibility is often defined as:
 
 _the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results._
 
