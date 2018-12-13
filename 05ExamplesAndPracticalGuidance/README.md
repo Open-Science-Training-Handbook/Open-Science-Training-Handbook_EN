@@ -1391,7 +1391,7 @@ Figure x - Rainbow of open science practices (available on Zenodo in different f
 
 * Research Data E-Learning Platform. (German and French) [researchdatamanagement.ch](http://www.researchdatamanagement.ch/)
 
-* [Research Data Management Educational Efforts](https://docs.google.com/spreadsheets/d/10RTW-nZk0x_mpQw2VAlttcc656MV9EeCaDe2lM4umb4/edit#gid=0)
+* Research Data Management Educational Efforts. [docs.google.com](https://docs.google.com/spreadsheets/d/10RTW-nZk0x_mpQw2VAlttcc656MV9EeCaDe2lM4umb4/edit#gid=0)
 
 * Research data management (RDM) open training materials. [Zenodo Community](https://zenodo.org/communities/dcc-rdm-training-materials/)
 
