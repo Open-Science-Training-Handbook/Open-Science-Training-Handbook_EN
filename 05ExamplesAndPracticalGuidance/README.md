@@ -1336,7 +1336,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * This exercise could be focused on specific aspects of open science
 
-##### **Example 24: Set up OSF project & link to other platforms**
+##### **Example 24: Set up OSF project & link to other platforms - in progress**
 * Format, time needed 
 
     * Individually or in pairs
