@@ -295,7 +295,7 @@ Open Educational Resources</td>
   </tr>
   <tr>
     <td>22</td>
-    <td>Plain language explanations</td>
+    <td>Plain language explanations (in progress)</td>
     <td>Citizen Scientists and Science Communication
 
 Collaborative Platforms</td>
@@ -311,10 +311,10 @@ Collaborative Platforms</td>
   </tr>
   <tr>
     <td>24</td>
-    <td>Writing a lay summary</td>
-    <td>Citizen Scientists and Science Communication</td>
+    <td> Set up OSF project & link to other platforms (in progress)</td>
+    <td>Open Research Data and Materials</td>
     <td>individually or in pairs</td>
-    <td>60 minutes</td>
+    <td></td>
   </tr>
 </table>
 
@@ -1336,7 +1336,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * This exercise could be focused on specific aspects of open science
 
-Example 26: Set up OSF project & link to other platforms
+##### **Example 24: Set up OSF project & link to other platforms**
 
 * Create an OSF collaborative environment from data to publication.
 
