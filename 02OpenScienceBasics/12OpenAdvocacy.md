@@ -34,7 +34,7 @@ Trainings \(workshops, seminars, presentations\) can be used as advocacy tools. 
 
 ##### Objectives to achieve
 
-SMART is a way of reminding you that your objectives should be:
+**SMART** is a way of reminding you that your objectives should be:
 
 **S**pecific — by this we mean that you need to set a specific objective for your programmes.
 
@@ -50,17 +50,17 @@ Objectives can be long term or short term. Long-term objectives usually focus on
 
 Main goals of advocacy program:
 
-* to increase awareness among influential groups and the public
+* To increase awareness among influential groups and the public
 
-* to reduce stigma and fear
+* To reduce stigma and fear
 
-* to engage and mobilize key stakeholders within the community who will champion the development
+* To engage and mobilize key stakeholders within the community who will champion the development
 
-* to expand advocacy groups, including community volunteers
+* To expand advocacy groups, including community volunteers
 
-* to mobilize resources to support the implementation of key priority \(core\) interventions
+* To mobilize resources to support the implementation of key priority \(core\) interventions
 
-* to maintain the involvement of decision-makers and the public l by disseminating information on achievements to date and future challenges.
+* To maintain the involvement of decision-makers and the public l by disseminating information on achievements to date and future challenges.
 
 ##### Steps to good advocacy
 
@@ -105,23 +105,23 @@ Main goals of advocacy program:
 
 **Campaigning:** generating a response from the wider public and using a variety of techniques such as:
 
-* chain e-mail or letter
+* Chain e-mail or letter
 
-* opinion pieces and letters to the editor in newspapers
+* Opinion pieces and letters to the editor in newspapers
 
-* newsletters
+* Newsletters
 
-* celebrity endorsements
+* Celebrity endorsements
 
-* media partnerships with newspapers, journalists and film-makers
+* Media partnerships with newspapers, journalists and film-makers
 
-* web-based bulletins and online discussions
+* Web-based bulletins and online discussions
 
-* public events
+* Public events
 
-* large-scale advertising campaigns
+* Large-scale advertising campaigns
 
-* use of social media \(Twitter, Facebook\)
+* Use of social media \(Twitter, Facebook\)
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Skills
