@@ -169,7 +169,7 @@ Development’. In *Proceedings of the FSE/SDP Workshop on Future of Software
 Engineering Research - FoSER’10*, 315. Santa Fe, New Mexico, USA: ACM Press, 2010. [doi.org/10.1145/1882362.1882427](https://doi.org/10.1145/1882362.1882427)
 
 Scopatz, Anthony, and Kathryn D. Huff. *Effective Computation in Physics: Field
-Guide to Research in Python*. Sebastopol, CA: O’Reilly Media, 2015. [PDF] (http://lilith.fisica.ufmg.br/~dickman/transfers/comp/textos/Effective%20Computation%20in%20Physics%20(Python).pdf)
+Guide to Research in Python*. Sebastopol, CA: O’Reilly Media, 2015. [PDF](http://lilith.fisica.ufmg.br/~dickman/transfers/comp/textos/Effective%20Computation%20in%20Physics%20(Python).pdf)
 
 Sewell, Claire. ‘Research Data Management: Activity Cards’, 23 November 2017.
 [doi.org/10.17863/CAM.10074](https://doi.org/10.17863/CAM.10074)
