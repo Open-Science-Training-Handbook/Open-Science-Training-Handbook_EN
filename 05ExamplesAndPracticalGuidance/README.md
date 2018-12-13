@@ -1337,14 +1337,33 @@ You can shorten the activity by skipping the pair/group work and just discuss in
     * This exercise could be focused on specific aspects of open science
 
 ##### **Example 24: Set up OSF project & link to other platforms**
+* Format, time needed 
 
-* Create an OSF collaborative environment from data to publication.
+    * Individually or in pairs
 
-    * Connect your OSF project to GitHub.
+* Topic 
 
-    * Upload any raw code, images, data, tables to project.
+    * [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-    * Obtain a DOI and ARK identifier for your project.
+* Learning objectives 
+
+* Exercise description
+      * Create an OSF collaborative environment from data to publication.
+
+          * Connect your OSF project to GitHub.
+
+          * Upload any raw code, images, data, tables to project.
+
+          * Obtain a DOI and ARK identifier for your project.
+
+* Materials and tools needed
+
+* Level of prior knowledge needed
+
+* Things to bear in mind
+
+* How to adapt for other purposes
+
 
 ### Resources
 
