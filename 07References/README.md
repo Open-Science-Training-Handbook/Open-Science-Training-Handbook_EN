@@ -95,6 +95,8 @@ Halpern. ‘Our Path to Better Science in Less Time Using Open Data Science
 Tools’. *Nature Ecology & Evolution* 1, no. 6 (23 May 2017): 0160.
 [doi.org/10/gc4jb3](https://doi.org/10/gc4jb3)
 
+Luther J. The Stars Are Aligning for Preprints. The Scholarly Kitchen. 2017. [December 2018]. [scholarlykitchen.sspnet.org](https://scholarlykitchen.sspnet.org/2017/04/18/stars-aligning-preprints)
+
 Martinez-Torres, M.R., and M.C. Diaz-Fernandez. ‘Current Issues and Research
 Trends on Open-Source Software Communities’. *Technology Analysis & Strategic
 Management* 26, no. 1 (2 January 2014): 55–68. [doi.org/10/gc5sjj](https://doi.org/10/gc5sjj)
