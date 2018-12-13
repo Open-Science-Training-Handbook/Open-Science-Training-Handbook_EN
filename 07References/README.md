@@ -229,6 +229,8 @@ Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. ‘The FAIR Guiding
 Principles for Scientific Data Management and Stewardship’. *Scientific Data*,
 15 March 2016. [doi.org/10/bdd4](https://doi.org/10/bdd4)
 
+Wilsdon, James, Judit Bar-Ilan,	Robert Frodeman, Elisabeth Lex, Isabella Peters, Paul Wouters (2017). Next-generation metrics: Responsible metrics and evaluation for open science.	Directorate-General for Research and Innovation.European Commission Expert Group on Altmetrics. [PDF](https://ec.europa.eu/research/openscience/pdf/report.pdf)
+
 Wilson, Greg. ‘Software Carpentry: Lessons Learned [Version 2; Referees: 3
 Approved]’. *F1000Research* 3 (2016): 62. [doi.org/10/gc5sjr](https://doi.org/10/gc5sjr)
 
