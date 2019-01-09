@@ -172,7 +172,7 @@ By reagents, we mean here a substance, compound or mixture, or living organism t
 - Cas number for chemicals
 - For transgenic animals, use the animal model database specific identifier(s) (MGI number for mouse for example)
 
-Reagents can be deposited with repositories like [(for plasmids) Addgene](https://www.addgene.org/), [(for drosophila lines): The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. If you can, license your materials so they can be reused by other researchers, using the [open material transfer agreement](https:www.openmta.com).
+Reagents can be deposited with repositories like [(for plasmids) Addgene](https://www.addgene.org/), [(for drosophila lines) The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [(for microbial organisms) ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. If you can, license your materials so they can be reused by other researchers, using the [open material transfer agreement](https://biobricks.org/openmta/).
 
 
 
