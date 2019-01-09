@@ -74,15 +74,17 @@ When planning a policy is important to know what do you intend to achieve or sol
 
 * Open Research Funders Group & SPARC. Open Policies 101. [PDF from orfg.org](https://static1.squarespace.com/static/5817749f8419c25c3b5b318d/t/5b75bfc1352f53d3f2e4409f/1534443459039/Grantee.pdf) 
 
+* Model Policy for Research Data Management (RDM) at Research Institutions/Institutes. In: Leaders Activating Research Networks (LEARN) (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 133-136). [learn-rdm.eu](http://discovery.ucl.ac.uk/id/eprint/1546606)
+
+* Guidance for Developing a Research Data Management (RDM) Policy. In: Leaders Activating Research Networks, LEARN Project (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 137-140). [learn-rdm.eu](https://doi.org/10.14324/000.learn.27)
+
 ### Projects and initiatives
 
 * FOSTER. Designing Successful Open Access and Open Data Policies: Introductory. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2081) 
 
 * FOSTER. Designing Successful Open Access and Open Data Policies: Intermediate. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2075)
 
-* Model Policy for Research Data Management (RDM) at Research Institutions/Institutes. In: Leaders Activating Research Networks (LEARN) (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 133-136). [learn-rdm.eu](http://discovery.ucl.ac.uk/id/eprint/1546606)
-
-* Guidance for Developing a Research Data Management (RDM) Policy. In: Leaders Activating Research Networks, LEARN Project (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 137-140). [learn-rdm.eu](https://doi.org/10.14324/000.learn.27)
+* LEARN Project 2015-2017. Toolkit of Best Practice for Research Data Management [learn-rdm.eu](http://learn-rdm.eu/en/about/)
  
 
 * Pasteur4OA. [pasteur4oa.eu](http://www.pasteur4oa.eu/)
