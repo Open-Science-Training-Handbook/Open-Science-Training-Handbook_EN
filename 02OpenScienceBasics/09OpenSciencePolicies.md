@@ -80,9 +80,9 @@ When planning a policy is important to know what do you intend to achieve or sol
 
 * FOSTER. Designing Successful Open Access and Open Data Policies: Intermediate. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2075)
 
-* LEARN Project. The Model RDM Policy. [learn-rdm.eu](http://learn-rdm.eu)
+* Model Policy for Research Data Management (RDM) at Research Institutions/Institutes. In: Leaders Activating Research Networks (LEARN) (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 133-136). [learn-rdm.eu](http://discovery.ucl.ac.uk/id/eprint/1546606)
 
-* LEARN Project. Guidance for Developing a Research Data Management (RDM) Policy. In: Leaders Activating Research Networks, LEARN Project (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 137-140). [learn-rdm.eu](https://doi.org/10.14324/000.learn.27)
+* Guidance for Developing a Research Data Management (RDM) Policy. In: Leaders Activating Research Networks, LEARN Project (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 137-140). [learn-rdm.eu](https://doi.org/10.14324/000.learn.27)
  
 
 * Pasteur4OA. [pasteur4oa.eu](http://www.pasteur4oa.eu/)
