@@ -180,6 +180,8 @@ The trainer will be able to consider the training event in the context of a prog
 
 * PATH. Strengthen Advocacy. [sites.path.org](http://sites.path.org/advocacyandpolicy/how-we-do-it/strengthen-advocacy-capacity/)
 
+* PASTEUR4OA. Advocacy Resources. [pasteur4oa.eu](http://www.pasteur4oa.eu/resources)
+
 * Retraction Watch. [retractionwatch.com](http://retractionwatch.com/) 
 
 
