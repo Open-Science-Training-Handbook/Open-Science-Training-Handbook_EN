@@ -77,13 +77,13 @@
 
 * A series of published research articles. Historically divided into volumes and issues.
 
-**Licence**
+**License**
 
 * A license allows a third party to perform certain actions with a work or data. The license informs about the usage rights of a resource (e.g. text, data, source code).
 
 **Metadata**
 
-* Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location). They.
+* Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location).
 
 **Open Access**
 
