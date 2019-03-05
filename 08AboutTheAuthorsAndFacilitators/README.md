@@ -74,7 +74,7 @@ For me the biggest challenge with open science training is to show researchers t
 
 By day, I am a librarian for life sciences and medicine. My after hours project is [101 Innovations in Scholarly Communication](https://101innovations.wordpress.com) together with Jeroen Bosman. We do research, training and advocacy on open science, to make research more relevant, robust and equitable. 
 
-Training in open science is rewarding because it is not just about teaching people new skills, it's about discussing fundamental concepts and exchanging different viewpoints and opinions. As a participant in one of our courses said: 'I came to learn practical things to apply in my research, but I discovered I am now part of a movement'. To me, a succesfull training should be interactive and hands-on, to  encourage people to explore and challenge their perceptions. That includes my own role as a trainer: always be open to try new things and learn from the people participating in your training.   
+Training in open science is rewarding because it is not just about teaching people new skills, it's about discussing fundamental concepts and exchanging different viewpoints and opinions. As a participant in one of our courses said: 'I came to learn practical things to apply in my research, but I discovered I am now part of a movement'. To me, a successful training should be interactive and hands-on, to  encourage people to explore and challenge their perceptions. That includes my own role as a trainer: always be open to try new things and learn from the people participating in your training.   
 
 ### Ignasi Labastida
 
