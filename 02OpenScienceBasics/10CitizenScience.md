@@ -44,7 +44,7 @@ Although there is still an open debate on how to assess some citizen science act
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Skills
 
-* Be able to differentiate in different citizen science project approaches: projects where citizens just provide data versus projectes where the citizen engagement is along the research project.
+* Be able to differentiate in different citizen science project approaches: projects where citizens just provide data versus projects where the citizen engagement is along the research project.
 
 * Be able to provide advice on legal and ethical aspects regarding the collection of data, including personal data from citizens.
 
