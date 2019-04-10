@@ -79,11 +79,15 @@ Although there is still an open debate on how to assess some citizen science act
 * Pettibone et al. (2016). Citizen science for all – a guide for citizen science
 practitioners. Bürger Schaffen Wissen (GEWISS) publication. [PDF from buergerschaffenwissen.de](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/20/handreichunga5_engl_web.pdf)
 
+* Quality Criteria for Citizen Science Projects on 'Österreich forscht'. [fosterscience.eu](https://www.fosteropenscience.eu/content/quality-criteria-citizen-science-projects-osterreich-forscht)
+
 * Overview of citizen science projects:
 
   * Socientize Project. [socientize.eu](http://socientize.eu/)
 
   * ZOONIVERSE - People-powered research. [zooniverse.org](https://www.zooniverse.org/projects)
-
+  
   * Crowdcrafting scifabric. [crowdcrafting.org](https://crowdcrafting.org/)
+  
+  * German Citizen Science Projects. [citizen-science.at](https://www.citizen-science.at/)
 
