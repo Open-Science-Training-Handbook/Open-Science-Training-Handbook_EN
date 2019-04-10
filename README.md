@@ -21,9 +21,11 @@ Are you interested in running or attending trainings or webinars that make use o
 
 Please consider citing the handbook when using the content. To cite the book, we recommend that you either refer to 
 
-* https://book.fosteropenscience.eu/, which is the most friendly way to read the book (also available as [PDF](https://legacy.gitbook.com/download/pdf/book/open-science-training-handbook/book), [ePub](https://legacy.gitbook.com/download/epub/book/open-science-training-handbook/book) and [Mobi](https://legacy.gitbook.com/download/mobi/book/open-science-training-handbook/book)), to comment and to suggest changes, _or_ 
+* https://book.fosteropenscience.eu/, which is the most friendly way to read the book (also available as [PDF](https://book.fosteropenscience.eu/en/book.epub)and [ePub](https://book.fosteropenscience.eu/en/book.pdf)), to comment and to suggest changes, _or_ 
 
 * https://doi.org/10.5281/zenodo.1212496, which is a citable DOI refering to a (hardly comprehensible) archived dump of the book.
+
+* If you are looking for other languages or formats you can go to the FOSTER portal, where we linked everything on [this page](https://www.fosteropenscience.eu/node/2437).
 
 ## The Authors and the Book Sprint facilitators
 
