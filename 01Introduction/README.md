@@ -45,7 +45,7 @@ Lively and interactive training events need engaging activities. Our example exe
 
 Like any other emerging field, Open Science uses quite a lot of sometimes difficult terminology. Some of it you may not be familiar with. Don’t lose heart! The [__"Glossary"__](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/06Glossary) will explain most of the less familiar terms and concepts.  
 
-This handbook was created to be a living resource. This means it will regularly be updated due to new developments in Open Science, as well as in response to feedback and suggestions from other Open Science trainers and our general audience. Please feel free to add your best practices, examples, resources, opinions or experiences via GitBook.  
+This handbook was created to be a living resource. This means it will regularly be updated due to new developments in Open Science, as well as in response to feedback and suggestions from other Open Science trainers and our general audience. Please feel free to add your best practices, examples, resources, opinions or experiences via GitHub.  
 
 We hope you will enjoy reading this handbook and wish you all the best for your future Open Science training!
 
