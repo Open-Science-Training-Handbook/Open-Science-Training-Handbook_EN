@@ -21,7 +21,7 @@ Are you interested in running or attending trainings or webinars that make use o
 
 Please consider citing the handbook when using the content. To cite the book, we recommend that you either refer to 
 
-* https://book.fosteropenscience.eu/, which is the most friendly way to read the book (also available as [PDF](https://book.fosteropenscience.eu/en/book.epub) and [ePub](https://book.fosteropenscience.eu/en/book.pdf)), to comment and to suggest changes, _or_ 
+* https://book.fosteropenscience.eu/, which is the most friendly way to read the book (also available as [PDF](https://book.fosteropenscience.eu/en/book.pdf) and [ePub](https://book.fosteropenscience.eu/en/book.epub)), to comment and to suggest changes, _or_ 
 
 * https://doi.org/10.5281/zenodo.1212496, which is a citable DOI refering to a (hardly comprehensible) archived dump of the book.
 
