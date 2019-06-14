@@ -9,7 +9,7 @@ Bringing together methods, techniques, and practices, the handbook aims at suppo
 
 ## Help us making the handbook better
 
-We welcome comments and feedback from everyone, irrespective of their expertise or background. The easiest way to do this is to leave a comment [right here](https://book.fosteropenscience.eu/) by touching any paragraph with your mouse pointer and then clicking on the plus sign appearing next to that paragraph. If it is not working for you, you may consider using [hypothes.is](https://via.hypothes.is/https://open-science-training-handbook.gitbook.io/book). Also, you can create pull requests, either from within the Gitbook website or app, or with any tool you like. The handbook's content is maintained as [this GitHub repository](https://github.com/Open-Science-Training-Handbook).
+We welcome comments and feedback from everyone, irrespective of their expertise or background. The easiest way to do this is to use [hypothes.is](https://via.hypothes.is/https://book.fosteropenscience.eu). Also, you can create pull requests, either from within the Gitbook website or app, or with any tool you like. The handbook's content is maintained as [this GitHub repository](https://github.com/Open-Science-Training-Handbook).
 
 ## Let's run an Open Science training together
 
@@ -21,11 +21,11 @@ Are you interested in running or attending trainings or webinars that make use o
 
 Please consider citing the handbook when using the content. To cite the book, we recommend that you either refer to 
 
-* https://book.fosteropenscience.eu/, which is the most friendly way to read the book (also available as [PDF](https://book.fosteropenscience.eu/en/book.epub) and [ePub](https://book.fosteropenscience.eu/en/book.pdf)), to comment and to suggest changes, _or_ 
+* https://book.fosteropenscience.eu/, which is the most friendly way to read the book (also available as [PDF](https://book.fosteropenscience.eu/en/book.pdf) and [ePub](https://book.fosteropenscience.eu/en/book.epub)), to comment and to suggest changes, _or_ 
 
 * https://doi.org/10.5281/zenodo.1212496, which is a citable DOI refering to a (hardly comprehensible) archived dump of the book.
 
-* If you are looking for other languages or formats you can go to the FOSTER portal, where we linked everything on [this page](https://www.fosteropenscience.eu/node/2437).
+* If you are looking for other languages or formats you can go to the FOSTER portal, where we linked everything on [this page](https://www.fosteropenscience.eu/content/open-science-training-handbook).
 
 ## The Authors and the Book Sprint facilitators
 
