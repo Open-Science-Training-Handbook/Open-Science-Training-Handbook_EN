@@ -55,5 +55,5 @@ We hope you will enjoy reading this handbook and wish you all the best for your 
 
 The Open Science Training Handbook is written as an Open Educational Resource to enable you to use this book in the best possible way. This work is therefore made available under [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). You do not have to ask us permission to re-use and copy information from this handbook. Feel free to use information from the content session for your training slides or images that seem fitting in your training. Take note that some materials cited in this book might be copyright protected. If so, this will be indicated in the text. Please consider citing the handbook when using the content.  
 
-We have tried to acknowledge all of our sources. If for some reason we have forgotten to provide you with proper credits it has not been done with malicious intent. Feel free to contact us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) for any corrections.
+We have tried to acknowledge all of our sources. If for some reason we have forgotten to provide you with proper credits it has not been done with malicious intent. Feel free to contact us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) for any correction.
 
