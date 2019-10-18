@@ -182,7 +182,7 @@ Specifying outcomes is part of handling training as a cognitive process. In 1956
 
 ## <img src="/Images/03 On Learning and Training/03_bloom_s_taxonomy.png" width="300" height="300" />
 
-A present day version  \(since 2001\) can also be found here: [https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
+A present day version  \(since 2001\) can also be found [here] (https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
 
 Bloom’s Taxonomy is a classification method with six levels. Using Bloom’s Taxonomy is worth the effort because it represents a significant step towards a desire to build robust training and teaching. Together with Bloom’s Taxonomy you can find several types of design aids such as annotated terminologies, verbs to use or to avoid in course planning and building assessment questions, etc.
 
