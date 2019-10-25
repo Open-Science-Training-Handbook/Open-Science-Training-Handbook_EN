@@ -1,8 +1,6 @@
 ![](/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
 ## The Open Science Training Handbook
 
-This will be the Chinese translation of the Open Science Training Handbook.
-
 A group of fourteen authors came together in February 2018 at the TIB \(German National Library of Science and Technology\) in Hannover to create an open, living handbook on Open Science training. High-quality trainings are fundamental when aiming at a cultural change towards the implementation of Open Science principles. Teaching resources provide great support for Open Science instructors and trainers. The Open Science training handbook will be a key resource and a first step towards developing Open Access and Open Science curricula and andragogies. Supporting and connecting an emerging Open Science community that wishes to pass on their knowledge as multipliers, the handbook will enrich training activities and unlock the community’s full potential.
 
 Sharing their experience and skills of imparting Open Science principles, the authors \(see [below](#the-authors-and-the-book-sprint-facilitators)\) produced an open knowledge and educational resource oriented to practical teaching. The focus of the new handbook is not spreading the ideas of Open Science, but showing **how** to spread these ideas most effectively. The form of a book sprint as a collaborative writing process maximized creativity and innovation, and ensured the production of a valuable resource in just a few days.
