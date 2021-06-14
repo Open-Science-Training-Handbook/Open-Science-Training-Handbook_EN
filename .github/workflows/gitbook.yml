@@ -1,0 +1,22 @@
+name: 'Gitbook-Action'
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout action
+      uses: actions/checkout@v1
+
+    # example1--> https://ZanderZhao.github.io/gitbook-action
+    - name: Gitbook Action
+      uses: zanderzhao/gitbook-action@v1.2.4 # https://github.com/ZanderZhao/gitbook-action/releases 
+      with:                                # Just example, click above, use latest please 
+        token: ${{ secrets.GITBOOK_TOKEN }}
+        time_zone: London/Central   # set time zone
+        source_edit_time: true     # source time
+        publish_commit_message: ${{ github.event.head_commit.message }}  # use last commit message
