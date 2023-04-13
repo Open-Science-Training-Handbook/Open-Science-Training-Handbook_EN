@@ -1,15 +1,19 @@
 ## <img src="/Images/Icons/open_data.png" width="200" height="200" />
 ## 2. Open Research Data and Materials
 
-### What is it?
+### Open FAIR data
 
 Open research data is data that can be freely accessed, reused, remixed and redistributed, for academic research and teaching purposes and beyond. Ideally, open data have no restrictions on reuse or redistribution, and are appropriately licensed as such. In exceptional cases, e.g. to protect the identity of human subjects, special or limited restrictions of access are set. Openly sharing data exposes it to inspection, forming the basis for research verification and reproducibility, and opens up a pathway to wider collaboration. At most, open data may be subject to the requirement to attribute and sharealike \(see the [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
+
+In addition, to foster and enable data re-use, by humans and by machines, data should be FAIR, i.e. findable, accessible, interoperable and re-usable. It is worth noting that data can be FAIR without being open and vice versa and that FAIRness implies the data will still be reusable in 10 to 20 years.
 
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
 ### Rationale
 
 Research data are often the most valuable output of many research projects, they are used as primary sources that underpin scientific research and enable derivation of theoretical or applied findings. In order to make findings/studies replicable, or at least reproducible or reusable \(see [Reproducible Research And Data Analysis](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) in any other way, the best practice recommendation for research data is to be as open and [FAIR](https://www.force11.org/fairprinciples) as possible, while accounting for ethical, commercial and privacy constraints with sensitive data or proprietary data.
+
+This is the reason why funders, universities, publishers and governements are starting to request open data. In addition, most funders request a data management plan for each grant application; the plan is a tool to plan data collection, storage and description to enable the production of FAIR data in an efficient way.
 
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
@@ -33,6 +37,28 @@ Research data are often the most valuable output of many research projects, they
 ### Key components
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Knowledge & Skills
+
+##### Data types and format
+
+The first step in organising and documenting research data to enable maximal outreach and re-use is to understand what research data is and what type of data do exist. At collection (or simulation), data is called raw. At this step, the data might not be digital. The first version of the digitalised data is called primary data, while we speak about secondary data when this kind of data was not collected for the purpose of the study. Metadata will be information gathered about the data and
+ data produced during the analysis is called derived data; the derived data should also have its own metadata attached.
+
+Let's take an example: we want to know the eye color of John from the family pictures available. The raw data would be the family pictures, the primary data is a scan of these pictures, and secondary data would be a table listing the people present in the pictures and the date of the picture. The metadata gather information about the camera and its settings, and the scanner and its settings. One derived data would be a second version of the pictures who ran through a color optimisation algorithm, another one would be a tables indicating the eye color of the people present on the picture (its metadata would indicate that is was determined by manual observations). Combining the different information gathered in these data files, one could conclude that John had blue eyes. 
+
+##### Data organisation and documentation
+
+In research data management, simple rules make the life easier, especially if the data is (re-)analysed years after its collection. 
+
+- Keep the primary data in a separate folder and never modify it.
+- Use existing standards if they exist (metadata standards, file formats, folder organisation,...)
+- Use open format for archiving your data that you know will still be readable in 10 years, for example export your tables in a text format (.csv).
+- Document your data and your analysis in detail, if possible in a computer readable format.
+- Use readme file to explain your data organisation and file namimg conventions. Optionally, add an index of the files with addition indication in a table format.
+- Plan your data organisation and file naming ahead and reserve time for its implementation.
+
+These tips are a first step into the production of FAIR data.
+    
+
 ##### FAIR principles
 
 In 2014, a core set of principles were drafted in order to optimize the reusability of research data, named the [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). They represent a community-developed set of guidelines and best practices to ensure that data or any digital object are **F**indable, **A**ccessible, **I**nteroperable and **R**e-usable:
@@ -41,7 +67,7 @@ In 2014, a core set of principles were drafted in order to optimize the reusabil
 
 **Accessible:** The \(meta\)data should be retrievable by their identifier using a standardized and open communications protocol, possibly including authentication and authorisation. Also, metadata should be available even when the data are no longer available.
 
-**Interoperable:** The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use vocabularies that follow FAIR principles.
+**Interoperable:** The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use controlled vocabularies (or ontologies) that follow FAIR principles.
 
 **Re-usable:** Ultimately, FAIR aims at optimizing the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings. Also, the reuse of the \(meta\)data should be stated with \(a\) clear and accessible license\(s\).
 
@@ -49,21 +75,16 @@ Distinct from peer initiatives that focus on the human scholar, the FAIR princip
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png)
 
-##### Data publishing
+##### Data publishing in repositories
 
 Most researchers are more or less familiar with Open Access publishing of research articles and books \(see chapter 5\). More recently, and for the reasons mentioned above, data publishing has gained increasing attention. More and more funders expect the data produced in research projects they finance to be findable, accessible and as open as possible.
 
-There are several distinct ways to make research data accessible, including \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
+There are several distinct ways to make research data accessible \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\). The two following options are nto be avoided because they are not compliant with FAIR principles or the 10 years rule:
 
 * Publishing data as supplemental material associated with a [research article](https://en.wikipedia.org/wiki/Research_article), typically with the data files hosted by the publisher of the article.
 
 * Hosting data on a publicly-available website, with files available for download.
 
-* Depositing data in a repository that has been developed to support data publication, e.g., [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repository)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
-
-* A large number of general and domain or subject specific data repositories exist which can provide additional support to researchers when depositing their data.
-
-* Publishing a data paper about the dataset, which may be published as a preprint, in a journal, or in a data journal that is dedicated to supporting data papers. The data may be hosted by the journal or hosted separately in a data repository. Examples of data journals include [Scientific Data](https://www.nature.com/sdata/) \(by SpringerNature\) and the [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(by CODATA\). For a comprehensive review of data journals, see [Candela et al](https://doi.org/10.1002%2Fasi.23358).
 
 The CESSDA ERIC [Expert tour guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes) provides an overview of pros and cons of different data publication routes. Sometimes, your funder or another external party requires you to use a specific repository. If you are free to choose, you may consider the order of preference in the [recommendations by OpenAIRE](https://www.openaire.eu/opendatapilot-repository-guide):
 
@@ -73,10 +94,15 @@ The CESSDA ERIC [Expert tour guide on Data Management](https://www.cessda.eu/Res
 
 3. Use a cost-free data repository such as [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) or [Zenodo](https://zenodo.org/).
 
-4. Search for other data repositories in [re3data](https://www.re3data.org/). There is no single filter option in re3data covering the FAIR principles, but considering the following filter options will help you to find FAIR-compatible repositories: access categories, data usage licenses, trustworthy data repositories \(with a certificate or explicitly adhering to archival standards\) and whether a repository gives the data a persistent identifier \(PID\). Another aspect to consider is whether the repository supports versioning.
+4.  A large number of general and domain or subject specific data repositories exist which can provide additional support to researchers when depositing their data. Search for other data repositories in [re3data](https://www.re3data.org/). There is no single filter option in re3data covering the FAIR principles, but considering the following filter options will help you to find FAIR-compatible repositories: access categories, data usage licenses, trustworthy data repositories \(with a certificate or explicitly adhering to archival standards\) and whether a repository gives the data a persistent identifier \(PID\). Another aspect to consider is whether the repository supports versioning.
 
 ## <img src="/Images/Icons/archive.png" width="150" height="150" />
 You should consider where to deposit and publish your data already in your research data management plan. CESSDA offers some practical questions, which are recommended to be considered. For example: Which data and associated metadata, documentation and code will be deposited? How long does the data need to be retained? For how long should the data remain reusable? How will the data be made available? What access category will you choose? For more questions check [Adapt your DMP: part 6](https://www.cessda.eu/Research-Infrastructure/Training/Expert-Tour-Guide-on-Data-Management/6.-Archive-Publish/Adapt-your-DMP-part-6). On the other hand don’t forget to check if a chosen repository meets requirements of your research and of your funder. Some repositories have already gained certification, like CoreTrustSeal, which certifies them to be trustworthy and to be able to meet Core Trustworthy Data Repositories Requirements. It is worth mentioning that some domain specific repositories may accept only high-quality data with a potential for reuse and that can be publicly shared.
+
+
+##### Data paper
+
+In addition to publish your data in a repository, you may consider publishing a data paper about the dataset, which may be published as a preprint, in a journal, or in a data journal that is dedicated to supporting data papers. The data may be hosted by the journal or hosted separately in a data repository. Examples of data journals include [Scientific Data](https://www.nature.com/sdata/) \(by SpringerNature\) and the [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(by CODATA\). For a comprehensive review of data journals, see [Candela et al](https://doi.org/10.1002%2Fasi.23358).
 
 Since there are several routes to publish your data, you should note that for a dataset to "count" as a publication, it should follow a similar publication process as an article \([Brase et al., 2009](https://doi.org/10.3233/ISU-2009-0595)\) and should be:
 
@@ -134,21 +160,39 @@ As mentioned above, the ultimate goal of data sharing your research data is to m
 
 
 ## <img src="/Images/Icons/usb.png" width="150" height="150" />
-##### Open Materials
+### Open Materials
 
-In addition to data sharing, the openness of research relies on sharing of materials. What materials researchers use is discipline-specific and sometimes unique to a lab. Below are examples of materials you can share, although always confer with peers in your discipline to identify which repositories are used. When you have materials, data, and publications from the same research project shared in different repositories, cross-reference them with a link and a unique identifier so they can be easily located.
+In addition to data sharing, the openness of research relies on sharing of materials necessary to reproduce the experiments (reagents, hardware, software, protocols, ...). What materials researchers use is discipline-specific and sometimes unique to a lab. Below are examples of materials you can share, although always confer with peers in your discipline to identify which repositories are used. When you have materials, data, and publications from the same research project shared in different repositories, cross-reference them with a link and a unique identifier so they can be easily located. Indeed, like for data, FAIR principles can be applied to material, too.
 
-###### Reagents
+#### Reagents
 
-A reagents is a substance, compound or mixture that can be added to a system in order to create a chemical or other reaction. Reagents can be deposited with repositories like [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. License your materials so they can be reused by other researchers.
+By reagents, we mean here a substance, compound or mixture, or living organism that can be added to a system in order to perform an experiment (for example create a chemical or other reaction). It is important to make sure you are providing a persistent identifier for your reagent. This is often not trivial and you might find updated information on the open source [reagents.io project](https://reagents.io). Briefly, you may use:
 
-###### Protocols
+- [RRID](https://scicrunch.org) if existent
+- Cas number for chemicals
+- For transgenic animals, use the animal model database specific identifier(s) (MGI number for mouse for example)
 
-A protocol describes a formal or official record of scientific experimental observations in a structured format. Deposit virtual protocols for citation, adaptation, and reuse using [Protocols.](https://www.protocols.io/)[io](https://www.protocols.io/).
+Reagents can be deposited with repositories like [(for plasmids) Addgene](https://www.addgene.org/), [(for drosophila lines) The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [(for microbial organisms) ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. If you can, license your materials so they can be reused by other researchers, using the [open material transfer agreement](https://biobricks.org/openmta/).
 
-###### Notebooks, containers, software, and hardware
 
-Reproducible analysis is aided by the use of literate programming, container technology, and virtualization. In addition to sharing your code and data, also share your Jupyter notebooks, Docker images, or other analysis materials or software dependencies. Share notebooks with Open services such as [mybinder](http://mybinder.org) that allow for public viewing and execution of the entire notebook on shared resources. Containers and notebooks can be shared with [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/). Software and hardware used in your research should be shared following best practices for documentation as outlined in [Section 3](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md). Read-only protocols should be deposited in your disciplines registry such as [ClinicalTrials.gov](https://clinicaltrials.gov/) and [SocialScienceRegistry](https://www.socialscienceregistry.org/) or a general registry like [Open Science](https://osf.io/)[ Framework](https://osf.io/). Many journals, such as [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/), or [Bio-Protocol](https://bio-protocol.org/), will publish your protocol. Best practices for publishing your protocol open access are the same as publishing your report open access \(see [Section 5](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)\).
+
+#### Protocols
+
+A protocol (sometimes called SOP for standard operational procedure) describes a formal or official record of scientific experimental observations in a structured format. Deposit virtual protocols for citation, adaptation, and reuse using [Protocols.io](https://www.protocols.io/)[io](https://www.protocols.io/). 
+
+Read-only protocols should be deposited in your disciplines registry such as [ClinicalTrials.gov](https://clinicaltrials.gov/) and [SocialScienceRegistry](https://www.socialscienceregistry.org/) or a general registry like the [Open Science framework](https://osf.io/) or Zenodo. Many journals, such as [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/), or [Bio-Protocol](https://bio-protocol.org/), will publish your protocol. Best practices for publishing your protocol open access are the same as publishing your report open access \(see [Section 5](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)\).
+
+#### hardware
+
+There is presently no standards on how you describe and share your hardware, but with the development of 3D printing and initiatives like the GOSH community, open hardware is gaining traction in the scientific community.
+
+#### Notebooks
+
+Notebook digitalisation is allowing you to make it open. Most electronic lab notebook will only allow you to publish a pdf version of your notebook, though. To achieve total openness, you may transform your notebook into a blog. Alternatively, you can use Rmarkdown or jupyter notebooks to combine your analysis with the rest of your notes and publish it as you would publish a software.
+
+#### software  
+
+Reproducible analysis is aided by the use of literate programming, container technology, and virtualization. In addition to sharing your code and data, also share your Jupyter notebooks, Docker images, or other analysis materials or software dependencies. Share code and notebooks with Open services such as [mybinder](http://mybinder.org) that allow for public viewing and execution of the entire notebook on shared resources. Containers and notebooks can be shared with [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/). Software and hardware used in your research should be shared following best practices for documentation as outlined in [Section 3](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md). 
 
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
@@ -169,14 +213,17 @@ Obstacle: Researchers may be reluctant to share their data because they are afra
 Q: "Is making my data FAIR a lot of extra work?"
 
 A: "Not necessarily! Making data FAIR is not only the responsibility of the individual researchers but of the whole group. The best way to ensure that your data is FAIR is to create a Data Management Plan and plan everything beforehand. During the data collection and data processing follow the discipline standards and measures recommended by a repository.
+The time invested in creating FAIR data is often returned manyfold during data analysis and manuscript preparation.""
 
 Q: "I want to share my data. How should I license them?"
 
 A: "That’s a good question. First of all think about who owns the data? A research funder or an institution that you work for. Then, think about authorship. Applying a suitable license to your data is crucial in order to make them reusable. For more information about licensing, please see [6. Open Licensing and File Formats](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
+But to make it short, license it CC0 if you can."
 
 Q: "I cannot make my data directly available—they are too large to share conveniently / have restrictions related to privacy issues. What should I do?"
 
 A: "You should talk to experts in domain specific repositories on how to provide sufficient instructions to make your data findable and accessible."
+"Look for a research data management helpdesk at your institution and library."
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
@@ -186,7 +233,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 
 2. Be familiar with some of the arguments for and against open data.
 
-3. Be able to differentiate and address sensitive data and opFAIR data; these two categories are not necessarily incompatible.
+3. Be able to differentiate and address sensitive data and open FAIR data; these two categories are not necessarily incompatible.
 
 4. Be able to transform a dataset into one that is sufficient for open sharing \(non-proprietary format\), meets the standards of the FAIR principles, and is designed for maximized accessibility, transparency and re-use by providing sufficient metadata.
 
@@ -236,5 +283,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 *  The FAIR Data Principles explained. [go-fair.org](https://www.go-fair.org/fair-principles/)
 
 *  5★ OPEN DATA. [5stardata.info](http://5stardata.info/en/)
+
+*  key reagent open table [reagents.io](http://reagents.io)
 
 
