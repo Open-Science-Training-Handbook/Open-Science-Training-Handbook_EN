@@ -9,7 +9,7 @@ Bringing together methods, techniques, and practices, the handbook aims at suppo
 
 ## Help us making the handbook better
 
-We welcome comments and feedback from everyone, irrespective of their expertise or background. The easiest way to do this is to use [hypothes.is](https://via.hypothes.is/https://book.fosteropenscience.eu). Also, you can create pull requests, either from within the Gitbook website or app, or with any tool you like. The handbook's content is maintained as [this GitHub repository] (https://github.com/Open-Science-Training-Handbook).
+We welcome comments and feedback from everyone, irrespective of their expertise or background. The easiest way to do this is to use [hypothes.is](https://via.hypothes.is/https://book.fosteropenscience.eu). Also, you can create pull requests, either from within the Gitbook website or app, or with any tool you like. The handbook's content is maintained as [this GitHub repository](https://github.com/Open-Science-Training-Handbook).
 
 ## Let's run an Open Science training together
 
