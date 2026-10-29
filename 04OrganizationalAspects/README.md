@@ -261,6 +261,16 @@ Will participants need access to WI-FI? Make sure that any requirements for acce
 
 Making sure that all of your equipment, media, and materials are in fully functioning order can help to avoid any embarrassing hiccups during your training. Make sure that your laptop, or the device which is hosting your material, is compatible with the media technology in the venue. Ask guest lectures for their presentations in advance and store them all on the same laptop. This will make it easier to switch from one speaker to the other. Make sure to bring any relevant adaptors or extensions. Check WiFi strength and power outlets, as well as, if the speaker and projectors work in advance, and that your file formats are supported. Make sure there is an emergency contact for technical issues.
 
+For a session that uses slides, rehearse how you will refer to a label,
+shape or location. Ask someone in the audience to identify the intended
+detail from their actual view. Include the room display and remote shared
+view where applicable. Repeat after changing slides or the shared source,
+and record an adjustment to retest if the detail was missed.
+
+An optional [blank slide-detail rehearsal record](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf)
+(CC BY 4.0, two-page PDF) provides space for the setup, intended detail,
+viewer observations and a retest. Its results start marked "Not tested".
+
 Make sure to print out any paper handouts in advance, and to have enough of them to go around. If you plan to hand out a lot of material, consider providing folders or binders to help with organization. Or, consider just making all your material available digitally via your event website.
 
 Preparing a variety of media can help engage an audience with diverse learning styles. You should prepare any teaching aids in advance (e.g, flipcharts, practical exercises, games). Bring notepads, post-it notes, pens, thumbtacks. If participants need any other computer-based materials make sure these are well-organized and available in advance.
